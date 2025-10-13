@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="969782f7-0435-4d78-b0f2-21fbb6795636" tvg-name="&flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",&flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="cb49b87c-5343-4fc7-9765-7a733ccfd382" tvg-name="9X Jalwa" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="1c39a9d5-7822-41b2-971b-3e792b34d49b" tvg-name="9XM" tvg-logo="https://9xm.in/images/logo.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="faccc4ac-cddc-4c1a-a335-62503abc43c4" tvg-name="Aaj Tak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300" tvg-type="News" tvg-country="India" tvg-language="Hindi",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="79714d3d-e1a2-419d-9d90-1f9b2d05fff0" tvg-name="Aastha Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png?width=300" tvg-type="Bhakti" tvg-country="India" tvg-language="Hindi",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3a32b0fd-51d5-4ce8-8956-635cd29104c8" tvg-name="Abzy Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#EXTINF:-1 tvg-id="defecf27-9442-4672-b2ca-6b08facfa808" tvg-name="Abzy Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Abzy-Movies.jpg" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Abzy Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF:-1 tvg-id="6188ef95-c425-4518-8c0b-c72c6ea57fc9" tvg-name="B4U Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="dbc79dc2-a890-4764-b7cd-e1ed3e436d0d" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png?width=300" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-id="e3c7bc00-6c9f-4101-b16c-c0b0430d6373" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 tvg-id="98c94351-b045-4246-8cc8-80445bb1737c" tvg-name="B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="1de229b5-4370-49b5-923c-e7e70d0ee266" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png?width=300" tvg-type="Music" tvg-country="India" tvg-language="Hindi",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="5897fb7e-9079-46db-9ed3-945f9052b13f" tvg-name="Bhojpuri Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="b05ce8d0-aa88-4e29-88e5-a03b48e3a323" tvg-name="Classic Bollywood" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Classic Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="03637d8c-e310-4028-bf76-c61a285aefce" tvg-name="DD Bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-id="70309f5b-b5a2-4c50-b9fb-d8bc6a1c49f7" tvg-name="DD Bihar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Bihar
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-id="070718f7-6945-4b95-93a7-215d065d38b3" tvg-name="DD Chhattisgarh" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FDDCG_Thumbnail-v1%2FDDCG_Thumbnail.png&w=256&q=75" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Chhattisgarh
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-id="aa575a79-bde2-42fa-b76a-70996d1f846e" tvg-name="DD National HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="5a2e3a35-d322-4934-8af3-6fff33439651" tvg-name="DD News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png?width=300" tvg-type="News" tvg-country="India" tvg-language="Hindi",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="d1bbe8da-5b4f-4992-a8b9-c441b465f2df" tvg-name="Filamchi Bhojpuri" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Filamchi-Bhojpuri_Tagline.jpg/330px-Filamchi-Bhojpuri_Tagline.jpg" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Filamchi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-id="460bccab-8238-49dd-b22c-b89e870d9d0b" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png?width=300" tvg-type="Kids" tvg-country="India" tvg-language="Hindi",Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="dccc670f-53fc-456d-b236-e9280a1e1d9d" tvg-name="Hindi Dubbed Movies" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Hindi Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="04051aa2-a158-4cc7-84cf-53dff414298e" tvg-name="Hindi Movies" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="58121327-b27c-4d26-8121-03701cbeec09" tvg-name="Music India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg" tvg-type="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-id="e8d1425b-51bf-4347-b766-244facfa0795" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Oscar Movies Bhojpuri
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-id="ccbcfb70-33a2-4c57-9714-75d9934a1e9c" tvg-name="Sheemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
