@@ -1,53 +1,397 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="969782f7-0435-4d78-b0f2-21fbb6795636" tvg-name="&flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",&flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="cb49b87c-5343-4fc7-9765-7a733ccfd382" tvg-name="9X Jalwa" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-id="1c39a9d5-7822-41b2-971b-3e792b34d49b" tvg-name="9XM" tvg-logo="https://9xm.in/images/logo.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id="faccc4ac-cddc-4c1a-a335-62503abc43c4" tvg-name="Aaj Tak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300" tvg-type="News" tvg-country="India" tvg-language="Hindi",Aaj Tak
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="79714d3d-e1a2-419d-9d90-1f9b2d05fff0" tvg-name="Aastha Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png?width=300" tvg-type="Bhakti" tvg-country="India" tvg-language="Hindi",Aastha Bhajan
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3a32b0fd-51d5-4ce8-8956-635cd29104c8" tvg-name="Abzy Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",Abzy Dhakad
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-#EXTINF:-1 tvg-id="defecf27-9442-4672-b2ca-6b08facfa808" tvg-name="Abzy Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Abzy-Movies.jpg" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Abzy Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:-1 tvg-id="6188ef95-c425-4518-8c0b-c72c6ea57fc9" tvg-name="B4U Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Bhojpuri
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="dbc79dc2-a890-4764-b7cd-e1ed3e436d0d" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png?width=300" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="e3c7bc00-6c9f-4101-b16c-c0b0430d6373" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="98c94351-b045-4246-8cc8-80445bb1737c" tvg-name="B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" tvg-type="Music" tvg-country="India" tvg-language="Hindi",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="1de229b5-4370-49b5-923c-e7e70d0ee266" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png?width=300" tvg-type="Music" tvg-country="India" tvg-language="Hindi",Balle Balle
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-id="5897fb7e-9079-46db-9ed3-945f9052b13f" tvg-name="Bhojpuri Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="b05ce8d0-aa88-4e29-88e5-a03b48e3a323" tvg-name="Classic Bollywood" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Classic Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-id="03637d8c-e310-4028-bf76-c61a285aefce" tvg-name="DD Bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Bharati
+#EXTINF:-1 tvg-id="2231b965-57ad-4717-abcb-ebfeef8823f7" tvg-name="DD Bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-id="70309f5b-b5a2-4c50-b9fb-d8bc6a1c49f7" tvg-name="DD Bihar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Bihar
+#EXTINF:-1 tvg-id="9382e84f-c143-4f90-8361-003de28e6154" tvg-name="DD Bihar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Bihar
 https://cdn-4.pishow.tv/live/35/master.m3u8
-#EXTINF:-1 tvg-id="070718f7-6945-4b95-93a7-215d065d38b3" tvg-name="DD Chhattisgarh" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FDDCG_Thumbnail-v1%2FDDCG_Thumbnail.png&w=256&q=75" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD Chhattisgarh
+#EXTINF:-1 tvg-id="31fbb6e7-fa0d-4643-9b01-c757976cbe93" tvg-name="DD Chhattisgarh" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FDDCG_Thumbnail-v1%2FDDCG_Thumbnail.png&w=256&q=75" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Chhattisgarh
 https://cdn-1.pishow.tv/live/15/master.m3u8
-#EXTINF:-1 tvg-id="aa575a79-bde2-42fa-b76a-70996d1f846e" tvg-name="DD National HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png?width=300" tvg-type="Entertainment" tvg-country="India" tvg-language="Hindi",DD National HD
+#EXTINF:-1 tvg-id="2afc5275-5c65-48e7-82d5-584523a07cfb" tvg-name="DD Gyandarshan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Gyandarshan
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 tvg-id="c946ef42-36af-40d4-91d7-7a3415b19635" tvg-name="DD Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Doordarshan_Jharkhand.jpg" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Jharkhand
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+#EXTINF:-1 tvg-id="6029b962-c301-474b-a938-243be558d666" tvg-name="DD Kisan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-id="626c2eee-faf3-4059-a41e-c10c7bd805ce" tvg-name="DD Madhya Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Madhya Pradesh
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 tvg-id="c810e0ed-b31e-4f5f-b779-88d06925d94f" tvg-name="DD National HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="5a2e3a35-d322-4934-8af3-6fff33439651" tvg-name="DD News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png?width=300" tvg-type="News" tvg-country="India" tvg-language="Hindi",DD News
+#EXTINF:-1 tvg-id="adb45c3f-f029-4f90-b2aa-1eb164cd8bfe" tvg-name="DD News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="d1bbe8da-5b4f-4992-a8b9-c441b465f2df" tvg-name="Filamchi Bhojpuri" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Filamchi-Bhojpuri_Tagline.jpg/330px-Filamchi-Bhojpuri_Tagline.jpg" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Filamchi Bhojpuri
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-id="460bccab-8238-49dd-b22c-b89e870d9d0b" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png?width=300" tvg-type="Kids" tvg-country="India" tvg-language="Hindi",Gubbare
+#EXTINF:-1 tvg-id="2e27131e-7de2-4aa6-ae9b-709a68f5f90e" tvg-name="DD Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Rajasthan
+https://cdn-1.pishow.tv/live/34/master.m3u8
+#EXTINF:-1 tvg-id="858cebf1-27e0-466c-ae2f-7702668f9b0f" tvg-name="DD Sahyadri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-id="6c3bf3c7-8e46-4954-ae95-6717be834df0" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="4927f05a-a30e-4ecc-818e-a5dfe0a71498" tvg-name="DD Uttar Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Uttar Pradesh
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-id="977c078b-ff4c-448b-bde7-3515f1eb0c84" tvg-name="DD Uttarakhand" tvg-logo="https://yt3.googleusercontent.com/Yb4WQsxU0hYfLyn8suz4MoGmjLexRi1rx0n4eXD8Q7nDlCPwjzkk1I0JSax0XTyMv1UpK-MwxQ=s160-c-k-c0x00ffffff-no-rj" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",DD Uttarakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:-1 tvg-id="e4f2e8e7-f5ec-4f00-bd9e-026f2f9e4c2a" tvg-name="Lok Sabha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",Lok Sabha TV
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-id="36255ff9-5c83-400b-bf2d-488fdacde463" tvg-name="Rajya Sabha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png?width=300" tvg-type="Doordarshan" tvg-country="IN" tvg-language="Hindi",Rajya Sabha TV
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-id="510291b3-92bd-49ad-a6eb-203e50f3a141" tvg-name="Abzy Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#EXTINF:-1 tvg-id="6f3b7559-596a-4a6b-98c2-dbc3926412b8" tvg-name="Dabangg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png?width=300" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Dabangg
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#EXTINF:-1 tvg-id="c1540f31-f4a5-4e8b-96b1-ba9520cb9b99" tvg-name="Dangal 2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="18b4a309-7015-4c8d-b05d-cbdb66e9f31b" tvg-name="Dangal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="9c129c23-2249-4c21-96cb-2abfd3ca61c4" tvg-name="Ishara TV" tvg-logo="https://source.epicon.in/epicon/assets/images/ishara-logo.png" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Ishara TV
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:-1 tvg-id="d4d7d234-5c15-40be-808b-30ac620c4d36" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png?width=300" tvg-type="Entertainment" tvg-country="IN" tvg-language="Hindi",Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-id="bf639ca6-e572-4479-9756-8e536533631b" tvg-name="4K Travel" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" tvg-type="Infotainment" tvg-country="IN" tvg-language="English",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="0d40c23f-6eeb-4d49-8ae4-989b258513ab" tvg-name="BBC Earth US" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" tvg-type="Infotainment" tvg-country="US" tvg-language="English",BBC Earth US
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="15b271f5-901e-47fe-a8d5-0a2eb5866364" tvg-name="Epic TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png?width=300" tvg-type="Infotainment" tvg-country="IN" tvg-language="Hindi",Epic TV
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-id="fae355c0-7bd8-4fe7-8c30-e84482c9a464" tvg-name="Goa365" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png?width=300" tvg-type="Infotainment" tvg-country="IN" tvg-language="English",Goa365
+https://ktismaservers.in:3086/live/goa365live.m3u8
+#EXTINF:-1 tvg-id="509704c4-2864-4b57-a7fc-ab2cc3de453f" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png?width=300" tvg-type="Infotainment" tvg-country="IN" tvg-language="English",History TV18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="3ff57a5d-d2be-41c5-9218-37fa214ccbfa" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png?width=300" tvg-type="Infotainment" tvg-country="IN" tvg-language="Hindi",History TV18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9a7a867d-c446-4767-9484-aca655e27f64" tvg-name="Wild Earth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png?width=300" tvg-type="Infotainment" tvg-country="IN" tvg-language="Hindi",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="4e0ca709-a965-459f-9f42-f86d24e8ec94" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1920px-Animax_logo.svg.png" tvg-type="Kids" tvg-country="JP" tvg-language="Japanese",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="e346e270-f57d-4c99-b5e6-6fe0c2167b02" tvg-name="Baby First" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" tvg-type="Kids" tvg-country="IN" tvg-language="English",Baby First
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="ee1e14c3-16ee-4120-bc7a-31a0ebb13709" tvg-name="Baby Shark TV (AU)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" tvg-type="Kids" tvg-country="AU" tvg-language="English",Baby Shark TV (AU)
+https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0000c6d9-bb51-4c8b-99fe-9699ca98e5b5" tvg-name="Baby Shark TV (CA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" tvg-type="Kids" tvg-country="CA" tvg-language="English",Baby Shark TV (CA)
+https://newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="f5bb7312-4c65-4d02-ab81-543b2eca7487" tvg-name="Baby Shark TV (GB)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" tvg-type="Kids" tvg-country="GB" tvg-language="English",Baby Shark TV (GB)
+https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c85ce00a-b3be-4014-97ad-5c1d9b7c1dcd" tvg-name="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" tvg-type="Kids" tvg-country="IN" tvg-language="English",Car City Adventures
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="46d3f7e7-3ed7-40c0-ad85-c01263daa8a8" tvg-name="Cartoon Network" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png?width=300" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-id="25cc4da9-ea84-4235-b045-508d6f9297a3" tvg-name="Discovery Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png?width=300" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-id="e00ee7fb-51d0-4a8a-be02-4ceed11a6a1e" tvg-name="Doremon" tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-PNG-Transparent-Image.png" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Doremon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-id="588e207b-90b4-49d8-ac80-95fb301bd0a4" tvg-name="Duck TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/Duck_TV_%282011-.n.v.%29.png" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="bf210b5c-1867-4cf2-ae8f-aa9308673fcf" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png?width=300" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="dccc670f-53fc-456d-b236-e9280a1e1d9d" tvg-name="Hindi Dubbed Movies" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Hindi Dubbed Movies
+#EXTINF:-1 tvg-id="c8f654b9-6141-4293-a315-8d54378a91cf" tvg-name="Hi Dost!" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png?width=300" tvg-type="Kids" tvg-country="IN" tvg-language="English",Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 tvg-id="bdb89155-fb68-4ee1-b927-1b5ceec144e8" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="1a0bc761-6296-48b1-aae3-4d211986e202" tvg-name="Kids Flix (US)" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/img/header.png" tvg-type="Kids" tvg-country="IN" tvg-language="English",Kids Flix (US)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="f423e3f3-c8ad-41e9-aa4b-4a130a129eff" tvg-name="Manoranjan Grand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Manoranjan-Grand.jpeg" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-id="eabc77f2-13f1-4c57-b802-0ac6d011ce0d" tvg-name="Manoranjan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:-1 tvg-id="58c41564-3109-4550-9248-20004f6e6e35" tvg-name="Motu Patlu" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-id="0119a8ad-9065-46b9-885c-4d34ffaecb38" tvg-name="Mr Bean Animated (IT)" tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" tvg-type="Kids" tvg-country="IT" tvg-language="English",Mr Bean Animated (IT)
+https://amg00627-amg00627c29-xiaomi-international-4920.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="5763c66a-96a8-42b2-97c0-c81fc3dbd4f2" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/800px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="Kids" tvg-country="IN" tvg-language="Hindi",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="55ff8fbf-ba91-49d7-997f-80bbddcc71ca" tvg-name="Toon Googles" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png" tvg-type="Kids" tvg-country="IN" tvg-language="English",Toon Googles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-id="9587ee23-ce7b-46db-8dad-1c7f3365c865" tvg-name="ToonzKids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png" tvg-type="Kids" tvg-country="IN" tvg-language="English",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-id="4c8ff92d-74fb-4e6d-b4fc-76466a58d476" tvg-name="Zoo Moo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png" tvg-type="Kids" tvg-country="IN" tvg-language="English",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="5278114d-4f17-46d1-b91d-3e2e36c0e365" tvg-name="&flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",&flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="ba39cc08-d667-4cee-8a3b-13a0d4bebffd" tvg-name="Abzy Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Abzy-Movies.jpg" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Abzy Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF:-1 tvg-id="5f9f8143-84c1-4404-8cb2-5a641490ff25" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" tvg-type="Movies" tvg-country="US" tvg-language="English",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="e9539373-40b3-4fa3-8ea2-9ab1afc7d612" tvg-name="B4U Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png?width=300" tvg-type="Movies" tvg-country="IN" tvg-language="Bhojpuri",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="9da612f7-ae61-4345-8175-1167390fe2ca" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png?width=300" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-id="b3025b57-8d0f-4c2a-a388-8b6687bb58d5" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 tvg-id="f4d0335a-424e-4cd5-9851-fa9baff1886f" tvg-name="Bhojpuri Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-type="Movies" tvg-country="IN" tvg-language="Bhojpuri",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="8e59cb61-1744-418c-b9c6-9df5a630744c" tvg-name="Bollywood Classic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="e4da08ad-24f5-4ff7-8955-df03d1f10cdd" tvg-name="Bollywood HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="bfd52ce4-b276-460e-8b89-6fd8ab3fd6ea" tvg-name="Fakt Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fakt_Marathi.png?width=300" tvg-type="Movies" tvg-country="IN" tvg-language="Marathi",Fakt Marathi
+https://cdn-6.pishow.tv/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="52640e44-d262-4909-8c34-6794f850276a" tvg-name="Filamchi Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png?width=300" tvg-type="Movies" tvg-country="IN" tvg-language="Bhojpuri",Filamchi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-id="58bf625f-0563-4096-8157-e5363096d932" tvg-name="Goldmines" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="72af14f1-47d2-474e-91bb-8686124c4b3a" tvg-name="Goldmines Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s160-c-k-c0x00ffffff-no-rj" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="270c53f8-e22b-48fd-8dc0-43057187c19b" tvg-name="Goldmines Movies 2" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s160-c-k-c0x00ffffff-no-rj" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="66092010-a162-4490-8928-6069635e7be7" tvg-name="Hindi Dubbed Movies" tvg-logo="https://yt3.googleusercontent.com/ma13NvmwpTI7HR6PZ66Zdiuu0YZXZyBTCwxi0NxsWZmMPVQVAICeHoMI7ndIxI4DqNfcRKGw=s160-c-k-c0x00ffffff-no-rj" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Hindi Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-id="04051aa2-a158-4cc7-84cf-53dff414298e" tvg-name="Hindi Movies" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Hindi Movies
+#EXTINF:-1 tvg-id="be252c6a-be04-4224-b7c5-6f71fd7d9e7f" tvg-name="Hindi Movies" tvg-logo="https://m.media-amazon.com/images/I/41GAJNYIDbL.png" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-id="58121327-b27c-4d26-8121-03701cbeec09" tvg-name="Music India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg" tvg-type="Music",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="e8d1425b-51bf-4347-b766-244facfa0795" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-type="Movies" tvg-country="India" tvg-language="Bhojpuri",Oscar Movies Bhojpuri
+#EXTINF:-1 tvg-id="c8cc420c-1c3f-452f-ac5c-7876a3ecaf2e" tvg-name="Movie Sphere" tvg-logo="https://moviespheregold.com/assets/img/MovieSphereGold/Moviesphere-Gold-logo-Schedule-Section.png" tvg-type="Movies" tvg-country="IN" tvg-language="English",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="61edf9b0-1f27-4328-95c7-8219327a25a4" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-type="Movies" tvg-country="IN" tvg-language="Bhojpuri",Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1 tvg-id="ccbcfb70-33a2-4c57-9714-75d9934a1e9c" tvg-name="Sheemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300" tvg-type="Movies" tvg-country="India" tvg-language="Hindi",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="b1a6b72e-2ea0-4fa1-9357-eb7825cb03c1" tvg-name="Rakuten TV - Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="Movies" tvg-country="IN" tvg-language="English",Rakuten TV - Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="48a8c792-9162-431b-a265-24245b3862b9" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="9fb96fcc-e271-46f6-a305-b9c4df40cc86" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Zee_Cinema_2025.svg" tvg-type="Movies" tvg-country="IN" tvg-language="Hindi",Zee Cinema
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-id="0df7559d-d802-4b42-8767-551060811042" tvg-name="9X Jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="5b37a922-2008-489d-84f8-681c150f5bce" tvg-name="9XM" tvg-logo="https://9xm.in/images/logo.png" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="fa308eaf-6ced-4fd7-970f-321bf5699ee3" tvg-name="9x Jhakaas" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",9x Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="ea9a2a6e-eace-49b0-a5f3-207872a8e9eb" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="f2b49b3d-eb7b-42c9-bbae-c114d790b362" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="9256b69d-1c9e-4482-9d8a-e6f4d695121a" tvg-name="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5dcc2787-4ca1-409b-989d-35ff82b6fa07" tvg-name="Joo Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="af2d6b28-19aa-442d-9cf5-331a0f86ac0b" tvg-name="Mastii" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",Mastii
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+#EXTINF:-1 tvg-id="7900c63a-2954-4bda-bcb2-118bf740bfc6" tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-id="96f63371-4288-4ad3-ba6e-cb60c9f0a512" tvg-name="Nazara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",Nazara
+https://epiconvh.akamaized.net/live/nazara/master_480.m3u8
+#EXTINF:-1 tvg-id="8c0399ee-a437-460b-bf96-625fdedaf5ac" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Marathi",Sangeet Marathi
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+#EXTINF:-1 tvg-id="88d421d9-1a5f-4fc8-a27c-050c459768aa" tvg-name="ShadowBox" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/00/ShowBox_TV_logo.png" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",ShadowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 tvg-id="11536c9c-10ad-43ff-86f2-f219f2b7b516" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="Hindi",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="24f1ac25-bc83-4fff-b404-8e07b75d7548" tvg-name="Zoom" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png?width=300" tvg-type="Music" tvg-country="IN" tvg-language="English",Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="c14963ce-d321-434b-a3a3-27a003f915d8" tvg-name="ABP Ganga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",ABP Ganga
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
+#EXTINF:-1 tvg-id="84a365cb-5fa2-449b-a3a9-9ba52e514c34" tvg-name="ABP Majha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Marathi",ABP Majha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
+#EXTINF:-1 tvg-id="af0cc238-af1c-46a8-a725-0aec4364c8e1" tvg-name="ABP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+#EXTINF:-1 tvg-id="b348cb79-9d03-48e6-9d76-aabb15533bd9" tvg-name="Aaj Tak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="92b331d1-25a1-4518-b34c-000ee700f197" tvg-name="BBC World" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" tvg-type="News" tvg-country="IN" tvg-language="English",BBC World
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="433c5836-c003-4d1f-9e01-d80097866722" tvg-name="Bharat Express" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Express.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+#EXTINF:-1 tvg-id="d19d6c6c-3fd6-4c64-a2e1-b4bac7ae3911" tvg-name="CNBC TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv_18.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",CNBC TV18
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
+#EXTINF:-1 tvg-id="22be789c-be68-4e0a-85f2-1cea2becefaa" tvg-name="CNN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="e62c15b7-80fa-4be7-a491-8efb3c5a1747" tvg-name="CVR English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_English.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",CVR English
+https://cdn-2.pishow.tv/live/425/master.m3u8
+#EXTINF:-1 tvg-id="677f7a95-c3b2-49a9-9b99-34097e322022" tvg-name="DW News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="1f729dc6-7710-4a42-b6ff-7628074f600f" tvg-name="ET Now Swadesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="01275704-730f-47ce-b872-eb1e23685de5" tvg-name="First India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/First_India_News.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="4af39775-155c-418a-8244-f747057620f8" tvg-name="Good News Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Good News Today
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+#EXTINF:-1 tvg-id="c6e4b975-0975-42fa-949f-90a9143089ff" tvg-name="IBC 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBC-24.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",IBC 24
+https://cdn-3.pishow.tv/live/220/master.m3u8
+#EXTINF:-1 tvg-id="65f30628-684c-4360-bbb1-9fc4e660d0d2" tvg-name="INH 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/INH_24x7.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",INH 24x7
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="993533e6-15ec-44bb-830c-d2001550aa2e" tvg-name="India Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="0c904752-4099-4df3-8f44-94d8bd56e61f" tvg-name="Living India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Living_India_News.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Living India News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
+#EXTINF:-1 tvg-id="07091f43-4004-4808-904e-16ea76839e57" tvg-name="Maiboli " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Marathi",Maiboli 
+https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+#EXTINF:-1 tvg-id="e739c0da-59e8-4b43-b9c7-582146714c2b" tvg-name="NDTV 24X7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="275d61cf-569c-48d5-a72b-1b9c4b337171" tvg-name="NDTV Good Times" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="70d56db1-b75c-415d-8c63-6a6018e3f616" tvg-name="NDTV India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="daf157dd-1c81-498d-abdd-bfe2bbb5a8d0" tvg-name="News 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="47799459-19c2-4946-8953-1b69b3e80f9b" tvg-name="News Nation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-id="a12963fe-2663-45c6-bbef-9b07041c3cf0" tvg-name="Republic TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 tvg-id="0af58b3b-fab0-46d3-b0ad-abc83d303c4d" tvg-name="Repulic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Repulic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+#EXTINF:-1 tvg-id="894fdaec-35e6-42d0-b8a1-08e5e125e0c3" tvg-name="Saam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Marathi",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+#EXTINF:-1 tvg-id="d40141b0-6b77-4344-b42a-fa246a056be2" tvg-name="Sadhna Plus News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7efe069f-3195-4b56-b31f-626361322054" tvg-name="TV9 Marathi" tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd=w240-h480-rw" tvg-type="News" tvg-country="IN" tvg-language="Marathi",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="5445029f-9e4d-4042-8d58-010501f3b676" tvg-name="Times Now Navbharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Times Now Navbharat
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="6007354e-52bd-4987-ae16-e50965364591" tvg-name="WION" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="English",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="3c52b597-a772-4721-8aad-a9d3c3242aaf" tvg-name="Zee 24 Taas" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Marathi",Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="1d6b678e-5d55-472b-b142-cebd5739a04f" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Purvaiya.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Bihar Jharkhand
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 tvg-id="5489c0ba-b39f-421b-a4a0-4b264e59d2ec" tvg-name="Zee Bollymovies" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollymovies-in.png" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2d0d149b-44f9-41c8-b2ed-271a0139d13b" tvg-name="Zee Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Business
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="788d8b78-cced-4967-8cf0-9024d3e22fd3" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Delhi NCR Haryana
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+#EXTINF:-1 tvg-id="2e6f7c2d-efbc-466f-b068-a67c190677bc" tvg-name="Zee Hindustan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/769e6c52-4428-4dcb-9a6f-e9fb8794e268/2.m3u8
+#EXTINF:-1 tvg-id="241d7106-540f-49b9-892f-9af3157bf461" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-logo="https://yt3.googleusercontent.com/yTIy-oADsKUGbdR92P3exxP-2HpRNbxvQtz6En_2bJ1pyIgfw400ibfNErg0SXBsVGKAU1FCRA=s160-c-k-c0x00ffffff-no-rj" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Madhya Pradesh Chhattisgarh
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+#EXTINF:-1 tvg-id="27e1058f-3899-4d68-8040-9ad095f97e9f" tvg-name="Zee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="b129ed63-8ac1-42c3-9bb9-0f3341068740" tvg-name="Zee Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan.png?width=300" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Rajasthan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+#EXTINF:-1 tvg-id="024d53c8-51c8-4c76-9e26-0d9852b2c6f8" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://yt3.googleusercontent.com/RGYHJ4OhvOrua3CqiKx_JA83hwVIkC9y1sQeZM0GIyGvy45SBYwikTfWheVkMaFwftl6ZdHrcQ=s160-c-k-c0x00ffffff-no-rj" tvg-type="News" tvg-country="IN" tvg-language="Hindi",Zee Uttar Pradesh/Uttarakhand
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-id="0a8ce577-94a5-4c80-bd1b-af15c67edc15" tvg-name="Aastha Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png?width=300" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0592dea6-953a-4d30-8c62-71f4f742634f" tvg-name="Aastha HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Aastha HD
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2578ae8c-da36-439d-abff-5adced5e38dc" tvg-name="Astha Prime" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/180/content/common/channel/logos/txbmsf.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Astha Prime
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="f47a65ae-aab5-46d3-8d84-fb26beaf5137" tvg-name="Dharm Sandesh" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Dharm Sandesh
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="f1315684-cd0f-4b45-90d6-e7648a3f1fb6" tvg-name="Divya TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Divya TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+#EXTINF:-1 tvg-id="8b64b051-4e74-45b6-997a-63b77671159a" tvg-name="Ishwar TV" tvg-logo="https://yt3.googleusercontent.com/lJu5q0PvotxbP5FajcvDN9XnifrlIYfuNm32wyToFDPsbGISf_K1r57O-qm6yMq1l9rQQeBDpA=s160-c-k-c0x00ffffff-no-rj" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Ishwar TV
+https://cdn-2.pishow.tv/live/1464/master.m3u8
+#EXTINF:-1 tvg-id="4d013bfc-2853-43a8-9118-71ab7e418990" tvg-name="Sadhna" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png?width=300" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Sadhna
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="f7c30c5b-697b-4480-ab59-e434cef93d89" tvg-name="Sanskar (UK)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png?width=300" tvg-type="Spiritual" tvg-country="UK" tvg-language="Hindi",Sanskar (UK)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+#EXTINF:-1 tvg-id="da934050-b7ef-4716-83bc-1eeaa592354d" tvg-name="Sanskar (US)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png?width=300" tvg-type="Spiritual" tvg-country="US" tvg-language="Hindi",Sanskar (US)
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF:-1 tvg-id="5deb78d2-f0bc-4362-9cc3-c898497a0486" tvg-name="Sanskar Digital" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6996SANSKAR_DIGITAL.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Sanskar Digital
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF:-1 tvg-id="6de9efd0-a104-4f56-b26c-6e89e0f69e30" tvg-name="Sanskar TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png?width=300" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="645a865c-6f12-4be1-9089-73f1346de2e1" tvg-name="Satsang Digital" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/3269519SATSANG_DIGITAL_LOGO.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Satsang Digital
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 tvg-id="8cda837f-d2ee-4dd0-bc0f-eaca2b24fba9" tvg-name="Satsang TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Satsang_TV.png?width=300" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="f8f2f853-ebd7-4e1c-b41b-ab3203b5b1e0" tvg-name="Shubh Cinema" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/4964141subh_cinema_logo_new.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Shubh Cinema
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+#EXTINF:-1 tvg-id="47413e7a-38ec-42b7-968b-291553b4986c" tvg-name="Shubh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png?width=300" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Shubh TV
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+#EXTINF:-1 tvg-id="d41c245d-ecca-4dbc-ac8f-a140a0f37daa" tvg-name="Total Bhakti" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5802371total_bhakti_hd.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+#EXTINF:-1 tvg-id="7d82225c-d86b-444e-9a24-f722bc656480" tvg-name="Vedic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png" tvg-type="Spiritual" tvg-country="IN" tvg-language="Hindi",Vedic
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0e9a4024-3665-4cc0-bd8c-f1c33f49f63f" tvg-name="All The Best 2009" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5bd3ccb26549b67c6027d72fc7e84c09/en/2x3/312x468/test_pic1734169387446.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",All The Best 2009
+https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="51dffdbe-4182-48eb-b817-ace89cb55a72" tvg-name="Allegiant 2016" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c77b1e47b928f018742e8e9119e4cc01/en/2x3/312x468/38357cc3bcc551d45983081b3f7cae83_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Allegiant 2016
+https://d3sgzbosmwirao.cloudfront.net/video/64788368b8221803185c64755e406198/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="b2f3677b-023f-42a9-a41e-2b0390de7bc9" tvg-name="Andaaz 2003" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1c212c078fa00325fc5d14e571821833/en/2x3/480x720/test_pic1734091157312_badged_1734958419640.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Andaaz 2003
+https://d3sgzbosmwirao.cloudfront.net/video/87be69c52a1b8701734394bd43d784635d8c188641e55fef279fca48d0aa1eff/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="ebdace95-5c22-4669-86c1-09694b052121" tvg-name="Anwar 2007" tvg-logo="https://qqcdnpictest.mxplay.com/pic/208b660662be88e1ed36ab2e92c2ca53/en/2x3/312x468/test_pic1734094217647.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Anwar 2007
+https://d3sgzbosmwirao.cloudfront.net/video/11a3dae373d85747d78a37b01ac4734ee9c99022a39632a7df8e6f18834f9b70/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="e7309095-0d69-4bba-8d7b-7f2dff1ced36" tvg-name="Automata 2014" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c920c47e313e5a2dcce677b686806332/en/2x3/312x468/61de366fd17170857272d376d33145a5_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Automata 2014
+https://d3sgzbosmwirao.cloudfront.net/video/b8f33f1f42a11ed1603018d9a8d954b7/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="f852e224-a03c-431c-acef-92aba074e650" tvg-name="Bhagam Bhaag 2006" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2f3d81ec4536a5e4b881d6057c5698d/en/2x3/312x468/test_pic1733467299246.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Bhagam Bhaag 2006
+https://d3sgzbosmwirao.cloudfront.net/video/0708af01ab647d6674fa1f948fc55a3be3275da20efc9a7d6f16dad787d0d798/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="4136cfb5-866e-4ae8-96c0-07838153f030" tvg-name="Chhorii 2021" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/2x3/312x468/test_pic1738931102928.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Chhorii 2021
+https://d3s0ximcru5bdx.cloudfront.net/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1-1734073865064/cmaf/H_264/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1/abundantia-AB_CHHORII_2021-Full-Mezz_UHD-hi-IN-R1.m3u8
+#EXTINF:-1 tvg-id="ea58f9be-a20e-495a-9065-9287e930ae5a" tvg-name="Dedh Ishqiya 2014" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bd3117f2eb110775795c0232cee15f32/en/2x3/312x468/test_pic1740039361452.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Dedh Ishqiya 2014
+https://d3sgzbosmwirao.cloudfront.net/video/8ed48707fccb2650bb768a07d19560bf325d658bb4914411250d4257e21c58cb/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="f642ae2f-16ea-438a-84ad-eb690b609b86" tvg-name="Dhrishyam 2 2022" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2c580670b2104d156e2d9a3fd42a413e/en/2x3/312x468/test_pic1736411396725_badged_1742965225005.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Dhrishyam 2 2022
+https://d3s0ximcru5bdx.cloudfront.net/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN-1735550437504/cmaf/H_264/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN/adf-ADF_DHRISHYAM2_22-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="becaf7d3-a679-423a-9185-ef037d2841a6" tvg-name="Dil Hai Tumhara 2002" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5f6b7ad6158ebadcdbd5107ebe3d3d9d/en/2x3/312x468/test_pic1733467638205.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Dil Hai Tumhara 2002
+https://d3sgzbosmwirao.cloudfront.net/video/a0e779d3e5acbec83f1abd077c162ffda7111b67e5a0d9818973826169481bb6/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="132b4364-8840-4c2c-b472-98cb5b15df88" tvg-name="Divergent 2014" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5724f03aab4d9b208f3397bdf42fa855/en/2x3/312x468/5e0627aaa20e76fb1ca566d469306f6b_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Divergent 2014
+https://d3sgzbosmwirao.cloudfront.net/video/4b6be1b4e863de2b0277ec78fb3962eb/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="0e560816-6aac-4bac-899a-5c051b17d299" tvg-name="Diwane Hue Pagal 2005" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0c9a04676dc61baefd52689597ee18e9/en/2x3/312x468/test_pic1734091278814.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Diwane Hue Pagal 2005
+https://d3sgzbosmwirao.cloudfront.net/video/bfc611f3a3705d1a8cd27ee2db57c712323a8b397dd7e2852e7ab06ab27b0e5b/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="f1b7aff4-b9c9-4354-ba56-d97636608ad3" tvg-name="Dosti 2005" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b0d32d5e9aace0cf921d7f9b488f4b65/en/2x3/312x468/test_pic1734089669456.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Dosti 2005
+https://d3sgzbosmwirao.cloudfront.net/video/4cb3f0233ddf9692f551c928f643e6e1e216ff135528cb6b011c9e4096a06f19/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="c5a1a293-1b87-45cc-827d-4ea162d2db73" tvg-name="Dus 2005" tvg-logo="https://qqcdnpictest.mxplay.com/pic/630b4cd7d54ff445c4f209529ede0e0c/en/2x3/312x468/test_pic1734089624667.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Dus 2005
+https://d3sgzbosmwirao.cloudfront.net/video/707f6533f2a5232eb5b0c2fdce7956c5cdd3368bf1d08ebe831b0203fc4b53c8/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="41d9b0c1-3f30-47d6-9bbc-f836434406c6" tvg-name="Golmaal 2006" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8ed2c343f565ee0a5821203db2f8b2c9/en/2x3/312x468/test_pic1733467897757.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Golmaal 2006
+https://d3sgzbosmwirao.cloudfront.net/video/c826462db6dbc228509f642d220acc04a72b2d29168ed1f903f9faa2c75361f7/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="cb864177-f897-43e0-b869-c42f251ba51d" tvg-name="Golmaal Returns 2008" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5cdce6be9d936a034839ca5c2770e209/en/2x3/312x468/test_pic1733468034828.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Golmaal Returns 2008
+https://d3sgzbosmwirao.cloudfront.net/video/2de38bdff11a81652172e0053702ae3bcecfd2667ce7da083cdd51ca1d068ce2/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="e9195387-32b5-413f-9f88-60a838a5928e" tvg-name="Har Dil Jo Pyar Karega 2000" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1dd37d2c7c41643e5677128f678fbe5b/en/2x3/312x468/test_pic1734087085862_badged_1734958463361.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Har Dil Jo Pyar Karega 2000
+https://d3sgzbosmwirao.cloudfront.net/video/54d6a3028a739e60d112c86d367c91b0ada29c03c2d1d953a82882cb09f0216b/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="0a768225-efb7-4515-97ba-fcb5522ba3b0" tvg-name="Highway 2014" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f2dfad5b6e7488c6bbf8dac114b463a9/en/2x3/480x720/test_pic1733468518119.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Highway 2014
+https://d3sgzbosmwirao.cloudfront.net/video/0a16c1433003d70d27bdbef35adcc40dd07de9bf65a899ebbc34b5961d53f4e4/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="b8f649e0-c74b-430a-9204-cbe24b462d04" tvg-name="Hindustan Ki Kasam 1999" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1219f962f13ea39fe005561d0254f677/en/2x3/480x720/e96cf092dbd4eaa15970329aa8e27f72_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Hindustan Ki Kasam 1999
+https://d3sgzbosmwirao.cloudfront.net/video/0404add690a76490d58811057f45c005/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="00e3743c-a565-4c24-abb0-aebbbf5e52b4" tvg-name="Housefull 2" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f11cec31eff8ae5a0984017b3c252e02/en/2x3/312x468/test_pic1733468574850.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Housefull 2
+https://d3sgzbosmwirao.cloudfront.net/video/5729040e90016403200cd84f5a2c847218ab0676f11733ea0292d3d4a8540136/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="b76a0b36-0146-40bd-9683-856b17129a9a" tvg-name="Housefull 2 2012" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f11cec31eff8ae5a0984017b3c252e02/en/2x3/480x720/test_pic1733468574850.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Housefull 2 2012
+https://d3sgzbosmwirao.cloudfront.net/video/5729040e90016403200cd84f5a2c847218ab0676f11733ea0292d3d4a8540136/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="484e73ca-c92d-461c-b2f9-7b9390e2fc0a" tvg-name="Hum 1991" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3a8bec452763b760a7405b410a958bbb/en/2x3/480x720/test_pic1614589587122.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Hum 1991
+https://d3sgzbosmwirao.cloudfront.net/video/abbe0823ed6979db8de41db2c21c6752/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="33fc656f-e75e-480e-b261-6f7240e07c20" tvg-name="Hum Kisi Se Kam Nahin 2002" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bfd72098d8e06e3f17bc9ac33e64a7f7/en/2x3/480x720/test_pic1734084489700.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Hum Kisi Se Kam Nahin 2002
+https://d3sgzbosmwirao.cloudfront.net/video/79b9249b00bfb62134d636ee8e40b8b0d356a22c2e2608e338bdaac32e76f76e/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="368e9eee-7088-404e-9b12-2a39a05198fb" tvg-name="Humko Tumse Pyar Hai 2006" tvg-logo="https://qqcdnpictest.mxplay.com/pic/899579c4db3448f5a1904b39a82e3233/en/2x3/480x720/test_pic1734091339803.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Humko Tumse Pyar Hai 2006
+https://d3sgzbosmwirao.cloudfront.net/video/2f6bf7d45abd7a58a927a43b8822987239663a2d00a943718f783d1dfcaea308/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="9ac1851c-c5b3-4f08-81af-92803a119a73" tvg-name="Insurgent 2015" tvg-logo="https://qqcdnpictest.mxplay.com/pic/fb23d646be9f4501ce73b62fcb2a5065/en/2x3/312x468/67725d61c649e1758cbcc2e2705d533e_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Insurgent 2015
+https://d3sgzbosmwirao.cloudfront.net/video/5db68319b7508a580d12c40fa5a6f04a/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="60c8cea2-42a3-476b-a629-ad4c9661908c" tvg-name="Ishqiya 2010" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6a36663ad698d7b5f013d8a5249d491a/en/2x3/312x468/test_pic1734091608576.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Ishqiya 2010
+https://d3sgzbosmwirao.cloudfront.net/video/1113d8483d703dc799676fda3bdafbde2742f5a8fa4ee151ba3a9147209058f0/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="b6a0b467-1734-41aa-b9d1-4b342d09652f" tvg-name="JJJ 2022" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7aca3e48726408076d74ac79f7bf73d7/en/2x3/480x720/test_pic1740041732949.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",JJJ 2022
+https://d3s0ximcru5bdx.cloudfront.net/JJJ_22-Full-Mezz_UHD-hi-IN-1731434552415/cmaf/H_264/JJJ_22-Full-Mezz_UHD-hi-IN/viacom18-VIACOM_JJJ_22-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="ebe780bf-21e4-4e8f-9d54-a53386306f73" tvg-name="Jawani Janeman 2020" tvg-logo="https://qqcdnpictest.mxplay.com/pic/051c6a1c30af3c47552e7da346ead5d0/en/2x3/312x468/test_pic1738931036801.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Jawani Janeman 2020
+https://d3s0ximcru5bdx.cloudfront.net/JJ_2020-Full-Mezz_HD-hi-IN-1733937456129/cmaf/H_264/JJ_2020-Full-Mezz_HD-hi-IN/poojaent-POOJA_JJ_2020-Full-Mezz_HD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="3e1452c7-8cc5-4cb0-8ff7-da5ae8331b4b" tvg-name="KMJNB 2001" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8ab7bc3c4b3a49d9fa1e1edba792e4fe/en/2x3/480x720/test_pic1734167434218.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",KMJNB 2001
+https://d3sgzbosmwirao.cloudfront.net/video/4efbace378fd023cd57538b2f7d5f107feecff8bcd266845c4c0391f9757dad6/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="f2f6f861-8359-448b-bc77-016294763f22" tvg-name="Kaithi 2020" tvg-logo="https://qqcdnpictest.mxplay.com/pic/039664d4d85c603cfb5a6cd66b9e29ec/en/2x3/312x468/157d8d28c0198ea13078cd2eadb14f45_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Kaithi 2020
+https://d3sgzbosmwirao.cloudfront.net/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="86b930a7-725a-400f-9cba-23cdcdd1d9c6" tvg-name="Khatta Meetha 2010" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2371fd7caaf330591538e5c005e38cb4/en/2x3/312x468/test_pic1734089526636.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Khatta Meetha 2010
+https://d3sgzbosmwirao.cloudfront.net/video/b88aba2f3c17f53de7b68cffca7a8fa262a5c6879cc1c8adeff891fc97ff1de9/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="96caf5b9-c046-435d-8193-36780980bbeb" tvg-name="Kunwara 2000" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2ecf1fa2c467299e7c3c600f7c2f9b77/en/2x3/480x720/test_pic1734085666551.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Kunwara 2000
+https://d3sgzbosmwirao.cloudfront.net/video/f962d396af125802abbb82832af18b7344485cde1d6cbf094dec420e10c319bf/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="ff301c73-1f01-432e-973e-18f0b98dcf1d" tvg-name="MP3 2007" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b89bc3c5a389962143f892ea402e8b00/en/2x3/480x720/test_pic1734088826104.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",MP3 2007
+https://d3sgzbosmwirao.cloudfront.net/video/05f988b7704b126e3d9a5297e96def47d36431ff74defe1c3d3f4a1d3460d9f7/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="d8b2b4c5-6344-4f59-81b0-46c6a462c244" tvg-name="Magadheera 2008" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ec3d5b3bc47bb3139852c7155d62bbcf/en/2x3/480x720/65e2b564479ba657be4b77a2b5e67d5e_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Magadheera 2008
+https://d3sgzbosmwirao.cloudfront.net/video/e1d9d4d4a7118a19f4af359db7c021e9/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="7ce7fa9a-fccc-4e24-a54d-f7c0a7a70ddf" tvg-name="Maine Dil Tujhko Diya 2002" tvg-logo="https://qqcdnpictest.mxplay.com/pic/453d8d5d34a3fc3aada060c1ea170998/en/2x3/312x468/test_pic1734086336080_badged_1734958467005.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Maine Dil Tujhko Diya 2002
+https://d3sgzbosmwirao.cloudfront.net/video/064e301d4752a6cc829c268121257fbc8e52f0ed5cff648ac80d34848b99a847/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="4435ae58-86b6-464f-8e89-7f93d672d42c" tvg-name="Monkey King 2" tvg-logo="https://qqcdnpictest.mxplay.com/pic/500f8c5e98bf9d06e109d8b880a76342/en/2x3/312x468/d6abd89f3708085f3c9fe8b20d24be3d_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Monkey King 2
+https://d3sgzbosmwirao.cloudfront.net/video/59f18acf99d81b09ce5ff58ae5a7523d326f4b295e3db4dac68120061a0447fb/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="7a0e3241-b21f-491f-b79a-3ea350872bce" tvg-name="Mujhse Shaadi Karogi 2004" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ee602147072e6827b41daa6f64025300/en/2x3/480x720/test_pic1734011627505.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Mujhse Shaadi Karogi 2004
+https://d3sgzbosmwirao.cloudfront.net/video/7cc2de2950de1d31317f6e2c18c0a635f2e5e06025b17b9138f9e93332ab0b4c/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="367a013b-c3b4-47ae-aaa0-c869059ff162" tvg-name="Mujhse Shadi Karogi 2004" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ee602147072e6827b41daa6f64025300/en/2x3/312x468/test_pic1734011627505.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Mujhse Shadi Karogi 2004
+https://d3sgzbosmwirao.cloudfront.net/video/7cc2de2950de1d31317f6e2c18c0a635f2e5e06025b17b9138f9e93332ab0b4c/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="e4675572-0ab6-4f1d-8b06-075facc7a15f" tvg-name="Once Upon A Time In Mumbai 2010" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b760237256df28945f151d8b5bc59f6a/en/2x3/312x468/test_pic1734167688794.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Once Upon A Time In Mumbai 2010
+https://d3sgzbosmwirao.cloudfront.net/video/97046c54e78b0c8b93df37adb3745af161732ad0827d532fcf90ff642cf144b2/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="284643d6-70df-49c6-a9e7-fd03fd281ace" tvg-name="Once Upon A Time In Mumbai Dobara 2013" tvg-logo="https://qqcdnpictest.mxplay.com/pic/00a46c0c379f25b548e7b3f0f905f2d5/en/2x3/312x468/test_pic1734167085236.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Once Upon A Time In Mumbai Dobara 2013
+https://d3sgzbosmwirao.cloudfront.net/video/d21db851dd8d8dc48fecc39b988e26df902b31509f00b04def9969178a0e75c4/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="6503c6c7-5c8a-46a4-85a4-f56dd8fdac43" tvg-name="Phir Hera Pheri 2006" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c6272761a98338b25d19264cfd643f4b/en/2x3/312x468/test_pic1734089329390_badged_1734958481484.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Phir Hera Pheri 2006
+https://d3sgzbosmwirao.cloudfront.net/video/4bb31dbfadaef729080831ee8a89eac896e3a5499da0f70aa45a3d8fbdfe2468/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="16a3165a-e11e-4623-8669-72584d95d36d" tvg-name="Pushpa:The Rise 2022" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2dc7967b20d067c12227043915c9f84/en/2x3/312x468/test_pic1738057924296_badged_1742965215426.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Pushpa:The Rise 2022
+https://d3s0ximcru5bdx.cloudfront.net/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1-1733937147956/cmaf/H_264/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1/goldmines-Goldmine_Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1.m3u8
+#EXTINF:-1 tvg-id="9dda9bed-3824-4e51-8774-d94d3bbb6a86" tvg-name="Raju Ban Gaya Gentleman 1992" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b623bb177a2c771de830aa3e53cb02a0/en/2x3/312x468/test_pic1574239868034.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Raju Ban Gaya Gentleman 1992
+https://d3sgzbosmwirao.cloudfront.net/video/6fbe9914c6404e341b0ca570c64314bc/4/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="f3f2774b-1d9c-4949-bf82-8c2579998b47" tvg-name="Ram Setu 2022" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8f9eb2b9dc634c8efe15be770eebfd1e/en/2x3/312x468/test_pic1736411119303_badged_1742965221547.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Ram Setu 2022
+https://d3s0ximcru5bdx.cloudfront.net/RamSethu_22-Full-Mezz_UHD-hi-IN-1733485778200/cmaf/H_264/RamSethu_22-Full-Mezz_UHD-hi-IN/abundantia-abundantia_RamSethu_22-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="f83f810d-582c-4645-a5a7-c8ad56e00162" tvg-name="Rishtey 2002" tvg-logo="https://qqcdnpictest.mxplay.com/pic/40e26c318a13b67fb57bc13cb7aecf1b/en/2x3/480x720/test_pic1733998015739_badged_1734958485009.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Rishtey 2002
+https://d3sgzbosmwirao.cloudfront.net/video/ddfe793559002a3ef14eaffc1251a47f353704f83fc69af51f7855bcb9c275a6/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="c1200f0e-1355-4355-940b-018af573bc22" tvg-name="Robin Hood 2018" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Robin Hood 2018
+https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="8813ca03-fd0b-422c-bfdb-910a1197d3e3" tvg-name="Runway 34 2022" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1a4e41018417e4eeb8d3bab03d986d43/en/2x3/312x468/test_pic1738930438472_badged_1743397212561.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Runway 34 2022
+https://d3s0ximcru5bdx.cloudfront.net/RNWY34-Full-Mezz_UHD-hi-IN-1731494490295/cmaf/H_264/RNWY34-Full-Mezz_UHD-hi-IN/ajaydevgnfilms-ADF_RNWY34-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="00312eeb-5ed6-44cc-8ece-22dec15aaf14" tvg-name="Security 2019" tvg-logo="https://qqcdnpictest.mxplay.com/pic/493bb0a8ed9901b70b9720b1f81a9581/en/2x3/312x468/test_pic1738859895933.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Security 2019
+https://d3sgzbosmwirao.cloudfront.net/video/d0b5db092c07b7e091af7cea3e56472bc2b92269890ea6dd23dbfca4aad45ca5/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="93417a34-2436-46b4-ac97-1590813120c3" tvg-name="Texas Chainsaw 2013" tvg-logo="https://qqcdnpictest.mxplay.com/pic/d6dc86314270c705941db254679013e2/en/2x3/312x468/test_pic1734433688248.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Texas Chainsaw 2013
+https://d3sgzbosmwirao.cloudfront.net/video/5711146add3c46a824fc8e0f3103eea241ec46ce97187e5f86f97c77a4d54670/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="67c51aa9-f818-4153-a336-c589a234612b" tvg-name="Thappad 2020" tvg-logo="https://qqcdnpictest.mxplay.com/pic/01408e840738c64b487fe4bb6a6715ef/en/2x3/312x468/test_pic1736412187290.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Thappad 2020
+https://d3s0ximcru5bdx.cloudfront.net/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN-1733849309592/cmaf/H_264/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN/bmw-BMW_THAPPAD_GL2020-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 tvg-id="179af5a6-ee31-45f4-99fe-c00061901132" tvg-name="The Legend of Bhagat Singh 2002" tvg-logo="https://qqcdnpictest.mxplay.com/pic/74e63e61c6852b1bf1f7fd27a9304549/en/2x3/312x468/test_pic1734085941023.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",The Legend of Bhagat Singh 2002
+https://d3sgzbosmwirao.cloudfront.net/video/ede0f6f983d06ce3692ea72408e624f27e9716b57577bfdbe0435370e349b75d/3/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="0407f3d7-6d7a-4e90-b025-5a5520ce69ec" tvg-name="Vikram Vedha 2017" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3019dcb5345073d3e2fb1104adedc356/en/2x3/312x468/1211fdf844b3443f5dbd9893be5aa3f8_1280x1920.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Vikram Vedha 2017
+https://d3sgzbosmwirao.cloudfront.net/video/3b229c5f64774ea87a7309daab4397fc4bca2de0c225654e4f27382a47f4408c/1/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="eb4e38ec-d9d6-4f6d-ae54-3c46c65b558c" tvg-name="Welcome 2007" tvg-logo="https://qqcdnpictest.mxplay.com/pic/132472a436d8ae441fe7190c75291a95/en/2x3/480x720/test_pic1733467747439.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Welcome 2007
+https://d3sgzbosmwirao.cloudfront.net/video/49d6b5d72b0190414b1de362cd3cbe810b2aceb645d9c69e9be7f4802172bd4d/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="19b8332d-caf3-49a2-91c0-e9f533eecb65" tvg-name="Yamla Pagla Deewana 2011" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a3b53d8994a29b8cfae0e061427be565/en/2x3/312x468/test_pic1579080602042.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Yamla Pagla Deewana 2011
+https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="6c0d6592-fc20-4534-8a9b-ed83dceae5da" tvg-name="Zid 2014" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0eaa2c60c9c412f9ae07d1f110efd534/en/2x3/312x468/test_pic1734085827976.webp" tvg-type="VOD Movies" tvg-country="IN" tvg-language="Hindi",Zid 2014
+https://d3sgzbosmwirao.cloudfront.net/video/c9110e910473739970d7a19e2370210df6d3b8a201bcae426f9779cb174526ec/2/hls/h264_high.m3u8
