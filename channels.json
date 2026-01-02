@@ -1,15 +1,25 @@
 [
   {
+    "name": "DD Arun Prabha",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8",
+    "logo": "https://i.imgur.com/dHURIzT.png",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
     "name": "DD Bharati",
     "url": "https://cdn-1.pishow.tv/live/10/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png?width=300",
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Bihar",
@@ -18,10 +28,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Chhattisgarh",
@@ -30,10 +39,20 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "DD Goa",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Gyandarshan",
@@ -42,10 +61,31 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Infotainment,Hindi"
+  },
+  {
+    "name": "DD Haryana",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "DD Himachal Pradesh",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8",
+    "logo": "https://i.imgur.com/5IfuVGR.png",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Jharkhand",
@@ -54,10 +94,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "720p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Kisan",
@@ -66,10 +105,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Infotainment,Hindi"
   },
   {
     "name": "DD Madhya Pradesh",
@@ -78,10 +116,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD National HD",
@@ -90,10 +127,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD News",
@@ -102,22 +138,21 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "DD Rajasthan",
+    "isOnline": false,
     "url": "https://cdn-1.pishow.tv/live/34/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png?width=300",
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Sahyadri",
@@ -126,22 +161,31 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "504p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Sports",
     "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png?width=300",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Sports",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Sports,Hindi"
+  },
+  {
+    "name": "DD Urdu",
+    "url": "https://cdn-4.pishow.tv/live/8/master.m3u8",
+    "logo": "https://i.imgur.com/OiQPS34.png",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Urdu",
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Urdu"
   },
   {
     "name": "DD Uttar Pradesh",
@@ -150,22 +194,20 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "DD Uttarakhand",
     "url": "https://cdn-1.pishow.tv/live/17/master.m3u8",
-    "logo": "https://yt3.googleusercontent.com/Yb4WQsxU0hYfLyn8suz4MoGmjLexRi1rx0n4eXD8Q7nDlCPwjzkk1I0JSax0XTyMv1UpK-MwxQ=s160-c-k-c0x00ffffff-no-rj",
+    "logo": "https://i.imgur.com/GzBsbos.png",
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Lok Sabha TV",
@@ -174,10 +216,9 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "720p",
+    "tags": "Infotainment,Hindi"
   },
   {
     "name": "Rajya Sabha TV",
@@ -186,22 +227,31 @@
     "category": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,Hindi"
+  },
+  {
+    "name": "Vyas NIC",
+    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "logo": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
+    "category": "Doordarshan",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Infotainment,Hindi"
   },
   {
     "name": "&TV",
     "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/32W50Y6.png",
+    "logo": "https://i.postimg.cc/NjPB5gtG/andtv.png",
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Abzy Dhakad",
@@ -210,10 +260,20 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Colour Blind",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Dabangg",
@@ -222,10 +282,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Dangal 2",
@@ -234,10 +293,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Dangal TV",
@@ -246,10 +304,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Fakt Marathi",
@@ -258,10 +315,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "Movies",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "576p",
+    "tags": "Entertainment,Marathi"
   },
   {
     "name": "Ishara TV",
@@ -270,10 +326,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
   },
   {
     "name": "Mahua Play",
@@ -282,10 +337,9 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Bhojpuri",
-    "tags": [
-      "Entertainment",
-      "Bhojpuri"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Bhojpuri"
   },
   {
     "name": "Manoranjan Grand",
@@ -294,10 +348,31 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Manoranjan TV",
+    "url": "https://cdn-1.pishow.tv/live/1013/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Shemaroo Marathi Bana",
+    "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Marathi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Marathi"
   },
   {
     "name": "Shemaroo TV",
@@ -306,10 +381,42 @@
     "category": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Entertainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Zee Comedy Nation",
+    "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi,Comedy"
+  },
+  {
+    "name": "Zee Dil Se",
+    "url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
+    "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Zee Horror Nights",
+    "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
+    "category": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Entertainment,Hindi,Horror"
   },
   {
     "name": "Action Hollywood Movies",
@@ -318,24 +425,75 @@
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Bang Bang TV",
+    "name": "Bang Bang",
     "url": "https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8",
-    "logo": "https://alchetron.com/cdn/bang-bang-tv-channel-86505200-5377-43bb-ac56-4a72cc2c786-resize-750.jpg",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png",
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Best Action",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Best Drama",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Best Thriller",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "CW Gold",
+    "url": "https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Cine Life",
+    "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
+    "logo": "https://i.ibb.co/LZTD9gt/Cinelife.jpg",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Cinevault 80s",
@@ -344,24 +502,64 @@
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Classic Cinema Online",
+    "name": "Cineview (UK)",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8",
+    "logo": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/Cineview_1000px_new-round.png",
+    "category": "Hollywood",
+    "country": "UK",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Classic Cinema isOnline",
     "url": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8",
     "logo": "https://i.imgur.com/FJoPnTb.png",
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Cowboy Movie Channel",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Drive In Movie Channel",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png",
+    "category": "Hollywood",
+    "country": "UK",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Grand Cinema",
+    "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+    "logo": "https://grandcinema.tv/logo.png",
+    "category": "Hollywood",
+    "country": "TR",
+    "language": "Persian",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Persian,Hollywood"
   },
   {
     "name": "Great! Movies",
@@ -370,11 +568,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Great! Romance",
@@ -383,11 +579,31 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Her Sphere",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Ion Plus",
+    "url": "https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8",
+    "logo": "https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png",
+    "category": "Hollywood",
+    "country": "UK",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Maverick Black Cinema",
@@ -396,24 +612,42 @@
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Movie Sphere",
+    "name": "Miramax",
+    "url": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Miramax_Television.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Movie Sphere (UK)",
     "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "logo": "https://moviespheregold.com/assets/img/MovieSphereGold/Moviesphere-Gold-logo-Schedule-Section.png",
+    "category": "Hollywood",
+    "country": "UK",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Movie Sphere (US)",
+    "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
     "logo": "https://moviespheregold.com/assets/img/MovieSphereGold/Moviesphere-Gold-logo-Schedule-Section.png",
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Movies!",
@@ -422,11 +656,20 @@
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "MyTime Movies",
+    "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8",
+    "logo": "https://imgur.com/f35UF5q.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Rakuten TV - Comedy Movies",
@@ -435,11 +678,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Rakuten TV - Drama Movies",
@@ -448,11 +689,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Rakuten TV - Family Movies",
@@ -461,11 +700,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Rakuten TV - Top Movies",
@@ -474,11 +711,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Rakuten TV - Top Movies 2",
@@ -487,11 +722,9 @@
     "category": "Hollywood",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Revry Her",
@@ -500,36 +733,75 @@
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Star Channel",
+    "url": "https://webtvstream.bhtelecom.ba/star_channel.m3u8",
+    "logo": "https://images.seeklogo.com/logo-png/40/2/star-channel-logo-png_seeklogo-403871.png",
+    "category": "Hollywood",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Star Movies",
+    "url": "https://webtvstream.bhtelecom.ba/star_movies.m3u8",
+    "logo": "https://images.seeklogo.com/logo-png/52/2/star-movies-logo-png_seeklogo-523979.png",
+    "category": "Hollywood",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "TVS - Drive In Movie",
     "url": "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
-    "logo": "https://i.imgur.com/OR9APjb.png",
+    "logo": "https://gia.tv/channels/logo/a942ca4eacbbb89c69b86e488dbcb2e3.jpg",
     "category": "Hollywood",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Movies",
-      "English",
-      "Hollywood"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "TVS Classic Movies",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+    "logo": "https://gia.tv/channels/logo/bdee487666358b00792722bd8322a07b.jpg",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "WARNER TV",
+    "url": "https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8",
+    "logo": "https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",
+    "category": "Hollywood",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "4K Travel",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8",
     "logo": "https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png",
     "category": "Infotainment",
-    "country": "IN",
+    "country": "US",
     "language": "English",
-    "tags": [
-      "Infotainment",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "BBC Earth US",
@@ -538,10 +810,9 @@
     "category": "Infotainment",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Infotainment",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "Discover Film",
@@ -550,10 +821,9 @@
     "category": "Infotainment",
     "country": "UK",
     "language": "English",
-    "tags": [
-      "Infotainment",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "Epic TV",
@@ -562,10 +832,31 @@
     "category": "Infotainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,Hindi"
+  },
+  {
+    "name": "Escape TV",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png",
+    "category": "Infotainment",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
+  },
+  {
+    "name": "Foodxp",
+    "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
+    "category": "Infotainment",
+    "country": "US",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,Hindi"
   },
   {
     "name": "Goa365",
@@ -574,10 +865,9 @@
     "category": "Infotainment",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "Infotainment",
-      "English"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "History TV18 HD",
@@ -586,10 +876,9 @@
     "category": "Infotainment",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "Infotainment",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "History TV18 HD",
@@ -598,10 +887,42 @@
     "category": "Infotainment",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,Hindi"
+  },
+  {
+    "name": "National Geographic Wild",
+    "url": "https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+    "logo": "https://i.imgur.com/8X4jiMY.png",
+    "category": "Infotainment",
+    "country": "NZ",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
+  },
+  {
+    "name": "Space Series",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Space_Series_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png",
+    "category": "Infotainment",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
+  },
+  {
+    "name": "Travelxp 4K HDR",
+    "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "logo": "https://tatalogo.pages.dev/923.png",
+    "category": "Infotainment",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "Wild Earth",
@@ -609,11 +930,10 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png?width=300",
     "category": "Infotainment",
     "country": "UK",
-    "language": "Hindi",
-    "tags": [
-      "Infotainment",
-      "Hindi"
-    ]
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Infotainment,English"
   },
   {
     "name": "Animax",
@@ -622,10 +942,9 @@
     "category": "Kids",
     "country": "JP",
     "language": "Japanese",
-    "tags": [
-      "Kids",
-      "Cartoon"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Japanese"
   },
   {
     "name": "Baby First",
@@ -634,11 +953,9 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Baby Shark TV (AU)",
@@ -647,11 +964,9 @@
     "category": "Kids",
     "country": "AU",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Baby Shark TV (CA)",
@@ -660,11 +975,9 @@
     "category": "Kids",
     "country": "CA",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Baby Shark TV (GB)",
@@ -673,11 +986,20 @@
     "category": "Kids",
     "country": "GB",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Cartoon Classics",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png",
+    "category": "Kids",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Cartoon Network",
@@ -686,11 +1008,20 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
+  },
+  {
+    "name": "Disney JR",
+    "url": "http://fl61.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+    "category": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Discovery Kids",
@@ -699,11 +1030,9 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Doremon",
@@ -712,11 +1041,9 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Duck TV",
@@ -724,12 +1051,10 @@
     "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/Duck_TV_%282011-.n.v.%29.png",
     "category": "Kids",
     "country": "IN",
-    "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Gubbare",
@@ -738,11 +1063,9 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Hi Dost!",
@@ -751,11 +1074,9 @@
     "category": "Kids",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Jungle Book",
@@ -764,11 +1085,9 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Kids Flix (US)",
@@ -777,10 +1096,9 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Motu Patlu",
@@ -789,24 +1107,31 @@
     "category": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Mr Bean Animated (IT)",
     "url": "https://amg00627-amg00627c29-xiaomi-international-4920.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-xiaomiinternational/playlist.m3u8",
-    "logo": "https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png",
     "category": "Kids",
     "country": "IT",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Nick HD+",
+    "url": "https://servertvhub.site/jio/app/ts_live_1226.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",
+    "category": "Kids",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "PBS Kids",
@@ -814,12 +1139,21 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/800px-PBS_Kids_logo_%282022%29.svg.png",
     "category": "Kids",
     "country": "IN",
-    "language": "Hindi",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Ric Plus Kids",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png",
+    "category": "Kids",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Sonic the Hedgehog",
@@ -828,11 +1162,20 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Tom and Jerry",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "logo": "https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg",
+    "category": "Kids",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Toon Googles",
@@ -841,11 +1184,9 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Toon Googles (BR)",
@@ -854,11 +1195,9 @@
     "category": "Kids",
     "country": "BR",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Toon Googles Jr. Kids",
@@ -867,11 +1206,9 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "ToonzKids",
@@ -880,24 +1217,31 @@
     "category": "Kids",
     "country": "US",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Ubisoft TV",
+    "url": "https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8",
+    "logo": "https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png",
+    "category": "Kids",
+    "country": "SG",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Zoo Moo",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png",
+    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png",
     "category": "Kids",
     "country": "SG",
     "language": "English",
-    "tags": [
-      "Kids",
-      "Cartoon",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "&flix",
@@ -906,10 +1250,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "AN Movies",
@@ -918,10 +1261,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Abzy Movies",
@@ -930,10 +1272,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "B4U Bhojpuri",
@@ -942,10 +1283,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Bhojpuri",
-    "tags": [
-      "Movies",
-      "Bhojpuri"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Bhojpuri"
   },
   {
     "name": "B4U Kadak",
@@ -954,10 +1294,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "B4U Movies",
@@ -966,10 +1305,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Bhojpuri Cinema",
@@ -978,10 +1316,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Bhojpuri",
-    "tags": [
-      "Movies",
-      "Bhojpuri"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Bhojpuri"
   },
   {
     "name": "Bollywood Classic",
@@ -990,10 +1327,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Bollywood HD",
@@ -1002,10 +1338,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Filamchi Bhojpuri",
@@ -1014,10 +1349,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Bhojpuri",
-    "tags": [
-      "Movies",
-      "Bhojpuri"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Bhojpuri"
   },
   {
     "name": "Goldmines",
@@ -1026,10 +1360,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Goldmines Movies",
@@ -1038,10 +1371,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Goldmines Movies 2",
@@ -1050,10 +1382,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Hindi Dubbed Movies",
@@ -1062,10 +1393,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Hindi Movies",
@@ -1074,10 +1404,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Manoranjan Movies",
@@ -1086,22 +1415,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Punjabi",
-    "tags": [
-      "Movies",
-      "Punjabi"
-    ]
-  },
-  {
-    "name": "Manoranjan TV",
-    "url": "https://cdn-1.pishow.tv/live/1013/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",
-    "category": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Punjabi"
   },
   {
     "name": "Oscar Movies Bhojpuri",
@@ -1110,10 +1426,9 @@
     "category": "Movies",
     "country": "IN",
     "language": "Bhojpuri",
-    "tags": [
-      "Movies",
-      "Bhojpuri"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Bhojpuri"
   },
   {
     "name": "Shemaroo Bollywood",
@@ -1122,10 +1437,31 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Shemaroo Josh",
+    "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
+    "category": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "720p",
+    "tags": "Movies,Hindi"
+  },
+  {
+  "name": "The Movie Club",
+  "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+  "logo": "https://buddytv.netlify.app/img/no-logo.png",
+  "category": "Movies",
+  "country": "IN",
+  "language": "Hindi",
+  "isAvailable": true,
+  "resolution": "1080p",
+  "tags": "Movies,Hindi"
   },
   {
     "name": "Zee Bollymovies",
@@ -1134,10 +1470,20 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Zee Cine Classic",
+    "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+    "category": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Zee Cinema",
@@ -1146,10 +1492,20 @@
     "category": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Zee South Flix",
+    "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
+    "category": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Movies,Hindi"
   },
   {
     "name": "9X Jalwa",
@@ -1158,10 +1514,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "9XM",
@@ -1170,10 +1525,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "9x Jhakaas",
@@ -1182,10 +1536,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Marathi"
   },
   {
     "name": "B4U Music",
@@ -1194,10 +1547,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Balle Balle",
@@ -1205,11 +1557,31 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png?width=300",
     "category": "Music",
     "country": "IN",
+    "language": "Punjabi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Punjabi"
+  },
+  {
+    "name": "Deewana",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU",
+    "category": "Music",
+    "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
+  },
+  {
+    "name": "Dhamaal",
+    "url": "https://cdn-1.pishow.tv/live/1291/master.m3u8",
+    "logo": "https://i.imgur.com/J6D56EF.png",
+    "category": "Music",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "E 24",
@@ -1218,10 +1590,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Joo Music",
@@ -1230,10 +1601,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Mastii",
@@ -1242,10 +1612,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Music India",
@@ -1254,10 +1623,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Nazara",
@@ -1266,10 +1634,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Sangeet Marathi",
@@ -1278,10 +1645,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "Music",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Marathi"
   },
   {
     "name": "ShadowBox",
@@ -1290,10 +1656,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "YRF Music",
@@ -1302,10 +1667,9 @@
     "category": "Music",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "Zoom",
@@ -1314,10 +1678,9 @@
     "category": "Music",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "Music",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Music,Hindi"
   },
   {
     "name": "ABP Ganga",
@@ -1326,10 +1689,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "ABP Majha",
@@ -1338,10 +1700,9 @@
     "category": "News",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "News",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "ABP News",
@@ -1350,10 +1711,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Aaj Tak",
@@ -1362,10 +1722,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Aap Ki Adalat",
@@ -1374,7 +1733,31 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": []
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "Awaaz India",
+    "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+    "logo": "https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "logo": "https://is.gd/DtaJNT",
+    "category": "News",
+    "country": "UK",
+    "language": "English",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "BBC World",
@@ -1383,10 +1766,20 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "News,English"
+  },
+  {
+    "name": "Bansal News",
+    "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8",
+    "logo": "https://i.imgur.com/8QL8SiB.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Bharat Express",
@@ -1395,10 +1788,20 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "Bharat Samachar TV",
+    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "logo": "https://i.imgur.com/x5f8E3K.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "CNBC TV18",
@@ -1407,10 +1810,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "CNN",
@@ -1419,10 +1821,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "CVR English",
@@ -1431,10 +1832,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "DW News",
@@ -1443,10 +1843,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "ET Now Swadesh",
@@ -1455,10 +1854,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "First India News",
@@ -1467,10 +1865,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Good News Today",
@@ -1479,10 +1876,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "IBC 24",
@@ -1491,10 +1887,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "INH 24x7",
@@ -1503,10 +1898,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "India Today",
@@ -1515,10 +1909,42 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
+  },
+  {
+    "name": "India TV",
+    "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India TV Aap Ki Adalat",
+    "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India TV Speed News",
+    "url": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS/images/LOGO_HD/image.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Living India News",
@@ -1527,10 +1953,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Maiboli ",
@@ -1539,10 +1964,9 @@
     "category": "News",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "News",
-      "Marathi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "NDTV 24X7",
@@ -1550,11 +1974,10 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png?width=300",
     "category": "News",
     "country": "IN",
-    "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "NDTV Good Times",
@@ -1563,10 +1986,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "NDTV India",
@@ -1575,10 +1997,20 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "NDTV Marathi",
+    "url": "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MARATHI/images/LOGO_HD/image.png",
+    "category": "News",
+    "country": "IN",
+    "language": "Marathi",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "News 24",
@@ -1587,10 +2019,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "News Nation",
@@ -1599,10 +2030,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Republic TV",
@@ -1610,11 +2040,10 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png?width=300",
     "category": "News",
     "country": "IN",
-    "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "Repulic Bharat",
@@ -1623,10 +2052,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Saam TV",
@@ -1635,10 +2063,9 @@
     "category": "News",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "News",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "Sadhna Plus News",
@@ -1647,10 +2074,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "TV9 Marathi",
@@ -1659,10 +2085,9 @@
     "category": "News",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "News",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "Times Now Navbharat",
@@ -1671,10 +2096,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "WION",
@@ -1683,10 +2107,9 @@
     "category": "News",
     "country": "IN",
     "language": "English",
-    "tags": [
-      "News",
-      "English"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,English"
   },
   {
     "name": "Zee 24 Taas",
@@ -1695,10 +2118,9 @@
     "category": "News",
     "country": "IN",
     "language": "Marathi",
-    "tags": [
-      "News",
-      "Marathi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Marathi"
   },
   {
     "name": "Zee Bihar Jharkhand",
@@ -1707,10 +2129,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Business",
@@ -1719,10 +2140,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Delhi NCR Haryana",
@@ -1731,22 +2151,20 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Hindustan",
-    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/769e6c52-4428-4dcb-9a6f-e9fb8794e268/2.m3u8",
+    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png?width=300",
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Madhya Pradesh Chhattisgarh",
@@ -1755,10 +2173,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee News",
@@ -1767,10 +2184,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Rajasthan",
@@ -1779,10 +2195,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Zee Uttar Pradesh/Uttarakhand",
@@ -1791,10 +2206,9 @@
     "category": "News",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "News",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "News,Hindi"
   },
   {
     "name": "Aastha Bhajan",
@@ -1803,10 +2217,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Aastha HD",
@@ -1815,10 +2228,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Aastha Prime",
@@ -1827,10 +2239,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Dharm Sandesh",
@@ -1839,10 +2250,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Divya TV",
@@ -1851,10 +2261,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Ishwar TV",
@@ -1863,10 +2272,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Sadhna",
@@ -1875,10 +2283,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Sanskar (UK)",
@@ -1887,10 +2294,9 @@
     "category": "Spiritual",
     "country": "UK",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Sanskar (US)",
@@ -1899,10 +2305,9 @@
     "category": "Spiritual",
     "country": "US",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Sanskar Digital",
@@ -1911,10 +2316,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Sanskar TV",
@@ -1923,10 +2327,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Satsang Digital",
@@ -1935,10 +2338,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Satsang TV",
@@ -1947,10 +2349,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Shubh Cinema",
@@ -1959,10 +2360,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Shubh TV",
@@ -1971,10 +2371,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Total Bhakti",
@@ -1983,10 +2382,9 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
     "name": "Vedic",
@@ -1995,684 +2393,697 @@
     "category": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "Spiritual",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Spiritual,Hindi"
   },
   {
-    "name": "All The Best 2009",
+    "name": "Astro Cricket",
+    "url": "https://smart.bengaldigital.live/AstroCricket/index.m3u8",
+    "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",
+    "category": "Sports",
+    "country": "Others",
+    "language": "English",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Sports,English,Cricket"
+  },
+  {
+    "name": "Cricket Gold",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png",
+    "category": "Sports",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Sports,English,Cricket"
+  },
+  {
+    "name": "Fight TV",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png",
+    "category": "Sports",
+    "country": "US",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "Sports,English"
+  },
+  {
+    "name": "WWF Network",
+    "url": "https://smart.bengaldigital.live/WWE/index.m3u8",
+    "logo": "https://i.postimg.cc/0jv7Xbqz/wwe.jpg",
+    "category": "Sports",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Sports,English"
+  },
+  {
+    "name": "Willow Cricket",
+    "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+    "logo": "https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png",
+    "category": "Sports",
+    "country": "Others",
+    "language": "English",
+    "isAvailable": false,
+    "resolution": "1080p",
+    "tags": "Sports,English,Cricket"
+  },
+  {
+    "name": "12 Strong",
+    "year": 2018,
+    "url": "https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8",
+    "logo": "http://185.238.0.145:1313/uploads/video_thumb/406.jpg",
+    "category": "Video On Demand",
+    "country": "IN",
+    "language": "English",
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
+  },
+  {
+    "name": "All The Best",
+    "year": 2009,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/5bd3ccb26549b67c6027d72fc7e84c09/en/2x3/312x468/test_pic1734169387446.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Allegiant 2016",
+    "name": "Allegiant",
+    "year": 2016,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/64788368b8221803185c64755e406198/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c77b1e47b928f018742e8e9119e4cc01/en/2x3/312x468/38357cc3bcc551d45983081b3f7cae83_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Andaaz 2003",
+    "name": "Andaaz",
+    "year": 2003,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/87be69c52a1b8701734394bd43d784635d8c188641e55fef279fca48d0aa1eff/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/1c212c078fa00325fc5d14e571821833/en/2x3/480x720/test_pic1734091157312_badged_1734958419640.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Anwar 2007",
+    "name": "Anwar",
+    "year": 2007,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/11a3dae373d85747d78a37b01ac4734ee9c99022a39632a7df8e6f18834f9b70/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/208b660662be88e1ed36ab2e92c2ca53/en/2x3/312x468/test_pic1734094217647.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Automata 2014",
+    "name": "Automata",
+    "year": 2014,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/b8f33f1f42a11ed1603018d9a8d954b7/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c920c47e313e5a2dcce677b686806332/en/2x3/312x468/61de366fd17170857272d376d33145a5_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Bhagam Bhaag 2006",
+    "name": "Bhagam Bhaag",
+    "year": 2006,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/0708af01ab647d6674fa1f948fc55a3be3275da20efc9a7d6f16dad787d0d798/3/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c2f3d81ec4536a5e4b881d6057c5698d/en/2x3/312x468/test_pic1733467299246.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Chhorii 2021",
+    "name": "Chhorii",
+    "year": 2021,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1-1734073865064/cmaf/H_264/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1/abundantia-AB_CHHORII_2021-Full-Mezz_UHD-hi-IN-R1.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/2x3/312x468/test_pic1738931102928.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Dedh Ishqiya 2014",
+    "name": "Dedh Ishqiya",
+    "year": 2014,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/8ed48707fccb2650bb768a07d19560bf325d658bb4914411250d4257e21c58cb/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/bd3117f2eb110775795c0232cee15f32/en/2x3/312x468/test_pic1740039361452.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Dhrishyam 2 2022",
+    "name": "Dhrishyam 2",
+    "year": 2022,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN-1735550437504/cmaf/H_264/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN/adf-ADF_DHRISHYAM2_22-Full-Mezz_UHD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/2c580670b2104d156e2d9a3fd42a413e/en/2x3/312x468/test_pic1736411396725_badged_1742965225005.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Dil Hai Tumhara 2002",
+    "name": "Dil Hai Tumhara",
+    "year": 2002,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/a0e779d3e5acbec83f1abd077c162ffda7111b67e5a0d9818973826169481bb6/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/5f6b7ad6158ebadcdbd5107ebe3d3d9d/en/2x3/312x468/test_pic1733467638205.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Divergent 2014",
+    "name": "Divergent",
+    "year": 2014,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/4b6be1b4e863de2b0277ec78fb3962eb/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/5724f03aab4d9b208f3397bdf42fa855/en/2x3/312x468/5e0627aaa20e76fb1ca566d469306f6b_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Diwane Hue Pagal 2005",
+    "name": "Diwane Hue Pagal",
+    "year": 2005,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/bfc611f3a3705d1a8cd27ee2db57c712323a8b397dd7e2852e7ab06ab27b0e5b/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/0c9a04676dc61baefd52689597ee18e9/en/2x3/312x468/test_pic1734091278814.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Dosti 2005",
+    "name": "Dosti",
+    "year": 2005,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/4cb3f0233ddf9692f551c928f643e6e1e216ff135528cb6b011c9e4096a06f19/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/b0d32d5e9aace0cf921d7f9b488f4b65/en/2x3/312x468/test_pic1734089669456.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Dus 2005",
+    "name": "Dus",
+    "year": 2005,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/707f6533f2a5232eb5b0c2fdce7956c5cdd3368bf1d08ebe831b0203fc4b53c8/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/630b4cd7d54ff445c4f209529ede0e0c/en/2x3/312x468/test_pic1734089624667.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Golmaal 2006",
+    "name": "Golmaal",
+    "year": 2006,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/c826462db6dbc228509f642d220acc04a72b2d29168ed1f903f9faa2c75361f7/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/8ed2c343f565ee0a5821203db2f8b2c9/en/2x3/312x468/test_pic1733467897757.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Golmaal Returns 2008",
+    "name": "Golmaal Returns",
+    "year": 2008,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/2de38bdff11a81652172e0053702ae3bcecfd2667ce7da083cdd51ca1d068ce2/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/5cdce6be9d936a034839ca5c2770e209/en/2x3/312x468/test_pic1733468034828.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Har Dil Jo Pyar Karega 2000",
+    "name": "Har Dil Jo Pyar Karega",
+    "year": 2000,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/54d6a3028a739e60d112c86d367c91b0ada29c03c2d1d953a82882cb09f0216b/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/1dd37d2c7c41643e5677128f678fbe5b/en/2x3/312x468/test_pic1734087085862_badged_1734958463361.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Highway 2014",
+    "name": "Highway",
+    "year": 2014,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/0a16c1433003d70d27bdbef35adcc40dd07de9bf65a899ebbc34b5961d53f4e4/3/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/f2dfad5b6e7488c6bbf8dac114b463a9/en/2x3/480x720/test_pic1733468518119.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Hindustan Ki Kasam 1999",
+    "name": "Hindustan Ki Kasam",
+    "year": 1999,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/0404add690a76490d58811057f45c005/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/1219f962f13ea39fe005561d0254f677/en/2x3/480x720/e96cf092dbd4eaa15970329aa8e27f72_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Housefull 2 2012",
+    "name": "Housefull 2",
+    "year": 2012,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/5729040e90016403200cd84f5a2c847218ab0676f11733ea0292d3d4a8540136/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/f11cec31eff8ae5a0984017b3c252e02/en/2x3/480x720/test_pic1733468574850.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Hum 1991",
+    "name": "Hum",
+    "year": 1991,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/abbe0823ed6979db8de41db2c21c6752/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/3a8bec452763b760a7405b410a958bbb/en/2x3/480x720/test_pic1614589587122.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Hum Kisi Se Kam Nahin 2002",
+    "name": "Hum Kisi Se Kam Nahin",
+    "year": 2002,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/79b9249b00bfb62134d636ee8e40b8b0d356a22c2e2608e338bdaac32e76f76e/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/bfd72098d8e06e3f17bc9ac33e64a7f7/en/2x3/480x720/test_pic1734084489700.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Humko Tumse Pyar Hai 2006",
+    "name": "Humko Tumse Pyar Hai",
+    "year": 2006,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/2f6bf7d45abd7a58a927a43b8822987239663a2d00a943718f783d1dfcaea308/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/899579c4db3448f5a1904b39a82e3233/en/2x3/480x720/test_pic1734091339803.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Insurgent 2015",
+    "name": "Insurgent",
+    "year": 2015,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/5db68319b7508a580d12c40fa5a6f04a/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/fb23d646be9f4501ce73b62fcb2a5065/en/2x3/312x468/67725d61c649e1758cbcc2e2705d533e_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Ishqiya 2010",
+    "name": "Ishqiya",
+    "year": 2010,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/1113d8483d703dc799676fda3bdafbde2742f5a8fa4ee151ba3a9147209058f0/3/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/6a36663ad698d7b5f013d8a5249d491a/en/2x3/312x468/test_pic1734091608576.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "JJJ 2022",
+    "name": "JJJ",
+    "year": 2022,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/JJJ_22-Full-Mezz_UHD-hi-IN-1731434552415/cmaf/H_264/JJJ_22-Full-Mezz_UHD-hi-IN/viacom18-VIACOM_JJJ_22-Full-Mezz_UHD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/7aca3e48726408076d74ac79f7bf73d7/en/2x3/480x720/test_pic1740041732949.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Jawani Janeman 2020",
+    "name": "Jawani Janeman",
+    "year": 2020,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/JJ_2020-Full-Mezz_HD-hi-IN-1733937456129/cmaf/H_264/JJ_2020-Full-Mezz_HD-hi-IN/poojaent-POOJA_JJ_2020-Full-Mezz_HD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/051c6a1c30af3c47552e7da346ead5d0/en/2x3/312x468/test_pic1738931036801.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "KMJNB 2001",
+    "name": "KMJNB",
+    "year": 2001,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/4efbace378fd023cd57538b2f7d5f107feecff8bcd266845c4c0391f9757dad6/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/8ab7bc3c4b3a49d9fa1e1edba792e4fe/en/2x3/480x720/test_pic1734167434218.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Kaithi 2020",
+    "name": "Kaithi",
+    "year": 2020,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/039664d4d85c603cfb5a6cd66b9e29ec/en/2x3/312x468/157d8d28c0198ea13078cd2eadb14f45_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Khatta Meetha 2010",
+    "name": "Khatta Meetha",
+    "year": "2010",
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/b88aba2f3c17f53de7b68cffca7a8fa262a5c6879cc1c8adeff891fc97ff1de9/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/2371fd7caaf330591538e5c005e38cb4/en/2x3/312x468/test_pic1734089526636.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Kunwara 2000",
+    "name": "Kunwara",
+    "year": 2000,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/f962d396af125802abbb82832af18b7344485cde1d6cbf094dec420e10c319bf/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/2ecf1fa2c467299e7c3c600f7c2f9b77/en/2x3/480x720/test_pic1734085666551.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "MP3 2007",
+    "name": "MP3",
+    "year": 2007,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/05f988b7704b126e3d9a5297e96def47d36431ff74defe1c3d3f4a1d3460d9f7/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/b89bc3c5a389962143f892ea402e8b00/en/2x3/480x720/test_pic1734088826104.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Magadheera 2008",
+    "name": "Magadheera",
+    "year": 2008,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/e1d9d4d4a7118a19f4af359db7c021e9/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/ec3d5b3bc47bb3139852c7155d62bbcf/en/2x3/480x720/65e2b564479ba657be4b77a2b5e67d5e_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Maine Dil Tujhko Diya 2002",
+    "name": "Maine Dil Tujhko Diya",
+    "year": 2002,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/064e301d4752a6cc829c268121257fbc8e52f0ed5cff648ac80d34848b99a847/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/453d8d5d34a3fc3aada060c1ea170998/en/2x3/312x468/test_pic1734086336080_badged_1734958467005.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
     "name": "Monkey King 2",
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/59f18acf99d81b09ce5ff58ae5a7523d326f4b295e3db4dac68120061a0447fb/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/500f8c5e98bf9d06e109d8b880a76342/en/2x3/312x468/d6abd89f3708085f3c9fe8b20d24be3d_1280x1920.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Mujhse Shaadi Karogi 2004",
+    "name": "Mujhse Shaadi Karogi",
+    "year": 2004,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/7cc2de2950de1d31317f6e2c18c0a635f2e5e06025b17b9138f9e93332ab0b4c/4/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/ee602147072e6827b41daa6f64025300/en/2x3/480x720/test_pic1734011627505.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Once Upon A Time In Mumbai 2010",
+    "name": "Once Upon A Time In Mumbai",
+    "year": 2010,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/97046c54e78b0c8b93df37adb3745af161732ad0827d532fcf90ff642cf144b2/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/b760237256df28945f151d8b5bc59f6a/en/2x3/312x468/test_pic1734167688794.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Once Upon A Time In Mumbai Dobara 2013",
+    "name": "Once Upon A Time In Mumbai Dobara",
+    "year": 2013,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/d21db851dd8d8dc48fecc39b988e26df902b31509f00b04def9969178a0e75c4/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/00a46c0c379f25b548e7b3f0f905f2d5/en/2x3/312x468/test_pic1734167085236.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Phir Hera Pheri 2006",
+    "name": "Phir Hera Pheri",
+    "year": "2006",
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/4bb31dbfadaef729080831ee8a89eac896e3a5499da0f70aa45a3d8fbdfe2468/3/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c6272761a98338b25d19264cfd643f4b/en/2x3/312x468/test_pic1734089329390_badged_1734958481484.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Pushpa:The Rise 2022",
+    "name": "Pushpa:The Rise",
+    "year": 2022,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1-1733937147956/cmaf/H_264/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1/goldmines-Goldmine_Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c2dc7967b20d067c12227043915c9f84/en/2x3/312x468/test_pic1738057924296_badged_1742965215426.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Raju Ban Gaya Gentleman 1992",
+    "name": "Raju Ban Gaya Gentleman",
+    "year": 1992,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/6fbe9914c6404e341b0ca570c64314bc/4/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/b623bb177a2c771de830aa3e53cb02a0/en/2x3/312x468/test_pic1574239868034.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Ram Setu 2022",
+    "name": "Ram Setu",
+    "year": 2022,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/RamSethu_22-Full-Mezz_UHD-hi-IN-1733485778200/cmaf/H_264/RamSethu_22-Full-Mezz_UHD-hi-IN/abundantia-abundantia_RamSethu_22-Full-Mezz_UHD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/8f9eb2b9dc634c8efe15be770eebfd1e/en/2x3/312x468/test_pic1736411119303_badged_1742965221547.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Rishtey 2002",
+    "name": "Rishtey",
+    "year": 2002,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/ddfe793559002a3ef14eaffc1251a47f353704f83fc69af51f7855bcb9c275a6/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/40e26c318a13b67fb57bc13cb7aecf1b/en/2x3/480x720/test_pic1733998015739_badged_1734958485009.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Robin Hood 2018",
+    "name": "Robin Hood",
+    "year": 2018,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Runway 34 2022",
+    "name": "Runway 34",
+    "year": 2022,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/RNWY34-Full-Mezz_UHD-hi-IN-1731494490295/cmaf/H_264/RNWY34-Full-Mezz_UHD-hi-IN/ajaydevgnfilms-ADF_RNWY34-Full-Mezz_UHD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/1a4e41018417e4eeb8d3bab03d986d43/en/2x3/312x468/test_pic1738930438472_badged_1743397212561.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Security 2019",
+    "name": "Security",
+    "year": 2019,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/d0b5db092c07b7e091af7cea3e56472bc2b92269890ea6dd23dbfca4aad45ca5/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/493bb0a8ed9901b70b9720b1f81a9581/en/2x3/312x468/test_pic1738859895933.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Texas Chainsaw 2013",
+    "name": "Texas Chainsaw",
+    "year": 2013,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/5711146add3c46a824fc8e0f3103eea241ec46ce97187e5f86f97c77a4d54670/1/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/d6dc86314270c705941db254679013e2/en/2x3/312x468/test_pic1734433688248.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Thappad 2020",
+    "name": "Thappad",
+    "year": 2020,
     "url": "https://d3s0ximcru5bdx.cloudfront.net/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN-1733849309592/cmaf/H_264/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN/bmw-BMW_THAPPAD_GL2020-Full-Mezz_UHD-hi-IN.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/01408e840738c64b487fe4bb6a6715ef/en/2x3/312x468/test_pic1736412187290.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "The Legend of Bhagat Singh 2002",
+    "name": "The Legend of Bhagat Singh",
+    "year": 2002,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/ede0f6f983d06ce3692ea72408e624f27e9716b57577bfdbe0435370e349b75d/3/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/74e63e61c6852b1bf1f7fd27a9304549/en/2x3/312x468/test_pic1734085941023.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Vikram Vedha 2017",
+    "name": "Vikram Vedha",
+    "year": 2017,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/3b229c5f64774ea87a7309daab4397fc4bca2de0c225654e4f27382a47f4408c/1/hls/h264_high.m3u8",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Welcome 2007",
+    "name": "Welcome",
+    "year": 2007,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/49d6b5d72b0190414b1de362cd3cbe810b2aceb645d9c69e9be7f4802172bd4d/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/132472a436d8ae441fe7190c75291a95/en/2x3/480x720/test_pic1733467747439.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   },
   {
-    "name": "Zid 2014",
+    "name": "Zid",
+    "year": 2014,
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/c9110e910473739970d7a19e2370210df6d3b8a201bcae426f9779cb174526ec/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/0eaa2c60c9c412f9ae07d1f110efd534/en/2x3/312x468/test_pic1734085827976.webp",
-    "category": "VOD Movies",
+    "category": "Video On Demand",
     "country": "IN",
     "language": "Hindi",
-    "tags": [
-      "VOD",
-      "Movies",
-      "Hindi"
-    ]
+    "isAvailable": true,
+    "resolution": "1080p",
+    "tags": "VOD,Movies,Hindi"
   }
 ]
