@@ -155,18 +155,18 @@ add_channels_from_file() {
         local name=$(echo "$channel" | jq -r '.name')
         
         if jq -e ".[] | select(.url == \"$url\")" "$json_file" >/dev/null 2>&1; then
-            echo "SKIPPED: $name ($url) - URL already exists" | tee -a "$log_file"
+            echo "SKIPPED: $name - URL already exists" | tee -a "$log_file"
             ((skipped++))
         else
             # Add the channel
             jq ". += [$(echo "$channel")]" "$json_file" > "${json_file}.tmp" && mv "${json_file}.tmp" "$json_file"
-            echo "ADDED: $name ($url)" | tee -a "$log_file"
+            echo "ADDED: $name" | tee -a "$log_file"
             ((added++))
         fi
     done
     
-    # Sort the final JSON by category then name
-    jq 'sort_by(.category, .name)' "$json_file" > "${json_file}.tmp" && mv "${json_file}.tmp" "$json_file"
+    # Sort the final JSON by group then name
+    jq 'sort_by(.group, .name)' "$json_file" > "${json_file}.tmp" && mv "${json_file}.tmp" "$json_file"
     
     echo ""
     echo "Import complete!"

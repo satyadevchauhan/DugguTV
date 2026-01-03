@@ -1783,7 +1783,7 @@
   {
     "name": "Zee Cinema",
     "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zee_Cinema_2025.svg",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
@@ -2951,6 +2951,19 @@
     "tags": "VOD,Movies,English,Hollywood"
   },
   {
+    "name": "A Monster Calls",
+    "url": "https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik",
+    "logo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*emwwrn95wG1dewr8TioX2A@2x.jpeg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2016,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
+  },
+  {
     "name": "All The Best",
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/5bd3ccb26549b67c6027d72fc7e84c09/en/2x3/312x468/test_pic1734169387446.webp",
@@ -3029,6 +3042,32 @@
     "tags": "VOD,Movies,Hindi"
   },
   {
+    "name": "Bill & Ted Face the Music",
+    "url": "https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqHD16sgFiqvIoU4okYe1JQ3z1_EJrbZ_iw&s",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2020,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
+  },
+  {
+    "name": "Captive State",
+    "url": "https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q",
+    "logo": "https://a.ltrbxd.com/resized/film-poster/3/6/2/7/4/6/362746-captive-state-0-460-0-690-crop.jpg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2019,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
+  },
+  {
     "name": "Chhorii",
     "url": "https://d3s0ximcru5bdx.cloudfront.net/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1-1734073865064/cmaf/H_264/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1/abundantia-AB_CHHORII_2021-Full-Mezz_UHD-hi-IN-R1.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/2x3/312x468/test_pic1738931102928.webp",
@@ -3042,6 +3081,32 @@
     "tags": "VOD,Movies,Hindi"
   },
   {
+    "name": "Collateral Beauty",
+    "url": "https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c",
+    "logo": "https://m.media-amazon.com/images/S/pv-target-images/54506512a59a5a3b9e00d58c3a9bb94dd33bd36639f77e899d36292acb56f995.jpg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2016,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
+  },
+  {
+    "name": "Daddy's Home",
+    "url": "https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs",
+    "logo": "https://m.media-amazon.com/images/S/pv-target-images/3eba95a3f61a1dff2dbdf32bc5bce6a0a2cdb93ebd2e964d7fac7be698d9a325.jpg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2015,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
+  },
+  {
     "name": "Dedh Ishqiya",
     "url": "https://d3sgzbosmwirao.cloudfront.net/video/8ed48707fccb2650bb768a07d19560bf325d658bb4914411250d4257e21c58cb/2/hls/h264_high.m3u8",
     "logo": "https://qqcdnpictest.mxplay.com/pic/bd3117f2eb110775795c0232cee15f32/en/2x3/312x468/test_pic1740039361452.webp",
@@ -3053,6 +3118,19 @@
     "year": 2014,
     "status": true,
     "tags": "VOD,Movies,Hindi"
+  },
+  {
+    "name": "Destroyer",
+    "url": "https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMTU2ODk4NTQ1NV5BMl5BanBnXkFtZTgwMzUwNzc4NjM@._V1_.jpg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2018,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
   },
   {
     "name": "Dhrishyam 2",
@@ -3118,6 +3196,19 @@
     "year": 2005,
     "status": true,
     "tags": "VOD,Movies,Hindi"
+  },
+  {
+    "name": "Dragon Ball Super: Broly",
+    "url": "https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE",
+    "logo": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDg0MTc0OTAyNjY2ODg2/dragon-ball-super-broly-2019-review.jpg",
+    "category": "Movies",
+    "group": "Video On Demand",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": 2019,
+    "status": true,
+    "tags": "VOD,Movies,English,Hollywood"
   },
   {
     "name": "Dus",
