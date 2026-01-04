@@ -201,8 +201,8 @@ add_channel() {
 EOF
 )
 
-    # Add the new channel and sort by category first, then by name within each category
-    jq --argjson new "$new_channel" '. + [$new] | sort_by(.category, .name)' "$json_file" > "${json_file}.tmp" && mv "${json_file}.tmp" "$json_file"
+    # Add the new channel and sort by group first, then by name within each group
+    jq --argjson new "$new_channel" '. + [$new] | sort_by(.group, .name)' "$json_file" > "${json_file}.tmp" && mv "${json_file}.tmp" "$json_file"
 }
 
 # Main function

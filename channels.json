@@ -20,7 +20,7 @@
     "group": "Bhojpuri",
     "country": "IN",
     "language": "Bhojpuri",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,Bhojpuri"
@@ -59,7 +59,7 @@
     "group": "Bhojpuri",
     "country": "IN",
     "language": "Bhojpuri",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Bhojpuri"
@@ -85,7 +85,7 @@
     "group": "Doordarshan",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "504p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -352,15 +352,15 @@
   },
   {
     "name": "&TV",
-    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "logo": "https://i.postimg.cc/NjPB5gtG/andtv.png",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Entertainment",
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -371,7 +371,20 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "504p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Anjan TV",
+    "url": "https://cdn-1.pishow.tv/live/993/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anjan_TV.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -410,7 +423,7 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -419,6 +432,19 @@
     "name": "Dangal TV",
     "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Epic TV",
+    "url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png?width=300",
     "category": "Entertainment",
     "group": "Entertainment",
     "country": "IN",
@@ -462,7 +488,7 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -475,7 +501,7 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -488,7 +514,7 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Marathi"
@@ -501,7 +527,7 @@
     "group": "Entertainment",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -553,7 +579,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -657,7 +683,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "540p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -683,7 +709,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "240p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -722,7 +748,7 @@
     "group": "Hollywood",
     "country": "TR",
     "language": "Persian",
-    "resolution": "1080p",
+    "resolution": null,
     "year": null,
     "status": true,
     "tags": "Movies,Persian,Hollywood"
@@ -775,6 +801,19 @@
     "country": "UK",
     "language": "English",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,English,Hollywood"
+  },
+  {
+    "name": "Lotus TV",
+    "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8",
+    "logo": "https://i.imgur.com/7j8Lnog.png",
+    "category": "Movies",
+    "group": "Hollywood",
+    "country": "MO",
+    "language": "English",
+    "resolution": null,
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -852,7 +891,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": null,
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -930,7 +969,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -943,7 +982,7 @@
     "group": "Hollywood",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -956,7 +995,7 @@
     "group": "Hollywood",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -969,7 +1008,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "360p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -982,7 +1021,7 @@
     "group": "Hollywood",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "544p",
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
@@ -1004,7 +1043,7 @@
     "name": "4K Travel",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8",
     "logo": "https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png",
-    "category": "Infotainment",
+    "category": "Travel",
     "group": "Infotainment",
     "country": "US",
     "language": "English",
@@ -1017,7 +1056,7 @@
     "name": "BBC Earth US",
     "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
     "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",
-    "category": "Infotainment",
+    "category": "Nature",
     "group": "Infotainment",
     "country": "US",
     "language": "English",
@@ -1027,12 +1066,12 @@
     "tags": "Infotainment,English"
   },
   {
-    "name": "Discover Film",
-    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/oMnpsQ5.png",
-    "category": "Infotainment",
+    "name": "Drone TV",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8",
+    "logo": "https://photos.prnewswire.com/prnfull/20150515/10122924",
+    "category": "Travel",
     "group": "Infotainment",
-    "country": "UK",
+    "country": "US",
     "language": "English",
     "resolution": "1080p",
     "year": null,
@@ -1040,23 +1079,10 @@
     "tags": "Infotainment,English"
   },
   {
-    "name": "Epic TV",
-    "url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png?width=300",
-    "category": "Infotainment",
-    "group": "Infotainment",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Infotainment,Hindi"
-  },
-  {
     "name": "Escape TV",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png",
-    "category": "Infotainment",
+    "category": "Nature",
     "group": "Infotainment",
     "country": "US",
     "language": "English",
@@ -1069,7 +1095,7 @@
     "name": "Foodxp",
     "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
-    "category": "Infotainment",
+    "category": "Food",
     "group": "Infotainment",
     "country": "US",
     "language": "Hindi",
@@ -1082,7 +1108,7 @@
     "name": "Goa365",
     "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png?width=300",
-    "category": "Infotainment",
+    "category": "Travel",
     "group": "Infotainment",
     "country": "IN",
     "language": "English",
@@ -1095,7 +1121,7 @@
     "name": "History TV18 HD",
     "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png?width=300",
-    "category": "Infotainment",
+    "category": "History",
     "group": "Infotainment",
     "country": "IN",
     "language": "English",
@@ -1108,7 +1134,7 @@
     "name": "History TV18 HD",
     "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png?width=300",
-    "category": "Infotainment",
+    "category": "History",
     "group": "Infotainment",
     "country": "IN",
     "language": "Hindi",
@@ -1121,7 +1147,7 @@
     "name": "National Geographic Wild",
     "url": "https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
     "logo": "https://i.imgur.com/8X4jiMY.png",
-    "category": "Infotainment",
+    "category": "Nature",
     "group": "Infotainment",
     "country": "NZ",
     "language": "English",
@@ -1134,7 +1160,7 @@
     "name": "Space Series",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Space_Series_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png",
-    "category": "Infotainment",
+    "category": "Space",
     "group": "Infotainment",
     "country": "US",
     "language": "English",
@@ -1147,7 +1173,7 @@
     "name": "Travelxp 4K HDR",
     "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
     "logo": "https://tatalogo.pages.dev/923.png",
-    "category": "Infotainment",
+    "category": "Travel",
     "group": "Infotainment",
     "country": "US",
     "language": "English",
@@ -1157,10 +1183,23 @@
     "tags": "Infotainment,English"
   },
   {
+    "name": "Weather Spy",
+    "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://i.imgur.com/KIEKOt1.png",
+    "category": "Weather",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Infotainment,English"
+  },
+  {
     "name": "Wild Earth",
     "url": "https://wildearth-plex.amagi.tv/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png?width=300",
-    "category": "Infotainment",
+    "category": "Nature",
     "group": "Infotainment",
     "country": "UK",
     "language": "English",
@@ -1203,7 +1242,7 @@
     "group": "Kids",
     "country": "AU",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1216,7 +1255,7 @@
     "group": "Kids",
     "country": "CA",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1229,7 +1268,7 @@
     "group": "Kids",
     "country": "GB",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1259,6 +1298,19 @@
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,Hindi"
+  },
+  {
+    "name": "Discover Film",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://i.imgur.com/oMnpsQ5.png",
+    "category": "Movies",
+    "group": "Kids",
+    "country": "UK",
+    "language": "English",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,English,Kids"
   },
   {
     "name": "Discovery Kids",
@@ -1294,7 +1346,7 @@
     "group": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,Hindi"
@@ -1307,7 +1359,7 @@
     "group": "Kids",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1332,11 +1384,11 @@
     "category": "Kids",
     "group": "Kids",
     "country": "IN",
-    "language": "English",
-    "resolution": "1080p",
+    "language": "Hindi",
+    "resolution": "576p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,English"
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Jungle Book",
@@ -1352,30 +1404,17 @@
     "tags": "Kids,Cartoon,Hindi"
   },
   {
-    "name": "Kids Flix (US)",
+    "name": "KidsFlix (US)",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
     "logo": "https://www.kidsflix.com/themes/custom/viva/kidsflix/img/header.png",
-    "category": "Kids",
+    "category": "Movies",
     "group": "Kids",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
-  },
-  {
-    "name": "KidsFlix",
-    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
-    "logo": "https://i.imgur.com/4Pn0ADQ.png",
-    "category": "Kids",
-    "group": "Kids",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Kids,Movies"
   },
   {
     "name": "Motu Patlu",
@@ -1385,7 +1424,7 @@
     "group": "Kids",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,Hindi"
@@ -1397,11 +1436,11 @@
     "category": "Kids",
     "group": "Kids",
     "country": "IT",
-    "language": "English",
+    "language": "Italian",
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,English"
+    "tags": "Kids,Cartoon,Italian"
   },
   {
     "name": "Nick HD+",
@@ -1422,9 +1461,9 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/800px-PBS_Kids_logo_%282022%29.svg.png",
     "category": "Kids",
     "group": "Kids",
-    "country": "IN",
+    "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1463,7 +1502,7 @@
     "group": "Kids",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1476,7 +1515,7 @@
     "group": "Kids",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1489,7 +1528,7 @@
     "group": "Kids",
     "country": "BR",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1502,7 +1541,7 @@
     "group": "Kids",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1515,7 +1554,7 @@
     "group": "Kids",
     "country": "US",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1528,7 +1567,7 @@
     "group": "Kids",
     "country": "SG",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
@@ -1580,7 +1619,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "504p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1638,6 +1677,19 @@
     "tags": "Movies,Hindi"
   },
   {
+    "name": "Dhamaka Movies B4U",
+    "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
+    "logo": "https://i.postimg.cc/L4Cpy9qt/b4uplus.png",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
     "name": "Goldmines",
     "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
     "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",
@@ -1645,7 +1697,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1658,7 +1710,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1671,7 +1723,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1684,7 +1736,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1697,7 +1749,7 @@
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1710,10 +1762,23 @@
     "group": "Movies",
     "country": "IN",
     "language": "Punjabi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Punjabi"
+  },
+  {
+    "name": "NH Bollyflix",
+    "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png&h=250",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
   },
   {
     "name": "Shemaroo Bollywood",
@@ -1742,14 +1807,14 @@
     "tags": "Movies,Hindi"
   },
   {
-    "name": "The Movie Club",
-    "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
-    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "name": "Wow Cinema One",
+    "url": "https://cdn-2.pishow.tv/live/231/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LOGO_HD/image.png",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -1840,7 +1905,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -1853,7 +1918,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Marathi"
@@ -1866,7 +1931,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -1879,7 +1944,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Punjabi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Punjabi"
@@ -1892,7 +1957,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -1931,7 +1996,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -1957,7 +2022,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -1983,7 +2048,7 @@
     "group": "Music",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Music,Marathi"
@@ -2016,12 +2081,12 @@
   },
   {
     "name": "Zoom",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png?width=300",
     "category": "Music",
     "group": "Music",
     "country": "IN",
-    "language": "English",
+    "language": "Hindi",
     "resolution": "1080p",
     "year": null,
     "status": true,
@@ -2067,7 +2132,7 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "Aaj Tak",
+    "name": "Aaj Tak HD",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300",
     "category": "News",
@@ -2139,7 +2204,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": null,
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2152,7 +2217,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2165,10 +2230,23 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "480p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
+  },
+  {
+    "name": "Bollywood Masala",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8",
+    "logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,w_608,h_342/https://a.jsrdn.com/hls/23142/bollywood-masala/thumbh_20240213_192946.png",
+    "category": "Entertainment",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Entertainment,Movies,Music,Hindi"
   },
   {
     "name": "CNBC TV18",
@@ -2178,7 +2256,7 @@
     "group": "News",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,English"
@@ -2204,7 +2282,7 @@
     "group": "News",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "News,English"
@@ -2230,7 +2308,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2243,7 +2321,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "360p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2256,7 +2334,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2269,7 +2347,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2282,7 +2360,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "360p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2295,7 +2373,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2334,7 +2412,7 @@
     "group": "News",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,English"
@@ -2373,7 +2451,7 @@
     "group": "News",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,English"
@@ -2399,6 +2477,19 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "NDTV Madhya Pradesh Chhattisgarh",
+    "url": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
     "resolution": "1080p",
     "year": null,
     "status": true,
@@ -2418,6 +2509,19 @@
     "tags": "News,Marathi"
   },
   {
+    "name": "NDTV Rajasthan",
+    "url": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_RAJASTHAN/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
     "name": "News 24",
     "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png?width=300",
@@ -2425,7 +2529,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2477,7 +2581,7 @@
     "group": "News",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "News,Marathi"
@@ -2490,7 +2594,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2503,7 +2607,7 @@
     "group": "News",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Marathi"
@@ -2529,7 +2633,7 @@
     "group": "News",
     "country": "IN",
     "language": "English",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,English"
@@ -2542,7 +2646,7 @@
     "group": "News",
     "country": "IN",
     "language": "Marathi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Marathi"
@@ -2555,7 +2659,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2568,7 +2672,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2581,7 +2685,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2594,7 +2698,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2607,7 +2711,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2620,7 +2724,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2633,7 +2737,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2646,7 +2750,7 @@
     "group": "News",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -2659,7 +2763,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "396p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2672,7 +2776,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2685,7 +2789,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2698,7 +2802,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "396p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2717,9 +2821,35 @@
     "tags": "Spiritual,Hindi"
   },
   {
+    "name": "Hare Krsna",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8",
+    "logo": "https://video.iskcondesiretree.com/wp-content/uploads/2015/10/iskcon-desire-tree-video-logo.png",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Spiritual,Hindi,Krishna"
+  },
+  {
     "name": "Ishwar TV",
     "url": "https://cdn-2.pishow.tv/live/1464/master.m3u8",
     "logo": "https://yt3.googleusercontent.com/lJu5q0PvotxbP5FajcvDN9XnifrlIYfuNm32wyToFDPsbGISf_K1r57O-qm6yMq1l9rQQeBDpA=s160-c-k-c0x00ffffff-no-rj",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Spiritual,Hindi"
+  },
+  {
+    "name": "SVBC 4",
+    "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png",
     "category": "Spiritual",
     "group": "Spiritual",
     "country": "IN",
@@ -2737,7 +2867,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "360p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2750,7 +2880,7 @@
     "group": "Spiritual",
     "country": "UK",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2763,7 +2893,7 @@
     "group": "Spiritual",
     "country": "US",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "288p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2776,7 +2906,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2789,7 +2919,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2802,7 +2932,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2828,7 +2958,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2841,7 +2971,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2854,7 +2984,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
@@ -2867,7 +2997,7 @@
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
-    "resolution": "1080p",
+    "resolution": "396p",
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
