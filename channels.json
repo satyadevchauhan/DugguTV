@@ -65,6 +65,19 @@
     "tags": "Movies,Bhojpuri"
   },
   {
+    "name": "Sangeet Bhojpuri",
+    "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
+    "category": "Music",
+    "group": "Bhojpuri",
+    "country": "IN",
+    "language": "Bhojpuri",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Music,Bhojpuri"
+  },
+  {
     "name": "DD Arun Prabha",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8",
     "logo": "https://i.imgur.com/dHURIzT.png",
@@ -728,6 +741,19 @@
     "tags": "Movies,English,Hollywood"
   },
   {
+    "name": "Discover Film",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://i.imgur.com/oMnpsQ5.png",
+    "category": "Movies",
+    "group": "Hollywood",
+    "country": "UK",
+    "language": "English",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,English,Hollywood"
+  },
+  {
     "name": "Drive In Movie Channel",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png",
@@ -1183,6 +1209,19 @@
     "tags": "Infotainment,English"
   },
   {
+    "name": "Travelxp HD",
+    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "category": "Travel",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Infotainment,English,Hindi"
+  },
+  {
     "name": "Weather Spy",
     "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
     "logo": "https://i.imgur.com/KIEKOt1.png",
@@ -1300,19 +1339,6 @@
     "tags": "Kids,Cartoon,Hindi"
   },
   {
-    "name": "Discover Film",
-    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/oMnpsQ5.png",
-    "category": "Movies",
-    "group": "Kids",
-    "country": "UK",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": true,
-    "tags": "Movies,English,Kids"
-  },
-  {
     "name": "Discovery Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png?width=300",
@@ -1322,7 +1348,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -1335,7 +1361,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -1384,11 +1410,11 @@
     "category": "Kids",
     "group": "Kids",
     "country": "IN",
-    "language": "Hindi",
+    "language": "English",
     "resolution": "576p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,Hindi"
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Jungle Book",
@@ -1656,7 +1682,7 @@
     "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png",
     "category": "Movies",
     "group": "Movies",
-    "country": "IN",
+    "country": "RO",
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
@@ -1669,7 +1695,7 @@
     "logo": "https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg",
     "category": "Movies",
     "group": "Movies",
-    "country": "IN",
+    "country": "RO",
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
@@ -1965,7 +1991,7 @@
   {
     "name": "Dhamaal",
     "url": "https://cdn-1.pishow.tv/live/1291/master.m3u8",
-    "logo": "https://i.imgur.com/J6D56EF.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
     "category": "Music",
     "group": "Music",
     "country": "IN",
@@ -2167,7 +2193,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "News,Hindi"
   },
   {
@@ -2627,7 +2653,7 @@
   },
   {
     "name": "WION",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "url": "https://raw.githubusercontent.com/satyadevchauhan/DugguTV/main/streams/in/WION.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png?width=300",
     "category": "News",
     "group": "News",
@@ -2653,7 +2679,7 @@
   },
   {
     "name": "Zee Bihar Jharkhand",
-    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8",
+    "url": "https://raw.githubusercontent.com/satyadevchauhan/DugguTV/main/streams/in/ZeeBiharJharkhand.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Purvaiya.png?width=300",
     "category": "News",
     "group": "News",
@@ -2795,6 +2821,19 @@
     "tags": "Spiritual,Hindi"
   },
   {
+    "name": "Channel Divya",
+    "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Spiritual,Hindi"
+  },
+  {
     "name": "Dharm Sandesh",
     "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8",
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png",
@@ -2925,6 +2964,19 @@
     "tags": "Spiritual,Hindi"
   },
   {
+    "name": "Santvani Channel",
+    "url": "https://cdn-2.pishow.tv/live/475/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANTVANI/images/LOGO_HD/LOGO_HD_image.png",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Spiritual,Hindi"
+  },
+  {
     "name": "Satsang Digital",
     "url": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
     "logo": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/3269519SATSANG_DIGITAL_LOGO.png",
@@ -2977,6 +3029,19 @@
     "tags": "Spiritual,Hindi"
   },
   {
+    "name": "TBN TV",
+    "url": "https://live.suricloud.com/hls/tbntv/index.m3u8",
+    "logo": "https://i.imgur.com/Fhl1dtY.jpg",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "SR",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Spiritual,Hindi"
+  },
+  {
     "name": "Total Bhakti",
     "url": "https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8",
     "logo": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5802371total_bhakti_hd.png",
@@ -2992,7 +3057,7 @@
   {
     "name": "Vedic",
     "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vedic_TV.png",
     "category": "Spiritual",
     "group": "Spiritual",
     "country": "IN",
