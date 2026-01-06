@@ -15,7 +15,7 @@
   {
     "name": "Bhojpuri Cinema",
     "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
     "category": "Movies",
     "group": "Bhojpuri",
     "country": "IN",
@@ -182,6 +182,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "DD India",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png",
+    "category": "News",
+    "group": "Doordarshan",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,English"
+  },
+  {
     "name": "DD Jharkhand",
     "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Doordarshan_Jharkhand.jpg",
@@ -256,7 +269,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -403,6 +416,32 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Bollywood 4U",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?hdnts=st%3D1754308205~exp%3D1754329805~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BOLLYWOOD-4U-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F22d13e33-8705-40e8-9809-4e80aa795f15%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.208.127.80_yuppfast_2_channel_47_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.208.127.80_yuppfast_2_channel_47_-1~hmac%3D25281293c70ead925d58cf2ad28dd98d9786766130d0d2df12bf5bae1e1e4d47",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Chana Jor",
+    "url": "https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png",
+    "category": "Comedy",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi,Comedy"
+  },
+  {
     "name": "Colour Blind",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",
@@ -414,6 +453,19 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Comedy Tadka",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/master.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png",
+    "category": "Comedy",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi,Comedy"
   },
   {
     "name": "Dabangg",
@@ -455,6 +507,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Desi Play TV",
+    "url": "https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
     "name": "Epic TV",
     "url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png?width=300",
@@ -479,6 +544,19 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Marathi"
+  },
+  {
+    "name": "Hi Dost!",
+    "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png?width=300",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,English,Hindi"
   },
   {
     "name": "Ishara TV",
@@ -515,6 +593,19 @@
     "country": "IN",
     "language": "Hindi",
     "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Nazara",
+    "url": "https://epiconvh.akamaized.net/live/nazara/master_480.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png?width=300",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
@@ -600,7 +691,7 @@
   {
     "name": "Action Hollywood Movies",
     "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
-    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",
     "category": "Movies",
     "group": "Hollywood",
     "country": "US",
@@ -1118,19 +1209,6 @@
     "tags": "Infotainment,English"
   },
   {
-    "name": "Foodxp",
-    "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
-    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
-    "category": "Food",
-    "group": "Infotainment",
-    "country": "US",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Infotainment,Hindi"
-  },
-  {
     "name": "Goa365",
     "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png?width=300",
@@ -1404,19 +1482,6 @@
     "tags": "Kids,Cartoon,Hindi"
   },
   {
-    "name": "Hi Dost!",
-    "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png?width=300",
-    "category": "Kids",
-    "group": "Kids",
-    "country": "IN",
-    "language": "English",
-    "resolution": "576p",
-    "year": null,
-    "status": true,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
     "name": "Jungle Book",
     "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s",
@@ -1610,6 +1675,32 @@
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,English"
+  },
+  {
+    "name": "Food Food",
+    "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
+    "category": "Cooking",
+    "group": "Lifestyle",
+    "country": "IN",
+    "language": "Others",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Lifestyle,Cooking,Hindi"
+  },
+  {
+    "name": "Foodxp",
+    "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
+    "category": "Cooking",
+    "group": "Lifestyle",
+    "country": "US",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Lifestyle,Cooking,Hindi"
   },
   {
     "name": "&flix",
@@ -1846,6 +1937,19 @@
     "tags": "Movies,Hindi"
   },
   {
+    "name": "ZB Cinema",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Bangla",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi,Bangla"
+  },
+  {
     "name": "Zee Bollymovies",
     "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
     "logo": "https://www.lyngsat.com/logo/tv/zz/zee-bollymovies-in.png",
@@ -2054,19 +2158,6 @@
     "tags": "Music,Hindi"
   },
   {
-    "name": "Nazara",
-    "url": "https://epiconvh.akamaized.net/live/nazara/master_480.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png?width=300",
-    "category": "Music",
-    "group": "Music",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Music,Hindi"
-  },
-  {
     "name": "Sangeet Marathi",
     "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png?width=300",
@@ -2106,6 +2197,19 @@
     "tags": "Music,Hindi"
   },
   {
+    "name": "ZB Music",
+    "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
+    "category": "Music",
+    "group": "Music",
+    "country": "IN",
+    "language": "Bangla",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Music,Hindi,Bangla"
+  },
+  {
     "name": "Zoom",
     "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png?width=300",
@@ -2114,6 +2218,19 @@
     "country": "IN",
     "language": "Hindi",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Music,Hindi"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "category": "Music",
+    "group": "Music",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Music,Hindi"
@@ -2160,7 +2277,7 @@
   {
     "name": "Aaj Tak HD",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png",
     "category": "News",
     "group": "News",
     "country": "IN",
@@ -2392,6 +2509,58 @@
     "tags": "News,Hindi"
   },
   {
+    "name": "India News",
+    "url": "https://newsxott.in/hls/indianewsnational.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India News Haryana",
+    "url": "https://newsxott.in/hls/indianewsharyana.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India News MP/Chhattisgarh",
+    "url": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India News UP/Uttarakhand",
+    "url": "https://newsxott.in/hls/indianewsupuk.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
     "name": "India TV",
     "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png",
@@ -2444,6 +2613,19 @@
     "tags": "News,English"
   },
   {
+    "name": "Jai Maharashtra",
+    "url": "https://cdn-3.pishow.tv/live/1465/master.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Marathi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "News,Marathi"
+  },
+  {
     "name": "Living India News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Living_India_News.png?width=300",
@@ -2457,7 +2639,20 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "Maiboli ",
+    "name": "Lokshahi News",
+    "url": "https://see.lokshahi.live/live/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Marathi",
+    "resolution": null,
+    "year": null,
+    "status": true,
+    "tags": "News,Marathi"
+  },
+  {
+    "name": "Maiboli",
     "url": "https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png?width=300",
     "category": "News",
@@ -2509,7 +2704,7 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "NDTV Madhya Pradesh Chhattisgarh",
+    "name": "NDTV MP Chhattisgarh",
     "url": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png",
     "category": "News",
@@ -2574,6 +2769,123 @@
     "tags": "News,Hindi"
   },
   {
+    "name": "News18 Bihar Jharkhand",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8",
+    "logo": "https://i.imgur.com/FQ3zDZE.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": null,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 India",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 JKLH",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_JK_HIMACHAL/images/LOGO_HD/LOGO_HD_image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 Lokmat",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Marathi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Marathi"
+  },
+  {
+    "name": "News18 MP Chhattisgarh",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 Rajasthan",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 UP Uttarakhand",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "News18 Urdu",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8",
+    "logo": "https://i.imgur.com/8xnwMRR.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Urdu",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Urdu"
+  },
+  {
+    "name": "Republic Bharat",
+    "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
     "name": "Republic TV",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png?width=300",
@@ -2585,19 +2897,6 @@
     "year": null,
     "status": true,
     "tags": "News,English"
-  },
-  {
-    "name": "Repulic Bharat",
-    "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
   },
   {
     "name": "Saam TV",
@@ -2626,9 +2925,22 @@
     "tags": "News,Hindi"
   },
   {
+    "name": "TV9 Bharatvarsh",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png?width=300",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
     "name": "TV9 Marathi",
     "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd=w240-h480-rw",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png?width=300",
     "category": "News",
     "group": "News",
     "country": "IN",
@@ -2730,7 +3042,7 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "name": "Zee MP Chhattisgarh",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8",
     "logo": "https://yt3.googleusercontent.com/yTIy-oADsKUGbdR92P3exxP-2HpRNbxvQtz6En_2bJ1pyIgfw400ibfNErg0SXBsVGKAU1FCRA=s160-c-k-c0x00ffffff-no-rj",
     "category": "News",
@@ -2769,7 +3081,7 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "Zee Uttar Pradesh/Uttarakhand",
+    "name": "Zee UP Uttarakhand",
     "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8",
     "logo": "https://yt3.googleusercontent.com/RGYHJ4OhvOrua3CqiKx_JA83hwVIkC9y1sQeZM0GIyGvy45SBYwikTfWheVkMaFwftl6ZdHrcQ=s160-c-k-c0x00ffffff-no-rj",
     "category": "News",
@@ -2821,19 +3133,6 @@
     "tags": "Spiritual,Hindi"
   },
   {
-    "name": "Channel Divya",
-    "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png",
-    "category": "Spiritual",
-    "group": "Spiritual",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Spiritual,Hindi"
-  },
-  {
     "name": "Dharm Sandesh",
     "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8",
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png",
@@ -2847,22 +3146,35 @@
     "tags": "Spiritual,Hindi"
   },
   {
-    "name": "Divya TV",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png",
+    "name": "Divya Bhajan",
+    "url": "https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-DivyaBhajan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/36801376-5c1a-4325-a76c-4a887413f87a/playlist.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png",
     "category": "Spiritual",
     "group": "Spiritual",
     "country": "IN",
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
+    "tags": "Spiritual,Hindi"
+  },
+  {
+    "name": "Divya TV",
+    "url": "https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
     "tags": "Spiritual,Hindi"
   },
   {
     "name": "Hare Krsna",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8",
-    "logo": "https://video.iskcondesiretree.com/wp-content/uploads/2015/10/iskcon-desire-tree-video-logo.png",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",
     "category": "Spiritual",
     "group": "Spiritual",
     "country": "IN",

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="b4ubhojpuri" tvg-name="B4U Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png?width=300" tvg-category="Movies" tvg-group="Bhojpuri" tvg-country="IN" tvg-language="Bhojpuri" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,Bhojpuri",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="bhojpuricinema" tvg-name="Bhojpuri Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-category="Movies" tvg-group="Bhojpuri" tvg-country="IN" tvg-language="Bhojpuri" tvg-resolution="720p" tvg-status="true" tvg-tags="Movies,Bhojpuri",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="bhojpuricinema" tvg-name="Bhojpuri Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" tvg-category="Movies" tvg-group="Bhojpuri" tvg-country="IN" tvg-language="Bhojpuri" tvg-resolution="720p" tvg-status="true" tvg-tags="Movies,Bhojpuri",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="filamchibhojpuri" tvg-name="Filamchi Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png?width=300" tvg-category="Movies" tvg-group="Bhojpuri" tvg-country="IN" tvg-language="Bhojpuri" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,Bhojpuri",Filamchi Bhojpuri
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
@@ -27,6 +27,8 @@ https://cdn-6.pishow.tv/live/14/master.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 #EXTINF:-1 tvg-id="ddhimachalpradesh" tvg-name="DD Himachal Pradesh" tvg-logo="https://i.imgur.com/5IfuVGR.png" tvg-category="Entertainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="504p" tvg-status="true" tvg-tags="Entertainment,Hindi",DD Himachal Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="ddindia" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png" tvg-category="News" tvg-group="Doordarshan" tvg-country="IN" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,English",DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1 tvg-id="ddjharkhand" tvg-name="DD Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Doordarshan_Jharkhand.jpg" tvg-category="Entertainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="Entertainment,Hindi",DD Jharkhand
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
 #EXTINF:-1 tvg-id="ddkisan" tvg-name="DD Kisan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png?width=300" tvg-category="Infotainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Infotainment,Hindi",DD Kisan
@@ -37,7 +39,7 @@ https://cdn-1.pishow.tv/live/31/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="ddnews" tvg-name="DD News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png?width=300" tvg-category="News" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="ddrajasthan" tvg-name="DD Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png?width=300" tvg-category="Entertainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="false" tvg-tags="Entertainment,Hindi",DD Rajasthan
+#EXTINF:-1 tvg-id="ddrajasthan" tvg-name="DD Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png?width=300" tvg-category="Entertainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",DD Rajasthan
 https://cdn-1.pishow.tv/live/34/master.m3u8
 #EXTINF:-1 tvg-id="ddsahyadri" tvg-name="DD Sahyadri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png?width=300" tvg-category="Entertainment" tvg-group="Doordarshan" tvg-country="IN" tvg-language="Hindi" tvg-resolution="504p" tvg-status="true" tvg-tags="Entertainment,Hindi",DD Sahyadri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
@@ -61,24 +63,36 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 #EXTINF:-1 tvg-id="anjantv" tvg-name="Anjan TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anjan_TV.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,Hindi",Anjan TV
 https://cdn-1.pishow.tv/live/993/master.m3u8
+#EXTINF:-1 tvg-id="bollywood4u" tvg-name="Bollywood 4U" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Bollywood 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?hdnts=st%3D1754308205~exp%3D1754329805~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BOLLYWOOD-4U-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F22d13e33-8705-40e8-9809-4e80aa795f15%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.208.127.80_yuppfast_2_channel_47_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.208.127.80_yuppfast_2_channel_47_-1~hmac%3D25281293c70ead925d58cf2ad28dd98d9786766130d0d2df12bf5bae1e1e4d47
+#EXTINF:-1 tvg-id="chanajor" tvg-name="Chana Jor" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png" tvg-category="Comedy" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi,Comedy",Chana Jor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
 #EXTINF:-1 tvg-id="colourblind" tvg-name="Colour Blind" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Colour Blind
 https://streams2.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+#EXTINF:-1 tvg-id="comedytadka" tvg-name="Comedy Tadka" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png" tvg-category="Comedy" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi,Comedy",Comedy Tadka
+https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/master.m3u8
 #EXTINF:-1 tvg-id="dabangg" tvg-name="Dabangg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="false" tvg-tags="Entertainment,Hindi",Dabangg
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
 #EXTINF:-1 tvg-id="dangal2" tvg-name="Dangal 2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="Entertainment,Hindi",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="dangaltv" tvg-name="Dangal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="Entertainment,Hindi",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="desiplaytv" tvg-name="Desi Play TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Desi Play TV
+https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8
 #EXTINF:-1 tvg-id="epictv" tvg-name="Epic TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Epic TV
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-id="faktmarathi" tvg-name="Fakt Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fakt_Marathi.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Marathi" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,Marathi",Fakt Marathi
 https://cdn-6.pishow.tv/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="hidost!" tvg-name="Hi Dost!" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="English" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,English,Hindi",Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-id="isharatv" tvg-name="Ishara TV" tvg-logo="https://source.epicon.in/epicon/assets/images/ishara-logo.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Ishara TV
 https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 #EXTINF:-1 tvg-id="manoranjangrand" tvg-name="Manoranjan Grand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Manoranjan-Grand.jpeg" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,Hindi",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="manoranjantv" tvg-name="Manoranjan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,Hindi",Manoranjan TV
 https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:-1 tvg-id="nazara" tvg-name="Nazara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Entertainment,Hindi",Nazara
+https://epiconvh.akamaized.net/live/nazara/master_480.m3u8
 #EXTINF:-1 tvg-id="shemaroomarathibana" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Marathi" tvg-resolution="720p" tvg-status="true" tvg-tags="Entertainment,Marathi",Shemaroo Marathi Bana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="shemarootv" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png?width=300" tvg-category="Entertainment" tvg-group="Entertainment" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Entertainment,Hindi",Shemaroo TV
@@ -91,7 +105,7 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="24hourfreemovies" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-category="Movies" tvg-group="Hollywood" tvg-country="US" tvg-language="English" tvg-resolution="720p" tvg-status="true" tvg-tags="Movies,English,Hollywood",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="actionhollywoodmovies" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" tvg-category="Movies" tvg-group="Hollywood" tvg-country="US" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,English,Hollywood",Action Hollywood Movies
+#EXTINF:-1 tvg-id="actionhollywoodmovies" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" tvg-category="Movies" tvg-group="Hollywood" tvg-country="US" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,English,Hollywood",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="bangbang" tvg-name="Bang Bang" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png" tvg-category="Movies" tvg-group="Hollywood" tvg-country="US" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,English,Hollywood",Bang Bang
 https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
@@ -171,8 +185,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 tvg-id="escapetv" tvg-name="Escape TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" tvg-category="Nature" tvg-group="Infotainment" tvg-country="US" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Infotainment,English",Escape TV
 https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8
-#EXTINF:-1 tvg-id="foodxp" tvg-name="Foodxp" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" tvg-category="Food" tvg-group="Infotainment" tvg-country="US" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Infotainment,Hindi",Foodxp
-https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="goa365" tvg-name="Goa365" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png?width=300" tvg-category="Travel" tvg-group="Infotainment" tvg-country="IN" tvg-language="English" tvg-resolution="1080p" tvg-status="false" tvg-tags="Infotainment,English",Goa365
 https://ktismaservers.in:3086/live/goa365live.m3u8
 #EXTINF:-1 tvg-id="historytv18hd" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png?width=300" tvg-category="History" tvg-group="Infotainment" tvg-country="IN" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Infotainment,English",History TV18 HD
@@ -215,8 +227,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="gubbare" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png?width=300" tvg-category="Kids" tvg-group="Kids" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Kids,Cartoon,Hindi",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="hidost!" tvg-name="Hi Dost!" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png?width=300" tvg-category="Kids" tvg-group="Kids" tvg-country="IN" tvg-language="English" tvg-resolution="576p" tvg-status="true" tvg-tags="Kids,Cartoon,English",Hi Dost!
-https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-id="junglebook" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" tvg-category="Kids" tvg-group="Kids" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Kids,Cartoon,Hindi",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="kidsflix(us)" tvg-name="KidsFlix (US)" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/img/header.png" tvg-category="Movies" tvg-group="Kids" tvg-country="US" tvg-language="English" tvg-resolution="720p" tvg-status="true" tvg-tags="Kids,Cartoon,English",KidsFlix (US)
@@ -247,6 +257,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 #EXTINF:-1 tvg-id="zoomoo" tvg-name="Zoo Moo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" tvg-category="Kids" tvg-group="Kids" tvg-country="SG" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="Kids,Cartoon,English",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="foodfood" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-category="Cooking" tvg-group="Lifestyle" tvg-country="IN" tvg-language="Others" tvg-resolution="576p" tvg-status="true" tvg-tags="Lifestyle,Cooking,Hindi",Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="foodxp" tvg-name="Foodxp" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" tvg-category="Cooking" tvg-group="Lifestyle" tvg-country="US" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Lifestyle,Cooking,Hindi",Foodxp
+https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="&flix" tvg-name="&flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-category="Movies" tvg-group="Movies" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="false" tvg-tags="Movies,Hindi",&flix
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="anmovies" tvg-name="AN Movies" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" tvg-category="Movies" tvg-group="Movies" tvg-country="CA" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="false" tvg-tags="Movies,Hindi",AN Movies
@@ -283,6 +297,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="wowcinemaone" tvg-name="Wow Cinema One" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LOGO_HD/image.png" tvg-category="Movies" tvg-group="Movies" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Movies,Hindi",Wow Cinema One
 https://cdn-2.pishow.tv/live/231/master.m3u8
+#EXTINF:-1 tvg-id="zbcinema" tvg-name="ZB Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" tvg-category="Movies" tvg-group="Movies" tvg-country="IN" tvg-language="Bangla" tvg-resolution="720p" tvg-status="true" tvg-tags="Movies,Hindi,Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="zeebollymovies" tvg-name="Zee Bollymovies" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bollymovies-in.png" tvg-category="Movies" tvg-group="Movies" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,Hindi",Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="zeecineclassic" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" tvg-category="Movies" tvg-group="Movies" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Movies,Hindi",Zee Cine Classic
@@ -315,23 +331,25 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 #EXTINF:-1 tvg-id="musicindia" tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png?width=300" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Music,Hindi",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="nazara" tvg-name="Nazara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png?width=300" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Music,Hindi",Nazara
-https://epiconvh.akamaized.net/live/nazara/master_480.m3u8
 #EXTINF:-1 tvg-id="sangeetmarathi" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png?width=300" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Marathi" tvg-resolution="576p" tvg-status="true" tvg-tags="Music,Marathi",Sangeet Marathi
 https://cdn-3.pishow.tv/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="shadowbox" tvg-name="ShadowBox" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/00/ShowBox_TV_logo.png" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Music,Hindi",ShadowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-id="yrfmusic" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png?width=300" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Music,Hindi",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="zbmusic" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Bangla" tvg-resolution="720p" tvg-status="true" tvg-tags="Music,Hindi,Bangla",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png?width=300" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Music,Hindi",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" tvg-category="Music" tvg-group="Music" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="Music,Hindi",Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="abpganga" tvg-name="ABP Ganga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",ABP Ganga
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
 #EXTINF:-1 tvg-id="abpmajha" tvg-name="ABP Majha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Marathi",ABP Majha
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
 #EXTINF:-1 tvg-id="abpnews" tvg-name="ABP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",ABP News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
-#EXTINF:-1 tvg-id="aajtakhd" tvg-name="Aaj Tak HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Aaj Tak HD
+#EXTINF:-1 tvg-id="aajtakhd" tvg-name="Aaj Tak HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="aapkiadalat" tvg-name="Aap Ki Adalat" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA=w240-h480-rw" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Aap Ki Adalat
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
@@ -367,6 +385,14 @@ https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 tvg-id="inh24x7" tvg-name="INH 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/INH_24x7.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="360p" tvg-status="true" tvg-tags="News,Hindi",INH 24x7
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="indianews" tvg-name="India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",India News
+https://newsxott.in/hls/indianewsnational.m3u8
+#EXTINF:-1 tvg-id="indianewsharyana" tvg-name="India News Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",India News Haryana
+https://newsxott.in/hls/indianewsharyana.m3u8
+#EXTINF:-1 tvg-id="indianewsmp/chhattisgarh" tvg-name="India News MP/Chhattisgarh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",India News MP/Chhattisgarh
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 tvg-id="indianewsup/uttarakhand" tvg-name="India News UP/Uttarakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",India News UP/Uttarakhand
+https://newsxott.in/hls/indianewsupuk.m3u8
 #EXTINF:-1 tvg-id="indiatv" tvg-name="India TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="indiatvaapkiadalat" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",India TV Aap Ki Adalat
@@ -375,9 +401,13 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
 #EXTINF:-1 tvg-id="indiatoday" tvg-name="India Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="English" tvg-resolution="720p" tvg-status="true" tvg-tags="News,English",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="jaimaharashtra" tvg-name="Jai Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="576p" tvg-status="true" tvg-tags="News,Marathi",Jai Maharashtra
+https://cdn-3.pishow.tv/live/1465/master.m3u8
 #EXTINF:-1 tvg-id="livingindianews" tvg-name="Living India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Living_India_News.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Living India News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
-#EXTINF:-1 tvg-id="maiboli" tvg-name="Maiboli " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="1080p" tvg-status="false" tvg-tags="News,Marathi",Maiboli 
+#EXTINF:-1 tvg-id="lokshahinews" tvg-name="Lokshahi News" tvg-logo="https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-status="true" tvg-tags="News,Marathi",Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-id="maiboli" tvg-name="Maiboli" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="1080p" tvg-status="false" tvg-tags="News,Marathi",Maiboli
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 #EXTINF:-1 tvg-id="ndtv24x7" tvg-name="NDTV 24X7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="English" tvg-resolution="720p" tvg-status="true" tvg-tags="News,English",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -385,7 +415,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ndtvindia" tvg-name="NDTV India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="ndtvmadhyapradeshchhattisgarh" tvg-name="NDTV Madhya Pradesh Chhattisgarh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",NDTV Madhya Pradesh Chhattisgarh
+#EXTINF:-1 tvg-id="ndtvmpchhattisgarh" tvg-name="NDTV MP Chhattisgarh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",NDTV MP Chhattisgarh
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 #EXTINF:-1 tvg-id="ndtvmarathi" tvg-name="NDTV Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MARATHI/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Marathi",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
@@ -395,15 +425,33 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="newsnation" tvg-name="News Nation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-id="news18biharjharkhand" tvg-name="News18 Bihar Jharkhand" tvg-logo="https://i.imgur.com/FQ3zDZE.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 Bihar Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18india" tvg-name="News18 India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18jklh" tvg-name="News18 JKLH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_JK_HIMACHAL/images/LOGO_HD/LOGO_HD_image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 JKLH
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18lokmat" tvg-name="News18 Lokmat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Marathi",News18 Lokmat
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18mpchhattisgarh" tvg-name="News18 MP Chhattisgarh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 MP Chhattisgarh
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18rajasthan" tvg-name="News18 Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18uputtarakhand" tvg-name="News18 UP Uttarakhand" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",News18 UP Uttarakhand
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news18urdu" tvg-name="News18 Urdu" tvg-logo="https://i.imgur.com/8xnwMRR.png" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Urdu" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Urdu",News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="republicbharat" tvg-name="Republic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="republictv" tvg-name="Republic TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="English" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,English",Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-#EXTINF:-1 tvg-id="repulicbharat" tvg-name="Repulic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Repulic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="saamtv" tvg-name="Saam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="576p" tvg-status="true" tvg-tags="News,Marathi",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-id="sadhnaplusnews" tvg-name="Sadhna Plus News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="tv9marathi" tvg-name="TV9 Marathi" tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd=w240-h480-rw" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Marathi",TV9 Marathi
+#EXTINF:-1 tvg-id="tv9bharatvarsh" tvg-name="TV9 Bharatvarsh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="tv9marathi" tvg-name="TV9 Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Marathi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Marathi",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="timesnownavbharat" tvg-name="Times Now Navbharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="News,Hindi",Times Now Navbharat
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
@@ -419,13 +467,13 @@ https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 #EXTINF:-1 tvg-id="zeehindustan" tvg-name="Zee Hindustan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee Hindustan
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 tvg-id="zeemadhyapradeshchhattisgarh" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-logo="https://yt3.googleusercontent.com/yTIy-oADsKUGbdR92P3exxP-2HpRNbxvQtz6En_2bJ1pyIgfw400ibfNErg0SXBsVGKAU1FCRA=s160-c-k-c0x00ffffff-no-rj" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee Madhya Pradesh Chhattisgarh
+#EXTINF:-1 tvg-id="zeempchhattisgarh" tvg-name="Zee MP Chhattisgarh" tvg-logo="https://yt3.googleusercontent.com/yTIy-oADsKUGbdR92P3exxP-2HpRNbxvQtz6En_2bJ1pyIgfw400ibfNErg0SXBsVGKAU1FCRA=s160-c-k-c0x00ffffff-no-rj" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee MP Chhattisgarh
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 #EXTINF:-1 tvg-id="zeenews" tvg-name="Zee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="zeerajasthan" tvg-name="Zee Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan.png?width=300" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee Rajasthan
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 tvg-id="zeeuttarpradesh/uttarakhand" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://yt3.googleusercontent.com/RGYHJ4OhvOrua3CqiKx_JA83hwVIkC9y1sQeZM0GIyGvy45SBYwikTfWheVkMaFwftl6ZdHrcQ=s160-c-k-c0x00ffffff-no-rj" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee Uttar Pradesh/Uttarakhand
+#EXTINF:-1 tvg-id="zeeuputtarakhand" tvg-name="Zee UP Uttarakhand" tvg-logo="https://yt3.googleusercontent.com/RGYHJ4OhvOrua3CqiKx_JA83hwVIkC9y1sQeZM0GIyGvy45SBYwikTfWheVkMaFwftl6ZdHrcQ=s160-c-k-c0x00ffffff-no-rj" tvg-category="News" tvg-group="News" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="News,Hindi",Zee UP Uttarakhand
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="aasthabhajan" tvg-name="Aastha Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png?width=300" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="396p" tvg-status="true" tvg-tags="Spiritual,Hindi",Aastha Bhajan
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
@@ -433,13 +481,13 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="aasthaprime" tvg-name="Aastha Prime" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/180/content/common/channel/logos/txbmsf.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="720p" tvg-status="true" tvg-tags="Spiritual,Hindi",Aastha Prime
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="channeldivya" tvg-name="Channel Divya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Spiritual,Hindi",Channel Divya
-https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-id="dharmsandesh" tvg-name="Dharm Sandesh" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="396p" tvg-status="true" tvg-tags="Spiritual,Hindi",Dharm Sandesh
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="divyatv" tvg-name="Divya TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="false" tvg-tags="Spiritual,Hindi",Divya TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
-#EXTINF:-1 tvg-id="harekrsna" tvg-name="Hare Krsna" tvg-logo="https://video.iskcondesiretree.com/wp-content/uploads/2015/10/iskcon-desire-tree-video-logo.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Spiritual,Hindi,Krishna",Hare Krsna
+#EXTINF:-1 tvg-id="divyabhajan" tvg-name="Divya Bhajan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Spiritual,Hindi",Divya Bhajan
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-DivyaBhajan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/36801376-5c1a-4325-a76c-4a887413f87a/playlist.m3u8
+#EXTINF:-1 tvg-id="divyatv" tvg-name="Divya TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Spiritual,Hindi",Divya TV
+https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8
+#EXTINF:-1 tvg-id="harekrsna" tvg-name="Hare Krsna" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="1080p" tvg-status="true" tvg-tags="Spiritual,Hindi,Krishna",Hare Krsna
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8
 #EXTINF:-1 tvg-id="ishwartv" tvg-name="Ishwar TV" tvg-logo="https://yt3.googleusercontent.com/lJu5q0PvotxbP5FajcvDN9XnifrlIYfuNm32wyToFDPsbGISf_K1r57O-qm6yMq1l9rQQeBDpA=s160-c-k-c0x00ffffff-no-rj" tvg-category="Spiritual" tvg-group="Spiritual" tvg-country="IN" tvg-language="Hindi" tvg-resolution="576p" tvg-status="true" tvg-tags="Spiritual,Hindi",Ishwar TV
 https://cdn-2.pishow.tv/live/1464/master.m3u8
