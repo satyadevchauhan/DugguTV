@@ -2,6 +2,54 @@
 
 # Script to convert between JSON, CSV and M3U formats for channels
 
+# Usage guide
+usage_guide() {
+    cat << 'EOF'
+================================================================================
+                    Channel Format Converter - Usage Guide
+================================================================================
+
+DESCRIPTION:
+    Converts channel data between JSON, CSV, and M3U formats.
+
+USAGE:
+    ./convert_channels.sh <input_file> <output_file>
+
+SUPPORTED CONVERSIONS:
+    • JSON  ↔ M3U   (json_to_m3u, m3u_to_json)
+    • JSON  ↔ CSV   (json_to_csv, csv_to_json)
+    • M3U   ↔ CSV   (m3u_to_csv, csv_to_m3u)
+
+EXAMPLES:
+    ./convert_channels.sh channels.json channels.m3u
+    ./convert_channels.sh channels.m3u channels.csv
+    ./convert_channels.sh channels.csv channels.json
+
+FILE FORMATS:
+    JSON: [{name, url, logo, category, group, country, language, resolution, year, status, tags}]
+    CSV:  Pipe-delimited with header: name|url|logo|category|...
+    M3U:  M3U playlist format with EXTINF metadata
+
+REQUIREMENTS:
+    • jq (JSON processor) - auto-installed if missing
+    • gawk (AWK processor) - auto-installed if missing
+    • curl (for Windows jq download)
+
+SUPPORTED OPERATING SYSTEMS:
+    • Linux (apt/yum)
+    • macOS (Homebrew)
+    • Windows (MINGW/MSYS/Cygwin)
+
+================================================================================
+EOF
+}
+
+# Show usage guide if requested
+if [[ "$1" == "-h" ]] || [[ "$1" == "--help" ]]; then
+    usage_guide
+    exit 0
+fi
+
 # Function to check and install jq and gawk if missing
 check_and_install_jq() {
     local missing_tools=()
