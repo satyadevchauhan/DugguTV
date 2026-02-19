@@ -1,0 +1,152 @@
+[
+  {
+    "englishName": "Arabic",
+    "nativeName": "العربية",
+    "code": "ar",
+    "shortNative": "ع"
+  },
+  {
+    "englishName": "Bangla",
+    "nativeName": "বাংলা",
+    "code": "bn",
+    "shortNative": "বা"
+  },
+  {
+    "englishName": "Bhojpuri",
+    "nativeName": "भोजपुरी",
+    "code": "bho",
+    "shortNative": "भो"
+  },
+  {
+    "englishName": "Chhattisgarhi",
+    "nativeName": "छत्तीसगढ़ी",
+    "code": "hne",
+    "shortNative": "छ"
+  },
+  {
+    "englishName": "English",
+    "nativeName": "English",
+    "code": "en",
+    "shortNative": "En"
+  },
+  {
+    "englishName": "French",
+    "nativeName": "Français",
+    "code": "fr",
+    "shortNative": "Fr"
+  },
+  {
+    "englishName": "German",
+    "nativeName": "Deutsch",
+    "code": "de",
+    "shortNative": "De"
+  },
+  {
+    "englishName": "Gujarati",
+    "nativeName": "ગુજરાતી",
+    "code": "gu",
+    "shortNative": "ગુ"
+  },
+  {
+    "englishName": "Haryanvi",
+    "nativeName": "हरियाणवी",
+    "code": "bgc",
+    "shortNative": "ह"
+  },
+  {
+    "englishName": "Hindi",
+    "nativeName": "हिंदी",
+    "code": "hi",
+    "shortNative": "हि"
+  },
+  {
+    "englishName": "Italian",
+    "nativeName": "Italiano",
+    "code": "it",
+    "shortNative": "It"
+  },
+  {
+    "englishName": "Japanese",
+    "nativeName": "日本語",
+    "code": "ja",
+    "shortNative": "日"
+  },
+  {
+    "englishName": "Kannada",
+    "nativeName": "ಕನ್ನಡ",
+    "code": "kn",
+    "shortNative": "ಕ"
+  },
+  {
+    "englishName": "Korean",
+    "nativeName": "한국어",
+    "code": "ko",
+    "shortNative": "한"
+  },
+  {
+    "englishName": "Malayalam",
+    "nativeName": "മലയാളം",
+    "code": "ml",
+    "shortNative": "മ"
+  },
+  {
+    "englishName": "Mandarin",
+    "nativeName": "中文",
+    "code": "zh",
+    "shortNative": "中"
+  },
+  {
+    "englishName": "Marathi",
+    "nativeName": "मराठी",
+    "code": "mr",
+    "shortNative": "म"
+  },
+  {
+    "englishName": "Persian",
+    "nativeName": "فارسی",
+    "code": "fa",
+    "shortNative": "ف"
+  },
+  {
+    "englishName": "Portuguese",
+    "nativeName": "Português",
+    "code": "pt",
+    "shortNative": "Pt"
+  },
+  {
+    "englishName": "Punjabi",
+    "nativeName": "ਪੰਜਾਬੀ",
+    "code": "pa",
+    "shortNative": "ਪੰ"
+  },
+  {
+    "englishName": "Russian",
+    "nativeName": "Русский",
+    "code": "ru",
+    "shortNative": "Ру"
+  },
+  {
+    "englishName": "Spanish",
+    "nativeName": "Español",
+    "code": "es",
+    "shortNative": "Es"
+  },
+  {
+    "englishName": "Tamil",
+    "nativeName": "தமிழ்",
+    "code": "ta",
+    "shortNative": "த"
+  },
+  {
+    "englishName": "Telugu",
+    "nativeName": "తెలుగు",
+    "code": "te",
+    "shortNative": "తె"
+  },
+  {
+    "englishName": "Urdu",
+    "nativeName": "اردو",
+    "code": "ur",
+    "shortNative": "اُر"
+  }
+]
