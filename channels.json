@@ -331,11 +331,11 @@
     "category": "Entertainment",
     "group": "Doordarshan",
     "country": "IN",
-    "language": "Hindi",
+    "language": "Marathi",
     "resolution": "504p",
     "year": null,
     "status": true,
-    "tags": "Entertainment,Hindi"
+    "tags": "Entertainment,Marathi"
   },
   {
     "name": "DD Sports",
@@ -1127,7 +1127,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "English,Movies,Hollywood"
   },
   {
@@ -1137,11 +1137,11 @@
     "category": "Movies",
     "group": "Hollywood",
     "country": "IN",
-    "language": "Hindi",
+    "language": "English",
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi,Hollywood"
+    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "CW Forever",
@@ -1493,19 +1493,6 @@
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Grand Cinema",
-    "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema-tr.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "TR",
-    "language": "Persian",
-    "resolution": "720p",
-    "year": null,
-    "status": true,
-    "tags": "Movies,Persian,Hollywood"
   },
   {
     "name": "HBO 1",
@@ -1870,19 +1857,6 @@
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Movie Sphere (BR)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV",
-    "logo": "https://imgur.com/92rUCKL.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "BR",
-    "language": "Portuguese",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Movies,Portuguese,Hollywood"
   },
   {
     "name": "Movie Sphere (UK)",
@@ -2743,19 +2717,6 @@
     "tags": "Infotainment,Hindi"
   },
   {
-    "name": "Animax",
-    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ-U-D8hXQkgvxtvUd7SlRjdZTjdhcvApYqdSLAghKQ&s",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "JP",
-    "language": "Japanese",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Kids,Cartoon,Japanese"
-  },
-  {
     "name": "Baby First",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
     "logo": "https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png",
@@ -2866,11 +2827,11 @@
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
-    "language": "Hindi",
+    "language": "English",
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,Hindi"
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Discovery Kids",
@@ -2879,11 +2840,11 @@
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
-    "language": "Hindi",
+    "language": "English",
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,Hindi"
+    "tags": "Kids,Cartoon,English"
   },
   {
     "name": "Disney JR",
@@ -3040,32 +3001,6 @@
     "year": null,
     "status": true,
     "tags": "Kids,Cartoon,Hindi"
-  },
-  {
-    "name": "Mr Bean Animated (IT)",
-    "url": "https://amg00627-amg00627c29-xiaomi-international-4920.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-xiaomiinternational/playlist.m3u8",
-    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "IT",
-    "language": "Italian",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Kids,Cartoon,Italian"
-  },
-  {
-    "name": "Naruto (CH)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-naruto-lgch/playlist.m3u8",
-    "logo": "https://i.imgur.com/M8X3Kvc.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "CH",
-    "language": "Mandarin",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Movies,Mandarin,Kids"
   },
   {
     "name": "Nick HD+",
@@ -3432,6 +3367,19 @@
     "tags": "Movies,Hindi"
   },
   {
+    "name": "BollyGold",
+    "url": "https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8",
+    "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-11_20_45-PM-1-200x300.png",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
     "name": "Bollywood Classic",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/6b126777-7e9a-444f-9845-48fa1d4ed694/1.m3u8",
     "logo": "https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",
@@ -3453,6 +3401,19 @@
     "country": "RO",
     "language": "Hindi",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Bollywood Max",
+    "url": "https://vods2.aynaott.com/hindimovies/playlist.m3u8",
+    "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-10_34_22-PM-1-200x300.png",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
     "year": null,
     "status": true,
     "tags": "Movies,Hindi"
@@ -3616,6 +3577,19 @@
   {
     "name": "Shemaroo Bollywood",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Shemaroo Bollywood 2",
+    "url": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300",
     "category": "Movies",
     "group": "Movies",
