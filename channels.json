@@ -48,7 +48,7 @@
     "language": "Bhojpuri",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Bhojpuri",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -107,6 +107,19 @@
     "tags": "Entertainment,Bhojpuri"
   },
   {
+    "name": "Movie Plex",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8",
+    "logo": "https://i.imgur.com/THJEAqJ.png",
+    "category": "Movies",
+    "group": "Bhojpuri",
+    "country": "IN",
+    "language": "Bhojpuri",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Bhojpuri"
+  },
+  {
     "name": "Oscar Movies Bhojpuri",
     "url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",
@@ -155,7 +168,7 @@
     "language": "Bhojpuri",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Bhojpuri",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -431,7 +444,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -568,6 +581,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Colors Bangla HD",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Bangla",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Bangla"
+  },
+  {
     "name": "Colors HD",
     "url": "https://m3uplay.com/leo/live.m3u8?id=144",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png?width=300",
@@ -577,7 +603,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -593,7 +619,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,English",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -609,7 +635,7 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Marathi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -625,7 +651,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -849,7 +875,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -865,7 +891,7 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Marathi"
   },
   {
@@ -878,7 +904,7 @@
     "language": "Marathi",
     "resolution": "288p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Marathi"
   },
   {
@@ -943,7 +969,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -972,7 +998,7 @@
     "language": "Marathi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Marathi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -988,7 +1014,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -1004,7 +1030,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -1020,7 +1046,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -1049,7 +1075,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -1078,7 +1104,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -1094,7 +1120,7 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Marathi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -1110,7 +1136,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -1221,6 +1247,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Zee Bangla HD",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Bangla",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Bangla"
+  },
+  {
     "name": "Zee Comedy Nation",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
@@ -1282,7 +1321,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -1356,7 +1395,7 @@
   {
     "name": "Action!",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8",
-    "logo": "https://b4uplay.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-8-2025-09_11_57-PM-200x300.jpg",
+    "logo": "https://i.imgur.com/UgsVv3Q.png",
     "category": "Movies",
     "group": "Hollywood",
     "country": "US",
@@ -1952,6 +1991,19 @@
     "tags": "Movies,English,Hollywood"
   },
   {
+    "name": "Kung Fu",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png",
+    "category": "Movies",
+    "group": "Hollywood",
+    "country": "US",
+    "language": "Others",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "English, Hollywood"
+  },
+  {
     "name": "LG 1",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957",
     "logo": "https://b4uplay.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-28-2025-08_12_28-AM-1-200x300.png",
@@ -2065,7 +2117,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -2497,7 +2549,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -2744,11 +2796,11 @@
     "category": "Movies",
     "group": "Hollywood",
     "country": "IN",
-    "language": "Hindi",
+    "language": "English",
     "resolution": "720p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi"
+    "tags": "Movies,English"
   },
   {
     "name": "Xumo Comedy Movies",
@@ -2903,7 +2955,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -2933,6 +2985,19 @@
     "resolution": "576p",
     "year": null,
     "status": false,
+    "tags": "Infotainment,English"
+  },
+  {
+    "name": "Discovery Asia",
+    "url": "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8",
+    "logo": "https://i.postimg.cc/7hkmbg85/d-asia.jpg",
+    "category": "Nature",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
     "tags": "Infotainment,English"
   },
   {
@@ -3062,7 +3127,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3080,6 +3145,19 @@
     "year": null,
     "status": true,
     "tags": "Nature,English"
+  },
+  {
+    "name": "Love The Planet",
+    "url": "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8",
+    "logo": "https://i.postimg.cc/VLJ8Bbbc/love-the-planet.jpg",
+    "category": "Nature",
+    "group": "Infotainment",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "English,Infotainment"
   },
   {
     "name": "NDTV Good Times",
@@ -3208,7 +3286,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,English"
   },
   {
@@ -3221,7 +3299,7 @@
     "language": "English",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,English"
   },
   {
@@ -3325,7 +3403,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Animation,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3380,7 +3458,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3539,7 +3617,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Animation,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3555,7 +3633,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Animation,English",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3610,7 +3688,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,English"
   },
   {
@@ -3623,7 +3701,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3639,7 +3717,7 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Marathi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3707,7 +3785,7 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Marathi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -3736,11 +3814,24 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Animation,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
     }
+  },
+  {
+    "name": "Super Mario Brothers",
+    "url": "https://aka-live1050.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8",
+    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-09_22_08-AM-1-200x300.png",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "US",
+    "language": "English",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Animation,English"
   },
   {
     "name": "Super Toons TV",
@@ -3934,7 +4025,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4067,7 +4158,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4106,7 +4197,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Hindi,Entertainment",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -4122,7 +4213,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4138,7 +4229,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4154,7 +4245,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4248,7 +4339,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4378,7 +4469,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -4394,7 +4485,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4410,7 +4501,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://b4uplay.com/"
@@ -4478,7 +4569,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -4689,7 +4780,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4822,7 +4913,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4838,7 +4929,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -4858,6 +4949,19 @@
     "tags": "Music,Hindi"
   },
   {
+    "name": "Melody Hits",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HMELODYHITS/index.m3u8",
+    "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-7-2025-07_09_26-PM-1-200x300.png",
+    "category": "Music",
+    "group": "Music",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Hindi, Music"
+  },
+  {
     "name": "Merchant Records",
     "url": "https://m3uplay.com/leo/live.m3u8?id=2064",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Merchant_Records.png?width=300",
@@ -4867,7 +4971,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://m3uplay.com/"
@@ -4909,7 +5013,7 @@
     "language": "Marathi",
     "resolution": "288p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Marathi"
   },
   {
@@ -4927,7 +5031,7 @@
   },
   {
     "name": "Sangeet Marathi",
-    "url": "https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png?width=300",
     "category": "Music",
     "group": "Music",
@@ -4948,7 +5052,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -4990,7 +5094,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi",
     "headers": {
       "Referer": "https://tulnit.com/"
@@ -5557,7 +5661,7 @@
   },
   {
     "name": "NDTV MP Chhattisgarh",
-    "url": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8",
+    "url": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png",
     "category": "News",
     "group": "News",
@@ -5751,6 +5855,19 @@
     "tags": "News,English"
   },
   {
+    "name": "Pudhari News",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUDHARINEWS/index.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pudhari-Logo_2000_X_1125_Transpharent.png",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "Marathi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "News,Marathi"
+  },
+  {
     "name": "Republic Bharat",
     "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png?width=300",
@@ -5777,6 +5894,19 @@
     "tags": "News,English"
   },
   {
+    "name": "Reuters",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197",
+    "logo": "https://i.postimg.cc/cHCwD43k/reuters-u.jpg",
+    "category": "News",
+    "group": "News",
+    "country": "US",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,English"
+  },
+  {
     "name": "S News",
     "url": "https://amigofx.com:1936/SChannel/SChannel/index.m3u8",
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-11-2025-09_49_28-AM-1-185x278.png",
@@ -5786,7 +5916,7 @@
     "language": "Marathi",
     "resolution": "288p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "News,Marathi"
   },
   {
@@ -5814,6 +5944,19 @@
     "year": null,
     "status": true,
     "tags": "News,Hindi"
+  },
+  {
+    "name": "TOI Global",
+    "url": "https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8",
+    "logo": "https://i.postimg.cc/h4QwtVyC/toi.jpg",
+    "category": "News",
+    "group": "News",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,English"
   },
   {
     "name": "TV9 Bharatvarsh",
@@ -6025,7 +6168,7 @@
   },
   {
     "name": "Alright!",
-    "url": "https://csm-e-cesharedlsgsin2live-87593135.bln1.yospace.com/csm/extlive/runntvprd01,alrightrunn.m3u8?yo.up=https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/manifest/",
+    "url": "https://prod-runn.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8",
     "logo": "https://img.airtel.tv/unsafe/fit-in/1100x0/filters:format(webp)/https://image.airtel.tv/grandslam/content/2025_04_28/1X1-withoutBG.png",
     "category": "Entertainment",
     "group": "OTT",
@@ -6194,7 +6337,7 @@
   },
   {
     "name": "Runn Short Films",
-    "url": "https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8",
+    "url": "https://f72e02ae6fd4491980c663c8729a1afb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/runshf-airtel/playlist.m3u8",
     "logo": "https://img.airtel.tv/unsafe/fit-in/1100x0/filters:format(webp)/https://image.airtel.tv/grandslam/content/2025_04_28/1X1-withoutBG.png",
     "category": "Movies",
     "group": "OTT",
@@ -6384,7 +6527,7 @@
     "language": "Marathi",
     "resolution": "288p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Spiritual,Marathi"
   },
   {
@@ -6412,6 +6555,19 @@
     "year": null,
     "status": true,
     "tags": "Spiritual,Hindi"
+  },
+  {
+    "name": "Sai Leela",
+    "url": "https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8",
+    "logo": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qjucjr.jpeg",
+    "category": "Spiritual",
+    "group": "Spiritual",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Hindi,Spiritual"
   },
   {
     "name": "Sanskar Digital",
