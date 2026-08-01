@@ -67,7 +67,7 @@
   {
     "name": "Mahua Khabar",
     "url": "https://cdn.ottlive.co.in/mahuakhabar/index.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/a5f25741ddf46e8c129bd95e68784731.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/mahuakhabar.png?width=300",
     "category": "News",
     "group": "Bhojpuri",
     "country": "IN",
@@ -141,22 +141,6 @@
     "year": null,
     "status": true,
     "tags": "Music,Bhojpuri"
-  },
-  {
-    "name": "Saregama Hum Bhojpuri",
-    "url": "https://saregama.keralive.workers.dev/saregamabhojpuri/saregamabhojpuri_master.m3u8",
-    "logo": "https://yt3.googleusercontent.com/1DrkG_kzGIIuGVwknM-x0_S62gcCmEoLTr1L524IWeXb0nSuw5XXb58AyA7RVR_tvNJv09pASQ=s900-c-k-c0x00ffffff-no-rj",
-    "category": "Music",
-    "group": "Bhojpuri",
-    "country": "IN",
-    "language": "Bhojpuri",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Music,Bhojpuri",
-    "headers": {
-      "Referer": "https://tulnit.com/"
-    }
   },
   {
     "name": "DD Arun Prabha",
@@ -235,19 +219,6 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "DD Gyandarshan",
-    "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png?width=300",
-    "category": "Infotainment",
-    "group": "Doordarshan",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "576p",
-    "year": null,
-    "status": true,
-    "tags": "Infotainment,Hindi"
   },
   {
     "name": "DD Haryana",
@@ -395,7 +366,7 @@
   {
     "name": "Lok Sabha TV",
     "url": "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png?width=300",
+    "logo": "https://dtil.tmsimg.com/assets/s166275_ld_h15_aa.png?lock=300x225",
     "category": "Infotainment",
     "group": "Doordarshan",
     "country": "IN",
@@ -407,8 +378,8 @@
   },
   {
     "name": "Rajya Sabha TV",
-    "url": "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png?width=300",
+    "url": "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=300x225",
     "category": "Infotainment",
     "group": "Doordarshan",
     "country": "IN",
@@ -419,17 +390,69 @@
     "tags": "Infotainment,Hindi"
   },
   {
-    "name": "Vyas NIC",
-    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
-    "logo": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
-    "category": "Infotainment",
-    "group": "Doordarshan",
+    "name": "DD Gyandarshan",
+    "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png?width=300",
+    "category": "Education",
+    "group": "Education",
     "country": "IN",
     "language": "Hindi",
     "resolution": "576p",
     "year": null,
     "status": true,
-    "tags": "Infotainment,Hindi"
+    "tags": "Education,Hindi"
+  },
+  {
+    "name": "DIY Art",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-DIY-ART_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png",
+    "category": "Education",
+    "group": "Education",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Education,Hindi"
+  },
+  {
+    "name": "Turito IIT JEE",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thiit.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png",
+    "category": "Education",
+    "group": "Education",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Education,Hindi"
+  },
+  {
+    "name": "Turito NEET",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
+    "category": "Education",
+    "group": "Education",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Education,Hindi"
+  },
+  {
+    "name": "Vyas NIC",
+    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "logo": "https://static.nimbusmgovcloud.in/iam/v2/components/images/NIC.a51c7e8936ce5c21dc822d1620cac702.png",
+    "category": "Education",
+    "group": "Education",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Education,Hindi"
   },
   {
     "name": "&TV HD USA",
@@ -494,19 +517,6 @@
     "resolution": "576p",
     "year": null,
     "status": true,
-    "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "Arré",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/4e989832-a7c9-44d2-97e9-8e90185a465b/2.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb19cec9335b849dc6fe4b6324449f46.png?width=300",
-    "category": "Entertainment",
-    "group": "Entertainment",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -601,6 +611,32 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Comedy King",
+    "url": "https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20251126T004249SQUARE.png&h=250",
+    "category": "Comedy",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi,Comedy"
+  },
+  {
+    "name": "Comedy Nights",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-210779/index.m3u8",
+    "logo": "https://m.media-amazon.com/images/S/pv-target-images/656a9e605cdcdc71a9f819fa83a4b4e2c015d88ccb3692e49893d14c326cdca9.jpg",
+    "category": "Comedy",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi,Comedy"
+  },
+  {
     "name": "Dabangg",
     "url": "https://d1taaads3ztvmu.cloudfront.net/120723/dabangg/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png?width=300",
@@ -616,7 +652,7 @@
   {
     "name": "Dangal 2",
     "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
-    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",
+    "logo": "https://i.imgur.com/BEr1r7L.png",
     "category": "Entertainment",
     "group": "Entertainment",
     "country": "IN",
@@ -637,19 +673,6 @@
     "resolution": "720p",
     "year": null,
     "status": true,
-    "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "Desi Play TV",
-    "url": "https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png",
-    "category": "Entertainment",
-    "group": "Entertainment",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -720,7 +743,7 @@
   {
     "name": "Hitz Entertainment",
     "url": "https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_58_41-PM-1-185x278.png",
+    "logo": "https://amigofx.com/livetvlogo/hitzentertainment.png",
     "category": "Entertainment",
     "group": "Entertainment",
     "country": "IN",
@@ -744,9 +767,22 @@
     "tags": "Entertainment,Bangla"
   },
   {
+    "name": "Kings Of Comedy",
+    "url": "https://cc-ejrl4az77gvl4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/OTM/OTM_KINGS_OF_COMEDY_SAMSUNG/playlist.m3u8",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260623T015215SQUARE.png&h=250",
+    "category": "Comedy",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi,Comedy"
+  },
+  {
     "name": "Korean TV",
     "url": "https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-    "logo": "https://tulnit.com/wp-content/uploads/2024/01/ChatGPT-Image-Apr-1-2026-10_05_09-AM-1-200x300.png",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260623T015221SQUARE.png&h=250",
     "category": "Entertainment",
     "group": "Entertainment",
     "country": "IN",
@@ -914,7 +950,7 @@
   },
   {
     "name": "Sony AATH",
-    "url": "https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png?width=300",
     "category": "Entertainment",
     "group": "Entertainment",
@@ -922,7 +958,7 @@
     "language": "Bangla",
     "resolution": "720p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Entertainment,Bangla"
   },
   {
@@ -952,22 +988,6 @@
     "tags": "Entertainment,Hindi"
   },
   {
-    "name": "Star Bharat (US)",
-    "url": "https://maamusic.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/e5e760ed-051f-46e1-85f7-0a2f3bd474bd/0.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87cf91838555841d57fd0/images/LANDSCAPE_169/LANDSCAPE_169_yfAWKFoPk_STAR-BHARAT.png",
-    "category": "Entertainment",
-    "group": "Entertainment",
-    "country": "US",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Entertainment,Hindi",
-    "headers": {
-      "Referer": "https://tulnit.com/"
-    }
-  },
-  {
     "name": "Star Jalsha HD",
     "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/e1aa75c59d603d612304b26597eb0a24.png",
@@ -994,24 +1014,8 @@
     "tags": "Entertainment,Hindi"
   },
   {
-    "name": "Star Plus (US)",
-    "url": "https://maamusic.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/cd00a1b1-b1db-4b66-83eb-4aed37906440/0.m3u8",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPRjzVWC79PC_d0-E6rqzCEgPE0WpTUX0Y94d_8MZuHVYEYuz8PWTAfPk5yLbULzC3tUz-Ot3HRnmxS1E04m12_ZEwYSZd3rEwPlYBFetP20vKC647-NXJV6G_n0fSe3H64ON4sqGlrqr8Zv1SmHWm6zy0zNTynO03GZAu_MixRZVi28ObErrmL11GYFE/s320/Picsart_24-11-04_18-16-52-420.jpg",
-    "category": "Entertainment",
-    "group": "Entertainment",
-    "country": "US",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Entertainment,Hindi",
-    "headers": {
-      "Referer": "https://tulnit.com/"
-    }
-  },
-  {
     "name": "Star Pravah HD",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starpravah/master/chunklist.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=300x225",
     "category": "Entertainment",
     "group": "Entertainment",
@@ -1019,11 +1023,8 @@
     "language": "Marathi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
-    "tags": "Entertainment,Marathi",
-    "headers": {
-      "Referer": "https://tulnit.com/"
-    }
+    "status": true,
+    "tags": "Entertainment,Marathi"
   },
   {
     "name": "Swastik Stories",
@@ -1036,19 +1037,6 @@
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "TV Asia",
-    "url": "https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/f446a64fb0695b3a000722f52ec33712.png?width=300",
-    "category": "Entertainment",
-    "group": "Entertainment",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -1390,19 +1378,6 @@
     "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Cine Life",
-    "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
-    "logo": "https://bx-tv.com/wp-content/uploads/2021/06/cine-life.jpg",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
     "name": "Cinevault 80s",
     "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
     "logo": "https://i.imgur.com/xaCyyDd.png",
@@ -1427,19 +1402,6 @@
     "year": null,
     "status": true,
     "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Comic U",
-    "url": "https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/cc/comic-u.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "English,Movies,Hollywood"
   },
   {
     "name": "Cowboy Movie Channel",
@@ -1481,19 +1443,6 @@
     "tags": "English,Movies,Hollywood"
   },
   {
-    "name": "Crime ThrillHer - 2",
-    "url": "https://aegis-cloudfront-1.tubi.video/031498eb-5826-4ed2-9795-05723c10fbe0/playlist.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEGLQZS4GzR8pZudSglmdlvp05p7C_6OIDSvoiH8ptaLggMUM",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "English,Movies,Hollywood"
-  },
-  {
     "name": "Dark Matter TV",
     "url": "https://wurltricoast.global.transmit.live/hls/68768e16cc25a7bfe9220b6a/playlist.m3u8?wurl_channel=1570&amp;wurl_name=DarkMatterTV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkr_57SyFib-CP2EJJXMQSKkg-0pwn5A60w&s",
@@ -1518,19 +1467,6 @@
     "year": null,
     "status": true,
     "tags": "English,Movies,Hollywood"
-  },
-  {
-    "name": "Discover Film",
-    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/oMnpsQ5.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "UK",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
   },
   {
     "name": "Drive In Movie Channel",
@@ -1587,7 +1523,7 @@
   {
     "name": "Filmax",
     "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/07/ChatGPT-Image-Apr-18-2026-09_01_24-PM-1-200x300.png",
+    "logo": "https://i.imgur.com/eLmdZ6k.png",
     "category": "Movies",
     "group": "Hollywood",
     "country": "IN",
@@ -1665,7 +1601,7 @@
   {
     "name": "Fresh Movies",
     "url": "https://amg02411-vvsfilms-amg02411c1-lg-ca-9654.playouts.now.amagi.tv/playlist/amg02411-vvsfilms-freshmovies-lgca/playlist.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-21-2026-05_38_56-PM-1-200x300.png",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/3b7f45f1-a835-422d-ab18-fb82d12a30de/ColoredLogo_FreshMovies_1500x1000RDX.png",
     "category": "Movies",
     "group": "Hollywood",
     "country": "US",
@@ -1738,19 +1674,6 @@
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "English,Movies,Hollywood"
-  },
-  {
-    "name": "ION Mystery",
-    "url": "https://d244oh7c3eu1kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jf2csoeizag20/Ion_Mystery_US.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXebfA0bLx6Di6LBne0e7Uw10EOtNRx1PVZs9moFYkfYF7f_e0",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
     "tags": "English,Movies,Hollywood"
   },
   {
@@ -2014,45 +1937,6 @@
     "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Movies Action",
-    "url": "https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
-    "logo": "https://i.imgur.com/NIVhISa.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "SA",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "English,Movies,Hollywood"
-  },
-  {
-    "name": "Movies Thriller",
-    "url": "https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
-    "logo": "https://b4uplay.com/wp-content/uploads/2024/07/ChatGPT-Image-Jan-27-2026-09_42_03-AM-1-200x300.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "English,Movies,Hollywood"
-  },
-  {
-    "name": "Movies!",
-    "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8",
-    "logo": "https://cdn.prod.website-files.com/5ebb0a75e089719bcd83663c/63ddb88b11b8734de58cdd9c_Movies_Color02%20(1).jpg",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
     "name": "MyTime Movie Network (BR)",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
     "logo": "https://bx-tv.com/wp-content/uploads/2024/07/mytime.jpg",
@@ -2075,20 +1959,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Newflix",
-    "url": "https://newfhls.wns.live/hls/stream.m3u8",
-    "logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEVLhLA94onML9Hx7dlJkn0dqpultkNI95Q9wTAN1hsjw5HNW",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,English,Hollywood"
   },
   {
@@ -2262,7 +2133,7 @@
   },
   {
     "name": "Sony PIX HD",
-    "url": "https://stream.ottplus.bd/live/pix_hd_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/pix_hd_abr/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png?width=300",
     "category": "Movies",
     "group": "Hollywood",
@@ -2270,72 +2141,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": false,
-    "tags": "Movies,English"
-  },
-  {
-    "name": "Star Channel",
-    "url": "https://webtvstream.bhtelecom.ba/star_channel.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/40/2/star-channel-logo-png_seeklogo-403871.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Star Crime",
-    "url": "https://webtvstream.bhtelecom.ba/star_crime.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/50/1/star-crime-2023-logo-png_seeklogo-501501.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Star Life",
-    "url": "https://webtvstream.bhtelecom.ba/star_life.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/52/2/star-life-logo-png_seeklogo-520559.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Star Movies",
-    "url": "https://webtvstream.bhtelecom.ba/star_movies.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/52/2/star-movies-logo-png_seeklogo-523979.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English,Hollywood"
-  },
-  {
-    "name": "Star Movies HD",
-    "url": "https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8",
-    "logo": "https://dtil.tmsimg.com/assets/s140069_ld_h15_aa.png?lock=300x225",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "IN",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,English"
   },
   {
@@ -2391,22 +2197,9 @@
     "tags": "Movies,English,Hollywood"
   },
   {
-    "name": "Teen Wolf",
-    "url": "https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8?TCL",
-    "logo": "https://b4uplay.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-6-2026-08_22_47-AM-1-200x300.png",
-    "category": "Movies",
-    "group": "Hollywood",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "English,Movies,Hollywood"
-  },
-  {
     "name": "The Asylum",
     "url": "https://d1si3n1st4nkgb.cloudfront.net/10000/89009005/hls/master.m3u8?ads.xumo_channelId=89009005",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Jan-21-2026-06_12_55-PM-1-200x300.png",
+    "logo": "https://i.imgur.com/dx9tt1B.png",
     "category": "Movies",
     "group": "Hollywood",
     "country": "US",
@@ -2950,32 +2743,6 @@
     "tags": "Infotainment,Hindi"
   },
   {
-    "name": "Baby First",
-    "url": "https://sofast-lg.vgcdn.net/sofastplayout/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8",
-    "logo": "https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
-    "name": "Baby Shark TV (AU)",
-    "url": "https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8",
-    "logo": "https://yt3.ggpht.com/HmRKCZ8IQxKJd39MJEVi34_zBOaQMTZVrDTgXLJ-hmT1ue0nKOHqkZLhZaGwaqjKS85uNR7glQ=s400-c-k-c0x00ffffff-no-rj",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "AU",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
     "name": "Baby Shark TV (CA)",
     "url": "https://newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8",
     "logo": "https://yt3.ggpht.com/HmRKCZ8IQxKJd39MJEVi34_zBOaQMTZVrDTgXLJ-hmT1ue0nKOHqkZLhZaGwaqjKS85uNR7glQ=s400-c-k-c0x00ffffff-no-rj",
@@ -3064,19 +2831,6 @@
     "resolution": "720p",
     "year": null,
     "status": true,
-    "tags": "Kids,Cartoon,Hindi"
-  },
-  {
-    "name": "Disney JR",
-    "url": "https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3262,22 +3016,9 @@
     "tags": "Kids,Cartoon,Hindi"
   },
   {
-    "name": "Nickelodeon (US)",
-    "url": "https://fl31.moveonjoy.com/NICKELODEON/index.m3u8",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "US",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
     "name": "Oggy and the Cockroaches",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_42_47-AM-1-185x278.png",
+    "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
@@ -3301,19 +3042,6 @@
     "tags": "Kids,Cartoon,English"
   },
   {
-    "name": "Pink Panther",
-    "url": "https://linear-1069.frequency.stream/dist/tcltv/1069/hls/master/playlist.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "US",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
     "name": "Pokémon",
     "url": "https://docpe51mdltl5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kmbfz2xquz6p9/Pokemon_GB.m3u8",
     "logo": "https://gonintendo.com/attachments/image/65136/file/medium-71d82cb9bcb3b3a9b660252811d86177.png",
@@ -3329,7 +3057,7 @@
   {
     "name": "Power Kids Kartoon Channel",
     "url": "https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_05_18-PM-1-200x300.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png?width=300",
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
@@ -3338,6 +3066,19 @@
     "year": null,
     "status": true,
     "tags": "Animation,Hindi"
+  },
+  {
+    "name": "Shinchan",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8",
+    "logo": "https://s3.youthkiawaaz.com/wp-content/uploads/2011/05/07003834/shin-chan.jpg",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Kids,Cartoon,Hindi"
   },
   {
     "name": "Slugterra",
@@ -3381,7 +3122,7 @@
   {
     "name": "Super Toons TV",
     "url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-12_02_31-PM-1-200x300.png",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20250729T045852SQUARE.png",
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
@@ -3418,22 +3159,9 @@
     "tags": "Kids,Cartoon,English"
   },
   {
-    "name": "ToonzKids",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8",
-    "logo": "https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png",
-    "category": "Animation",
-    "group": "Kids",
-    "country": "US",
-    "language": "English",
-    "resolution": "720p",
-    "year": null,
-    "status": false,
-    "tags": "Kids,Cartoon,English"
-  },
-  {
     "name": "Transformers",
     "url": "https://aka-live1050.delivery.roku.com/73ee2a1b-b841-4143-b9f9-8b00b8f41bb8/t2-origin/out/v1/live.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-09_17_37-AM-1-200x300.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/%22The_Transformers%22_animated_series_title_card.jpg",
     "category": "Animation",
     "group": "Kids",
     "country": "IN",
@@ -3561,21 +3289,8 @@
     "tags": "Lifestyle,Cooking,Hindi"
   },
   {
-    "name": "&flix",
-    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,Hindi"
-  },
-  {
     "name": "&pictures HD",
-    "url": "https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/and_picture_hd_abr/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Movies",
     "group": "Movies",
@@ -3583,7 +3298,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,Hindi"
   },
   {
@@ -3597,19 +3312,6 @@
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi"
-  },
-  {
-    "name": "Abzy Movies",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Abzy-Movies.jpg",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "504p",
-    "year": null,
-    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3667,7 +3369,7 @@
   {
     "name": "Big Star Bollywood",
     "url": "https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_53_44-PM-1-200x300.png",
+    "logo": "https://amigofx.com/livetvlogo/bigstarmovie.png",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
@@ -3680,7 +3382,7 @@
   {
     "name": "Bollygold",
     "url": "https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2026/02/Bollywood-cinematic-logo-design-1-185x278.png",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260715T005745SQUARE.png&h=250",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
@@ -3688,19 +3390,6 @@
     "resolution": "1080p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi"
-  },
-  {
-    "name": "Bollywood Classic",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/6b126777-7e9a-444f-9845-48fa1d4ed694/1.m3u8",
-    "logo": "https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "RO",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3740,19 +3429,6 @@
     "resolution": "720p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi"
-  },
-  {
-    "name": "Dhamaka Movies B4U",
-    "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBRSFeXKx2apbNuNPthwA7asCSuxcgN3WI--KeGsIaJxhDcT3bX_q_Aq4xnQqQ1QnMqkSt5rtmHYcrUefYsr0S9UHJs7xhu4Aj06L7TLCyrMbms6WGmNvc8PTDSbM5evY-DbKAuJietduAxmsO-3YlkY-xTsJQ4PQBIRPAwLKtMZGiLfehMaD7CzN/w1600/dhamaka-movies-b4u-channel-logo.jpg",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "576p",
-    "year": null,
-    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3844,19 +3520,6 @@
     "resolution": "576p",
     "year": null,
     "status": true,
-    "tags": "Movies,Hindi"
-  },
-  {
-    "name": "Hiff Movies",
-    "url": "https://desitashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/421447013fa84e266aa52a147e377d39.png?width=300",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3978,7 +3641,7 @@
   },
   {
     "name": "Sony MAX",
-    "url": "https://stream.ottplus.bd/live/sony_max_sd_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=300x225",
     "category": "Movies",
     "group": "Movies",
@@ -3986,12 +3649,12 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,Hindi"
   },
   {
     "name": "Sony MAX HD",
-    "url": "https://stream.ottplus.bd/live/max_hd_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/max_hd_abr/index.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=300x225",
     "category": "Movies",
     "group": "Movies",
@@ -3999,7 +3662,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,Hindi"
   },
   {
@@ -4068,19 +3731,6 @@
     "tags": "Movies,Bangla"
   },
   {
-    "name": "Zee Bollymovies",
-    "url": "https://amg17931-zee-amg17931c8-kogan-au-9555.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeebollymovies-koganau/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/zz/zee-bollymovies-in.png",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "English",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Movies,English"
-  },
-  {
     "name": "Zee Bollyworld",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640",
     "logo": "https://www.zeetvusa.com/wp-content/uploads/2020/07/zbollyworld-new-332-03.png",
@@ -4121,7 +3771,7 @@
   },
   {
     "name": "Zee Cinema HD",
-    "url": "https://stream.ottplus.bd/live/zee_cinema_hd_abr/index.m3u8",
+    "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Movies",
     "group": "Movies",
@@ -4129,7 +3779,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": false,
+    "status": true,
     "tags": "Movies,Hindi"
   },
   {
@@ -4263,7 +3913,7 @@
     "tags": "Music,Hindi,Classic"
   },
   {
-    "name": "Deewana",
+    "name": "Deewana HD",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
     "logo": "https://i.postimg.cc/9Q7G21N6/Deewana.png",
     "category": "Music",
@@ -4469,22 +4119,6 @@
     "year": null,
     "status": true,
     "tags": "Music,Marathi"
-  },
-  {
-    "name": "Saregama Hindi",
-    "url": "https://saregama.keralive.workers.dev/saregama/saregama_master.m3u8",
-    "logo": "https://yt3.googleusercontent.com/1DrkG_kzGIIuGVwknM-x0_S62gcCmEoLTr1L524IWeXb0nSuw5XXb58AyA7RVR_tvNJv09pASQ=s900-c-k-c0x00ffffff-no-rj",
-    "category": "Music",
-    "group": "Music",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Music,Hindi",
-    "headers": {
-      "Referer": "https://tulnit.com/"
-    }
   },
   {
     "name": "Shemaroo Filmigaane",
@@ -5230,7 +4864,7 @@
   {
     "name": "News9 Live",
     "url": "https://news9.cdn.runn.tv/amg01106c3/hls.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS9/images/LOGO_HD/image.png",
+    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png",
     "category": "News",
     "group": "News",
     "country": "IN",
@@ -5618,19 +5252,6 @@
     "tags": "Entertainment,Hindi"
   },
   {
-    "name": "Atrangii",
-    "url": "https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8",
-    "logo": "https://i0.wp.com/ottverse.com/wp-content/uploads/2023/11/atrangii.png",
-    "category": "Entertainment",
-    "group": "OTT",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Entertainment,Hindi"
-  },
-  {
     "name": "Bollywood 4U",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png",
@@ -5644,19 +5265,6 @@
     "tags": "Entertainment,Hindi"
   },
   {
-    "name": "Chana Jor",
-    "url": "https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png",
-    "category": "Comedy",
-    "group": "OTT",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": false,
-    "tags": "Entertainment,Hindi,Comedy"
-  },
-  {
     "name": "Colour Blind",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",
@@ -5668,19 +5276,6 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "Comedy King",
-    "url": "https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8",
-    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20251126T004249SQUARE.png&h=250",
-    "category": "Entertainment",
-    "group": "OTT",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Entertainment,Hindi,Comedy"
   },
   {
     "name": "Comedy Tadka",
@@ -5733,19 +5328,6 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
-  },
-  {
-    "name": "Kings Of Comedy",
-    "url": "https://cc-ejrl4az77gvl4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/OTM/OTM_KINGS_OF_COMEDY_SAMSUNG/playlist.m3u8",
-    "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_07_34-PM-1-185x278.png",
-    "category": "Entertainment",
-    "group": "OTT",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "Entertainment,Hindi,Comedy"
   },
   {
     "name": "Krutingg",
