@@ -4355,32 +4355,6 @@
     "tags": "News,Hindi"
   },
   {
-    "name": "Amar Ujala TV",
-    "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/amarujala.png?width=300",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
-  },
-  {
-    "name": "Awaaz India",
-    "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-    "logo": "https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
-  },
-  {
     "name": "BBC News",
     "url": "https://a8c74827.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0JCQ05ld3NfSExT/playlist.m3u8",
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BBC-logo_2000_X_1125_Transparent.png",
@@ -4392,19 +4366,6 @@
     "year": null,
     "status": true,
     "tags": "News,English"
-  },
-  {
-    "name": "Bollywood Masala",
-    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7451c147-8830-4959-8575-a1bcc0a79a13/manifest.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png?width=300",
-    "category": "Entertainment",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "News,Entertainment,Movies,Music,Hindi"
   },
   {
     "name": "CNBC Awaaz",
@@ -4470,19 +4431,6 @@
     "year": null,
     "status": true,
     "tags": "News,English"
-  },
-  {
-    "name": "Crime Tak",
-    "url": "https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8",
-    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png&h=250",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "720p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
   },
   {
     "name": "DD India",
@@ -4584,19 +4532,6 @@
     "country": "IN",
     "language": "Hindi",
     "resolution": "720p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
-  },
-  {
-    "name": "India TV Aap Ki Adalat",
-    "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -4916,7 +4851,7 @@
   {
     "name": "News9 Live",
     "url": "https://news9.cdn.runn.tv/amg01106c3/hls.m3u8",
-    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News9.png?width=300",
     "category": "News",
     "group": "News",
     "country": "IN",
@@ -5068,19 +5003,6 @@
     "year": null,
     "status": true,
     "tags": "News,Marathi"
-  },
-  {
-    "name": "The Lallantop",
-    "url": "https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8",
-    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20251015T010515SQUARE.png&h=250",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "1080p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
   },
   {
     "name": "Times Now",
@@ -5458,6 +5380,97 @@
     "year": null,
     "status": true,
     "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "Amar Ujala TV",
+    "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Amar_Ujala.jpeg",
+    "category": "News",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "Awaaz India",
+    "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+    "logo": "https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png",
+    "category": "News",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "Bollywood Masala",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7451c147-8830-4959-8575-a1bcc0a79a13/manifest.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png?width=300",
+    "category": "Entertainment",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Entertainment,Movies,Music,Hindi"
+  },
+  {
+    "name": "Crime Tak",
+    "url": "https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png&h=250",
+    "category": "News",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "India TV Aap Ki Adalat",
+    "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA",
+    "category": "News",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "name": "Pure Pink",
+    "url": "https://knocktv1.wiseplayout.com/PurePink/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PurePink.png",
+    "category": "Entertainment",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
+    "name": "The Lallantop",
+    "url": "https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8",
+    "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20251015T010515SQUARE.png&h=250",
+    "category": "News",
+    "group": "Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
   },
   {
     "name": "Aastha Bhajan",
