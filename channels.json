@@ -669,6 +669,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Colors (APAC)",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png?width=300",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "AU",
+    "language": "Hindi",
+    "resolution": "576p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
     "name": "Colors (AU)",
     "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png?width=300",
@@ -1055,6 +1068,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Shemaroo TV",
+    "url": "https://login.bheem.tv/bpk-tv/22431/output/index.mpd?keyId=1ef0ac2ffe7c56bc9873740402bff248&key=c1f453a5367057e62a0242d5228e765a",
+    "logo": "https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=300x225",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
     "epgChannelId": "Shemaroo.Umang.in",
     "name": "Shemaroo Umang",
     "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
@@ -1079,7 +1105,7 @@
     "language": "Bangla",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Bangla"
   },
   {
@@ -1106,7 +1132,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -1317,7 +1343,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,English"
   },
   {
@@ -1357,7 +1383,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi,Comedy"
   },
   {
@@ -2306,7 +2332,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English,Hollywood"
   },
   {
@@ -2319,7 +2345,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English,Hollywood"
   },
   {
@@ -2332,7 +2358,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English,Hollywood"
   },
   {
@@ -2345,7 +2371,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English,Hollywood"
   },
   {
@@ -2358,7 +2384,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "English,Movies,Hollywood"
   },
   {
@@ -2371,7 +2397,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "English,Movies,Hollywood"
   },
   {
@@ -2384,7 +2410,7 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "English,Movies,Hollywood"
   },
   {
@@ -2397,12 +2423,12 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "English,Movies,Hollywood"
   },
   {
     "name": "Runn Action",
-    "url": "https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8",
+    "url": "https://ssai.adstudio.runn.media/manifest/live/runntv/runnactn/airtel/master.m3u8",
     "logo": "https://image.airtel.tv/grandslam/content/2025_05_07/R_Action-960X540.png",
     "category": "Movies",
     "group": "Hollywood",
@@ -2423,7 +2449,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi,Hollywood"
   },
   {
@@ -2475,7 +2501,7 @@
     "language": "English",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English"
   },
   {
@@ -2762,8 +2788,22 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Nature,English"
+  },
+  {
+    "id": "Animal.Planet.English.in",
+    "name": "Animal Planet HD",
+    "url": "https://login.bheem.tv/bpk-tv/22052/output/index.mpd?keyId=8aaf27b53099505a8307b7df2f61b46c&key=83692149a2e59a8aae8e39ed6a1f6325",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
+    "category": "Nature",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Nature,Hindi"
   },
   {
     "name": "BBC Earth",
@@ -2774,6 +2814,20 @@
     "country": "US",
     "language": "English",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Infotainment,English"
+  },
+  {
+    "epgChannelId": "Discovery.Science.in",
+    "name": "Discovery Science",
+    "url": "https://login.bheem.tv/bpk-tv/22647/output/index.mpd?keyId=fd7754b16f8459f1b3ef2ffac4c2de28&key=7fbdfce2567136b26042962ca2e46fad",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png?lock=300x225",
+    "category": "Infotainment",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Infotainment,English"
@@ -2909,7 +2963,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi"
   },
   {
@@ -2975,7 +3029,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi"
   },
   {
@@ -3161,6 +3215,20 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
+    "status": false,
+    "tags": "Animation,Hindi"
+  },
+  {
+    "epgChannelId": "Cartoon.Network.Hindi.in",
+    "name": "Cartoon Network HD+",
+    "url": "https://login.bheem.tv/bpk-tv/22096/output/index.mpd?keyId=9452bb588219504397cc7dfc407356b5&key=1b3fc29b2616b147ebe119f2c6f9a02a",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png?lock=300x225",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
     "status": true,
     "tags": "Animation,Hindi"
   },
@@ -3175,7 +3243,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3188,7 +3256,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3296,6 +3364,19 @@
     "tags": "Kids,Cartoon,English"
   },
   {
+    "name": "LooLoo Kids",
+    "url": "https://loolookids.cdn.runn.tv/146-235-11653.m3u8",
+    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/thumbnail/cf5efe29-152b-474c-a26c-cdec6c950e9a.png",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Animation,English"
+  },
+  {
     "name": "Masha and The Bear",
     "url": "https://amg01954-amg01954c2-lg-nz-10293.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-lgnz/playlist.m3u8",
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/51aca0d83dfa2c1540cc9d51b0a5c9c3a407b44428d49b39b767684773bf1657.jpg",
@@ -3331,7 +3412,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3357,8 +3438,21 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
+  },
+  {
+    "name": "Nunu TV",
+    "url": "https://nunutv.cdn.runn.tv/runntv/stream/p_nunutv/playlist.m3u8",
+    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Animation,Hindi"
   },
   {
     "name": "Oggy and the Cockroaches",
@@ -3370,7 +3464,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3397,7 +3491,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3436,7 +3530,7 @@
     "language": "Hindi",
     "resolution": "576p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3476,7 +3570,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3515,7 +3609,7 @@
     "language": "English",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,English"
   },
   {
@@ -3646,7 +3740,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3664,7 +3758,7 @@
   },
   {
     "name": "B4U Kadak",
-    "url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://b4u-kadak.cdn.runn.tv/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png?width=300",
     "category": "Movies",
     "group": "Movies",
@@ -3677,7 +3771,7 @@
   },
   {
     "name": "B4U Movies",
-    "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://b4u-movies.cdn.runn.tv/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png?width=300",
     "category": "Movies",
     "group": "Movies",
@@ -3698,7 +3792,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3802,7 +3896,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3919,7 +4013,7 @@
     "language": "Hindi",
     "resolution": "360p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4003,7 +4097,7 @@
   },
   {
     "name": "Shemaroo Bollywood",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "url": "https://amg00864-amg00864c4-amgplt0637.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00864-amg00864c4-amgplt0637/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300",
     "category": "Movies",
     "group": "Movies",
@@ -4051,7 +4145,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4065,13 +4159,26 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
     "name": "South Station",
     "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
     "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260121T010840SQUARE.png&h=250",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Star Gold HD",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1633.mpd?keyId=6f715e0e16cf4b20bc94f6f85023974b&key=516785ded0aee1dafae22e2874528b2a",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/StarGoldHD11.png?width=300",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
@@ -4144,7 +4251,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4161,21 +4268,8 @@
     "tags": "Movies,Hindi"
   },
   {
-    "name": "Zee Cinema",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "category": "Movies",
-    "group": "Movies",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "480p",
-    "year": null,
-    "status": true,
-    "tags": "Movies,Hindi"
-  },
-  {
     "name": "Zee Cinema HD",
-    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/manifest.m3u8",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/230822/zeecinemaapachd.smil/playlist.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=300x225",
     "category": "Movies",
     "group": "Movies",
@@ -4196,7 +4290,7 @@
     "language": "Bangla",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Bangla"
   },
   {
@@ -4271,7 +4365,7 @@
   {
     "epgChannelId": "B4U.Music.in",
     "name": "B4U Music",
-    "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8",
+    "url": "https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png?width=300",
     "category": "Music",
     "group": "Music",
@@ -4292,7 +4386,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
@@ -4319,7 +4413,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
@@ -4345,7 +4439,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
@@ -4615,7 +4709,7 @@
     "language": "English",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,English"
   },
   {
@@ -4965,20 +5059,6 @@
     "tags": "News,English"
   },
   {
-    "epgChannelId": "Zee.Bharat.in",
-    "name": "Zee Bharat",
-    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png?width=300",
-    "category": "News",
-    "group": "News",
-    "country": "IN",
-    "language": "Hindi",
-    "resolution": "720p",
-    "year": null,
-    "status": true,
-    "tags": "News,Hindi"
-  },
-  {
     "name": "Zee News",
     "url": "https://dt3lrqnyx3dks.cloudfront.net/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png?width=300",
@@ -5230,6 +5310,20 @@
     "country": "IN",
     "language": "Hindi",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "News,Hindi"
+  },
+  {
+    "epgChannelId": "Zee.Bharat.in",
+    "name": "Zee Bharat",
+    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png?width=300",
+    "category": "News",
+    "group": "News - Opinion",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "News,Hindi"
@@ -6025,7 +6119,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Spiritual,Hindi"
   },
   {
@@ -6093,7 +6187,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Spiritual,Hindi"
   },
   {
