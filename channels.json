@@ -1055,6 +1055,19 @@
     "tags": "Entertainment,Hindi"
   },
   {
+    "name": "Shemaroo TV",
+    "url": "https://login.bheem.tv/bpk-tv/22431/output/index.mpd?keyId=1ef0ac2ffe7c56bc9873740402bff248&key=c1f453a5367057e62a0242d5228e765a",
+    "logo": "https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=300x225",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "720p",
+    "year": null,
+    "status": true,
+    "tags": "Entertainment,Hindi"
+  },
+  {
     "epgChannelId": "Shemaroo.Umang.in",
     "name": "Shemaroo Umang",
     "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
@@ -1079,7 +1092,7 @@
     "language": "Bangla",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Bangla"
   },
   {
@@ -1106,7 +1119,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi"
   },
   {
@@ -1357,7 +1370,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Entertainment,Hindi,Comedy"
   },
   {
@@ -2475,7 +2488,7 @@
     "language": "English",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,English"
   },
   {
@@ -2762,8 +2775,22 @@
     "language": "English",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Nature,English"
+  },
+  {
+    "id": "Animal.Planet.English.in",
+    "name": "Animal Planet HD",
+    "url": "https://login.bheem.tv/bpk-tv/22052/output/index.mpd?keyId=8aaf27b53099505a8307b7df2f61b46c&key=83692149a2e59a8aae8e39ed6a1f6325",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
+    "category": "Nature",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Nature,Hindi"
   },
   {
     "name": "BBC Earth",
@@ -2774,6 +2801,20 @@
     "country": "US",
     "language": "English",
     "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Infotainment,English"
+  },
+  {
+    "epgChannelId": "Discovery.Science.in",
+    "name": "Discovery Science",
+    "url": "https://login.bheem.tv/bpk-tv/22647/output/index.mpd?keyId=fd7754b16f8459f1b3ef2ffac4c2de28&key=7fbdfce2567136b26042962ca2e46fad",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png?lock=300x225",
+    "category": "Infotainment",
+    "group": "Infotainment",
+    "country": "IN",
+    "language": "English",
+    "resolution": "720p",
     "year": null,
     "status": true,
     "tags": "Infotainment,English"
@@ -2909,7 +2950,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi"
   },
   {
@@ -2975,7 +3016,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Infotainment,Hindi"
   },
   {
@@ -3161,6 +3202,20 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
+    "status": false,
+    "tags": "Animation,Hindi"
+  },
+  {
+    "epgChannelId": "Cartoon.Network.Hindi.in",
+    "name": "Cartoon Network HD+",
+    "url": "https://login.bheem.tv/bpk-tv/22096/output/index.mpd?keyId=9452bb588219504397cc7dfc407356b5&key=1b3fc29b2616b147ebe119f2c6f9a02a",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png?lock=300x225",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
     "status": true,
     "tags": "Animation,Hindi"
   },
@@ -3175,7 +3230,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3188,7 +3243,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3296,6 +3351,19 @@
     "tags": "Kids,Cartoon,English"
   },
   {
+    "name": "LooLoo Kids",
+    "url": "https://loolookids.cdn.runn.tv/146-235-11653.m3u8",
+    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/thumbnail/cf5efe29-152b-474c-a26c-cdec6c950e9a.png",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "English",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Animation,English"
+  },
+  {
     "name": "Masha and The Bear",
     "url": "https://amg01954-amg01954c2-lg-nz-10293.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-lgnz/playlist.m3u8",
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/51aca0d83dfa2c1540cc9d51b0a5c9c3a407b44428d49b39b767684773bf1657.jpg",
@@ -3331,7 +3399,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3357,8 +3425,21 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
+  },
+  {
+    "name": "Nunu TV",
+    "url": "https://nunutv.cdn.runn.tv/runntv/stream/p_nunutv/playlist.m3u8",
+    "logo": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png",
+    "category": "Animation",
+    "group": "Kids",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Animation,Hindi"
   },
   {
     "name": "Oggy and the Cockroaches",
@@ -3370,7 +3451,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3397,7 +3478,7 @@
     "language": "Hindi",
     "resolution": "1080p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3436,7 +3517,7 @@
     "language": "Hindi",
     "resolution": "576p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3476,7 +3557,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,Hindi"
   },
   {
@@ -3515,7 +3596,7 @@
     "language": "English",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Kids,Cartoon,English"
   },
   {
@@ -3646,7 +3727,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3698,7 +3779,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3802,7 +3883,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -3919,7 +4000,7 @@
     "language": "Hindi",
     "resolution": "360p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4051,7 +4132,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4065,13 +4146,26 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
     "name": "South Station",
     "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
     "logo": "https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260121T010840SQUARE.png&h=250",
+    "category": "Movies",
+    "group": "Movies",
+    "country": "IN",
+    "language": "Hindi",
+    "resolution": "1080p",
+    "year": null,
+    "status": true,
+    "tags": "Movies,Hindi"
+  },
+  {
+    "name": "Star Gold HD",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1633.mpd?keyId=6f715e0e16cf4b20bc94f6f85023974b&key=516785ded0aee1dafae22e2874528b2a",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/StarGoldHD11.png?width=300",
     "category": "Movies",
     "group": "Movies",
     "country": "IN",
@@ -4144,7 +4238,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Hindi"
   },
   {
@@ -4196,7 +4290,7 @@
     "language": "Bangla",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Movies,Bangla"
   },
   {
@@ -4292,7 +4386,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
@@ -4319,7 +4413,7 @@
     "language": "Hindi",
     "resolution": "480p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
@@ -4345,7 +4439,7 @@
     "language": "Hindi",
     "resolution": "720p",
     "year": null,
-    "status": true,
+    "status": false,
     "tags": "Music,Hindi"
   },
   {
